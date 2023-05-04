@@ -34,6 +34,8 @@ class DrocaveProductImport implements ToModel, WithHeadingRow
                 'Authorization' => 'Basic ' . base64_encode($consumer_key.':'.$consumer_secret),
             ])->asForm()->put($domain."products/{$product_id}", [
                 'stock_quantity' => $row['stock'],
+                'price' => $row['pvp'],
+
             ]);
             // Do something with the response data
         } else {
