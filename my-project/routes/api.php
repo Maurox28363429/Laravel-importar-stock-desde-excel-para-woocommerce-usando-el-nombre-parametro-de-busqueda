@@ -15,6 +15,7 @@ use Maatwebsite\Excel\Facades\Excel;
 |
 */
 
+Route::post('/eventos', "App\Http\Controllers\EventosController@store");
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
