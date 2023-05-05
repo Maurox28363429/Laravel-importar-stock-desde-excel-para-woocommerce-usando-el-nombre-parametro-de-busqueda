@@ -29,9 +29,9 @@ Route::get('/eventos', function () {
 
 Route::get('/eventos/destroy', function (Request $request) {
     $id=$request->id;
-    eventos::find($id)->delete();
-    puestos::query()->where("evento_id",$id)->delete();
     ticket::query()->where("evento_id",$id)->delete();
+    puestos::query()->where("evento_id", $id)->delete();
+    eventos::find($id)->delete();
     return view('eventos', [
         'eventos' => eventos::paginate(15)
     ]);
@@ -40,7 +40,7 @@ Route::get('/eventos/destroy', function (Request $request) {
 Route::get('puestos', function (Request $request) {
     $id=$request->id;
     return view('puestos',[
-        'puestos'=>puestos::query()->where("evento_id",$id)->paginate(15)
+        'puestos'=>puestos::query()->where("evento_id",$id)->get()
     ]);
 })->name('puestos');
 Route::get('mau',function(){

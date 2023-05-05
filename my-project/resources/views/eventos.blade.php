@@ -7,10 +7,11 @@
         <tr>
             <th>ID</th>
             <th>Evento</th>
-            <th>Puestos</th>
+            <th>Mesas</th>
             <th>Disponible</th>
             <th>Ocupado</th>
-            <th>Generado</th>
+            <th>Ingresos</th>
+            <th>Creado</th>
             <th>Acción</th>
         </tr>
     </thead>
@@ -32,6 +33,9 @@
             </td>
             <td>
                 {{$item->puestos_ocupados}}
+            </td>
+            <td>
+                {{$item->precio * $item->puestos_ocupados}} $
             </td>
              <td>
                 {{$item->created_at}}
@@ -75,7 +79,7 @@
                 <label for="precio">Precio</label>
             </div>
             <div class="col s12">
-                <h5>Para el esquema de puestos</h5>
+                <h5>Para el esquema de mesas</h5>
             </div>
             <div class="input-field col s12 m6">
                 <input id="columnas" type="number" class="validate" name="columnas">
