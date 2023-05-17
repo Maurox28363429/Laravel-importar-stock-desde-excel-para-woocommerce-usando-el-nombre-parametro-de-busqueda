@@ -2,7 +2,7 @@
 @section('content')
 
 <div class="row">
-@foreach($puestos as $item)
+@foreach($puestos as $index=>$item)
     <div class="col s3 m4 l2"
         @if($item->disponible ==true)
             onclick="agregar('{{$item->id}}','{{$item->disponible}}')"
@@ -18,7 +18,7 @@
             @endif
         </section>
         <div class="center">
-            #{{$item->id}}
+            #{{$index+1}}
             <br>
             @if($item->disponible ==true)
                 Disponible
@@ -91,7 +91,7 @@ const agregar =(id,status)=>{
         autocapitalize: 'off'
     },
     showCancelButton: true,
-    confirmButtonText: 'Look up',
+    confirmButtonText: 'Confirmar',
     showLoaderOnConfirm: true,
     preConfirm: async (nombre2) => {
     await fetch("{{url('api/ocupar')}}/"+id,{

@@ -1,0 +1,3652 @@
+[
+  {
+    "nombre": "ACECLOFENACO 100MG CAJA X 20 TABLETAS",
+    "stock": 1,
+    "pvp": 2.52
+  },
+  {
+    "nombre": "ACETAMINOFEN 300MG/2ML AMP ( PARACETAMOL)",
+    "stock": 18,
+    "pvp": 0.47
+  },
+  {
+    "nombre": "ACETAMINOFEN 500MG BLISTER X 10 TABLETAS",
+    "stock": 11,
+    "pvp": 3.17
+  },
+  {
+    "nombre": "ACETAMINOFEN 500MG BLISTER X 10 TABLETAS",
+    "stock": 10,
+    "pvp": 0.88
+  },
+  {
+    "nombre": "ACETAMINOFEN 650MG-CAFEINA-ERGOTAMINA BLISTER X 10 TAB",
+    "stock": 9,
+    "pvp": 2.03
+  },
+  {
+    "nombre": "ACETAMINOFEN SUPOSITORIO X 5 UNIDADES",
+    "stock": 129,
+    "pvp": 2.95
+  },
+  {
+    "nombre": "ACETAMINOFEN SUPOSITORIO X 5 UNIDADES",
+    "stock": 98,
+    "pvp": 2.95
+  },
+  {
+    "nombre": "ACETAMINOFEN-CLORFENIRAMINA 500MG/2M BLISTER POR 10 TABLETAS",
+    "stock": 10,
+    "pvp": 0.88
+  },
+  {
+    "nombre": "ACETAMINOFEN-CLORFENIRAMINA 500MG/4MG BLISTER POR 10 TABLETAS",
+    "stock": 10,
+    "pvp": 0.88
+  },
+  {
+    "nombre": "ACICLOVIR 200MG AMPOLLA",
+    "stock": 2,
+    "pvp": 2.58
+  },
+  {
+    "nombre": "ACICLOVIR 400MG BLISTER X 10 TABLETAS",
+    "stock": 7,
+    "pvp": 2.52
+  },
+  {
+    "nombre": "ACICLOVIR 5% CREMA",
+    "stock": 17,
+    "pvp": 1.63
+  },
+  {
+    "nombre": "ACIDO ACETILSALICILICO 81 MG BLISTER X 10 TAB",
+    "stock": 61,
+    "pvp": 0.6
+  },
+  {
+    "nombre": "ACIDO ASCORBICO 500MG/2ML",
+    "stock": 50,
+    "pvp": 0.85
+  },
+  {
+    "nombre": "ACIDO ASCORBICO AMPOLLA 100MG/2ML",
+    "stock": 200,
+    "pvp": 0.23
+  },
+  {
+    "nombre": "ACIDO FOLICO 10MG X BLISTER 10TAB",
+    "stock": 43,
+    "pvp": 1.08
+  },
+  {
+    "nombre": "ACIDO FOLICO 5MG X 30 COMPRIMIDOS",
+    "stock": 10,
+    "pvp": 2.03
+  },
+  {
+    "nombre": "ACIDO IBANDRONICO 150MG 1 TABLETA",
+    "stock": 5,
+    "pvp": 3.38
+  },
+  {
+    "nombre": "ACIDO TRANEXAMICO 500MG/5ML",
+    "stock": 175,
+    "pvp": 0.93
+  },
+  {
+    "nombre": "ACIDO VALPROICO 500MG BLISTER POR 10 TABLETAS",
+    "stock": 6,
+    "pvp": 2.8
+  },
+  {
+    "nombre": "ACIDO ZOLEDRONICO 4MG/5ML AMPOLLA",
+    "stock": 2,
+    "pvp": 38.88
+  },
+  {
+    "nombre": "ADENOSINE 6MG/2ML AMPOLLA",
+    "stock": 47,
+    "pvp": 10
+  },
+  {
+    "nombre": "ADHESIVO EUROFAN 9.14X5CMS",
+    "stock": 12,
+    "pvp": 5
+  },
+  {
+    "nombre": "ADHESIVO Q. 2,5CMS",
+    "stock": 7,
+    "pvp": 6.67
+  },
+  {
+    "nombre": "ADHESIVO QUIRURGICO 5CM",
+    "stock": 6,
+    "pvp": 2.33
+  },
+  {
+    "nombre": "ADHESIVO QUIRURGICO GIDAUS COLOR PIEL 2.5CMSX5CMS",
+    "stock": 9,
+    "pvp": 6.55
+  },
+  {
+    "nombre": "ADHESIVO QUIRURGICO ROSPITAL 5CMX9,1CMS",
+    "stock": 1,
+    "pvp": 2.2
+  },
+  {
+    "nombre": "ADRENALINA 1GR/1ML",
+    "stock": 109,
+    "pvp": 0.63
+  },
+  {
+    "nombre": "ADRENALINA RACEMICA SOLUCION PARA INHALACION USP 2,25% AMPOLLA",
+    "stock": 30,
+    "pvp": 5.27
+  },
+  {
+    "nombre": "AGUA DESTILADA FRASCO 500ML",
+    "stock": 184,
+    "pvp": 4.77
+  },
+  {
+    "nombre": "AGUA OXIGENA 3% GALON",
+    "stock": 2,
+    "pvp": 11.28
+  },
+  {
+    "nombre": "AGUA OXIGENA 500CC",
+    "stock": 1,
+    "pvp": 1.73
+  },
+  {
+    "nombre": "AGUJA EPIDURAL 16G",
+    "stock": 2,
+    "pvp": 1.33
+  },
+  {
+    "nombre": "AGUJA HIPODERMICA 18G X 1 1/2",
+    "stock": 100,
+    "pvp": 0.08
+  },
+  {
+    "nombre": "AGUJA HIPODERMICA 19GX1 1/2",
+    "stock": 400,
+    "pvp": 0.08
+  },
+  {
+    "nombre": "AGUJA HIPODERMICA 21G 1/1/2",
+    "stock": 100,
+    "pvp": 0.08
+  },
+  {
+    "nombre": "AGUJA HIPODERMICA 22GX1 1/2",
+    "stock": 490,
+    "pvp": 0.08
+  },
+  {
+    "nombre": "AGUJA HIPODERMICA 23G X 1",
+    "stock": 100,
+    "pvp": 0.08
+  },
+  {
+    "nombre": "AGUJA HIPODERMICA 23GX1 1/2",
+    "stock": 700,
+    "pvp": 0.08
+  },
+  {
+    "nombre": "AGUJA HIPODERMICA 25GX1 1/2",
+    "stock": 700,
+    "pvp": 0.08
+  },
+  {
+    "nombre": "AGUJA HIPODERMICA 27G",
+    "stock": 100,
+    "pvp": 0.08
+  },
+  {
+    "nombre": "AGUJA HIPODERMICA IMSUMEDICAL 25G X 5/8",
+    "stock": 200,
+    "pvp": 0.08
+  },
+  {
+    "nombre": "AGUJA HIPODERMICA INSUMEDICAL 22G",
+    "stock": 280,
+    "pvp": 0.08
+  },
+  {
+    "nombre": "AGUJA HIPODERMICA. 27G",
+    "stock": 100,
+    "pvp": 0.08
+  },
+  {
+    "nombre": "AGUJA PERICRANEA 21CAJA X 100",
+    "stock": 100,
+    "pvp": 0.13
+  },
+  {
+    "nombre": "AGUJA PERICRANEAL SCALP #21",
+    "stock": 88,
+    "pvp": 0.13
+  },
+  {
+    "nombre": "AGUJA TIPO PLUMA 21GX1 1/2",
+    "stock": 200,
+    "pvp": 0.25
+  },
+  {
+    "nombre": "AGUJA TIPO PLUMA PARA EXTRACCION DE SANGRE 23G X 1 1/2",
+    "stock": 100,
+    "pvp": 0.25
+  },
+  {
+    "nombre": "AGUJAS HIPORDERMICAS 18X1 CAJA DE 100",
+    "stock": 290,
+    "pvp": 0.07
+  },
+  {
+    "nombre": "ALBENDAZOL 200MG CAJA X 2 TABLETAS",
+    "stock": 104,
+    "pvp": 0.67
+  },
+  {
+    "nombre": "ALBENDAZOL 400MG MASTICABLE BLISTER X 10TAB",
+    "stock": 7,
+    "pvp": 2.07
+  },
+  {
+    "nombre": "ALBENDAZOL 400MG/10ML SUSPENSION",
+    "stock": 12,
+    "pvp": 1.5
+  },
+  {
+    "nombre": "ALBUMINA HUMANA 20% X 50ML",
+    "stock": 4,
+    "pvp": 75.5
+  },
+  {
+    "nombre": "ALCOHOL 120 CC",
+    "stock": 1,
+    "pvp": 1.53
+  },
+  {
+    "nombre": "ALCOHOL 240CC",
+    "stock": 1,
+    "pvp": 1
+  },
+  {
+    "nombre": "ALCOHOL 500CC",
+    "stock": 5,
+    "pvp": 5
+  },
+  {
+    "nombre": "ALCOHOL 500CC SPRAY",
+    "stock": 2,
+    "pvp": 5
+  },
+  {
+    "nombre": "ALCOHOL 950ML",
+    "stock": 1,
+    "pvp": 6.48
+  },
+  {
+    "nombre": "ALCOHOL ABSOLUTO ALNA",
+    "stock": 1,
+    "pvp": 4.4
+  },
+  {
+    "nombre": "ALCOHOL GALON",
+    "stock": 1,
+    "pvp": 15.4
+  },
+  {
+    "nombre": "ALCOHOL ISOPROPILICO 1 LT",
+    "stock": 10,
+    "pvp": 5.3
+  },
+  {
+    "nombre": "ALCOHOL SPRAY 120CC",
+    "stock": 2,
+    "pvp": 0.78
+  },
+  {
+    "nombre": "AMIKACINA 100MG/ 2ML",
+    "stock": 100,
+    "pvp": 0.8
+  },
+  {
+    "nombre": "AMIKACINA 100MG/2ML",
+    "stock": 100,
+    "pvp": 0.62
+  },
+  {
+    "nombre": "AMIKACINA 100MG/2ML AMPOLLA",
+    "stock": 30,
+    "pvp": 1
+  },
+  {
+    "nombre": "AMIKACINA 500MG/2ML",
+    "stock": 40,
+    "pvp": 1.5
+  },
+  {
+    "nombre": "AMIKACINA 500MG/2ML",
+    "stock": 14,
+    "pvp": 1.33
+  },
+  {
+    "nombre": "AMIKACINA 500MG/2ML",
+    "stock": 20,
+    "pvp": 1.43
+  },
+  {
+    "nombre": "AMINOFILINA 250MG/10ML",
+    "stock": 175,
+    "pvp": 1.03
+  },
+  {
+    "nombre": "AMIODARONA CLORHIDRATO 150MG/3ML",
+    "stock": 98,
+    "pvp": 1.33
+  },
+  {
+    "nombre": "AMLODIPINA 10MG BLISTER X 10 TAB",
+    "stock": 24,
+    "pvp": 0.73
+  },
+  {
+    "nombre": "AMLODIPINA 10MG CAJA X 10 COMPRIMIDOS",
+    "stock": 5,
+    "pvp": 1.47
+  },
+  {
+    "nombre": "AMLODIPINA 5MG BLISTER X 10 TAB",
+    "stock": 80,
+    "pvp": 0.48
+  },
+  {
+    "nombre": "AMOXICILINA 500MG CAJA X 10TABLETAS",
+    "stock": 10,
+    "pvp": 1.93
+  },
+  {
+    "nombre": "AMOXICILINA SUSPENSION ORAL 250MG/5ML",
+    "stock": 10,
+    "pvp": 3.47
+  },
+  {
+    "nombre": "AMPICILINA + SULBACTAN 1.5GR AMPOLLA",
+    "stock": 10,
+    "pvp": 1.57
+  },
+  {
+    "nombre": "AMPICILINA 1GR AMPOLLA",
+    "stock": 50,
+    "pvp": 1.53
+  },
+  {
+    "nombre": "AMPICILINA 1GR AMPOLLA",
+    "stock": 40,
+    "pvp": 1.38
+  },
+  {
+    "nombre": "AMPICILINA SULBACTAM 1,5 AMPOLLA",
+    "stock": 171,
+    "pvp": 0.93
+  },
+  {
+    "nombre": "AMPICILINA SULBACTAN 1.5GR AMPOLLA",
+    "stock": 4,
+    "pvp": 1.48
+  },
+  {
+    "nombre": "AMPICILINA SULBACTAN 1.5GR AMPOLLAS",
+    "stock": 11,
+    "pvp": 1.57
+  },
+  {
+    "nombre": "ANFOTERICINA B AMP 50MG",
+    "stock": 10,
+    "pvp": 32.08
+  },
+  {
+    "nombre": "APLICADORES DE MADERA POR PAQUETE DE 100",
+    "stock": 50,
+    "pvp": 0.03
+  },
+  {
+    "nombre": "APOSITO CON ALMOHADILLA COVAWOUND FOAM 10X10CMS",
+    "stock": 1,
+    "pvp": 2.5
+  },
+  {
+    "nombre": "APOSITO CON PAD IMPERMEABLE 8X10CMS",
+    "stock": 37,
+    "pvp": 1
+  },
+  {
+    "nombre": "APOSITO CUTIMED 15 X 15 CMS",
+    "stock": 1,
+    "pvp": 3.33
+  },
+  {
+    "nombre": "APOSITO DE ALGINATO 10X20CMS",
+    "stock": 1,
+    "pvp": 16.22
+  },
+  {
+    "nombre": "APOSITO HAEMOSTATIC ABSORBENTE CUASPOM",
+    "stock": 1,
+    "pvp": 8.33
+  },
+  {
+    "nombre": "APOSITO HIDROCOLLOID 10.2 X 10.2",
+    "stock": 112,
+    "pvp": 13.9
+  },
+  {
+    "nombre": "APOSITO HIDROCOLLOID 15X15CMS",
+    "stock": 16,
+    "pvp": 13.9
+  },
+  {
+    "nombre": "APOSITO IV TRANSPARENTE COVAVIEW IV 8,5CMX10.5CMS",
+    "stock": 1,
+    "pvp": 3.48
+  },
+  {
+    "nombre": "APOSITO IV TRANSPARENTE COVIEW IV 6X7CMS",
+    "stock": 1,
+    "pvp": 3.48
+  },
+  {
+    "nombre": "APOSITO TRANSPARENTE 8.5CMSX10.5CMS",
+    "stock": 5,
+    "pvp": 1.67
+  },
+  {
+    "nombre": "APOSITO TRANSPARENTE 8.5CMSX10.5CMS",
+    "stock": 5,
+    "pvp": 1.67
+  },
+  {
+    "nombre": "APOSITO TRANSPARENTE CON ALMOHADILLA 10X25CM",
+    "stock": 100,
+    "pvp": 2.15
+  },
+  {
+    "nombre": "APOSITO TRANSPARENTE CON ALMOHADILLA 6X8CM",
+    "stock": 50,
+    "pvp": 1.07
+  },
+  {
+    "nombre": "ASPIRADOR DE GLERAS",
+    "stock": 1,
+    "pvp": 331.67
+  },
+  {
+    "nombre": "ATENOLOL 100MG CAJA 10 BLISTER X 14 TABLETAS",
+    "stock": 47,
+    "pvp": 0.77
+  },
+  {
+    "nombre": "ATENOLOL 50MG CAJA 10 BLISTER X 10 TAB",
+    "stock": 27,
+    "pvp": 0.57
+  },
+  {
+    "nombre": "ATENOLOL 5MG/10ML AMPOLLA",
+    "stock": 72,
+    "pvp": 2.95
+  },
+  {
+    "nombre": "ATORVASTATINA 20MG BLISTER X 10 TAB.",
+    "stock": 30,
+    "pvp": 1.27
+  },
+  {
+    "nombre": "ATORVASTATINA 40MG BLISTER X 10 TAB.",
+    "stock": 9,
+    "pvp": 1.63
+  },
+  {
+    "nombre": "ATROPINA SULFATO 1MG/1ML AMP",
+    "stock": 105,
+    "pvp": 0.45
+  },
+  {
+    "nombre": "AZITROMICINA 200MG/5ML",
+    "stock": 2,
+    "pvp": 3.15
+  },
+  {
+    "nombre": "AZITROMICINA 500MG",
+    "stock": 1,
+    "pvp": 3.96
+  },
+  {
+    "nombre": "AZITROMICINA 500MG BLISTER X 3",
+    "stock": 27,
+    "pvp": 3.3
+  },
+  {
+    "nombre": "AZITROMICINA 500MG CAJA X 3 TABLETAS",
+    "stock": 5,
+    "pvp": 3.58
+  },
+  {
+    "nombre": "AZTREONAN 1.5GR",
+    "stock": 10,
+    "pvp": 10
+  },
+  {
+    "nombre": "BACITRACINA 500UI/G UNGUENTO",
+    "stock": 1,
+    "pvp": 4.25
+  },
+  {
+    "nombre": "BAJA LENGUA CAJA X 100",
+    "stock": 6,
+    "pvp": 3.52
+  },
+  {
+    "nombre": "BANDEJA DE DRENAJE TORAXICO PLEURO-VAC",
+    "stock": 2,
+    "pvp": 110
+  },
+  {
+    "nombre": "BARRERA CUTANEA PARA BOLSA COLOSTOMIA 44MM",
+    "stock": 5,
+    "pvp": 5
+  },
+  {
+    "nombre": "BATA DE CIRUJANO ESTERIL 40GR S/P",
+    "stock": 102,
+    "pvp": 3.12
+  },
+  {
+    "nombre": "BATA DE CIRUJANO VD",
+    "stock": 1,
+    "pvp": 2.57
+  },
+  {
+    "nombre": "BATA DE PACIENTE DESCARTABLE",
+    "stock": 260,
+    "pvp": 1.08
+  },
+  {
+    "nombre": "BECLOMETASONA DIPROPIONATO/FENILEFRINA/LIDOCAINA",
+    "stock": 2,
+    "pvp": 2.63
+  },
+  {
+    "nombre": "BETAHISTINA 16MG CAJA X 50 TAB",
+    "stock": 2,
+    "pvp": 18.17
+  },
+  {
+    "nombre": "BETAMETASONA 4MG/1ML AMP. IM/IV",
+    "stock": 94,
+    "pvp": 0.57
+  },
+  {
+    "nombre": "BETAMETASONA 4MG/1ML AMPOLLA",
+    "stock": 18,
+    "pvp": 1.07
+  },
+  {
+    "nombre": "BETAMETASONA 4MG/1ML AMPOLLA",
+    "stock": 30,
+    "pvp": 0.57
+  },
+  {
+    "nombre": "BETAMETASONA 4MG/ML",
+    "stock": 150,
+    "pvp": 1
+  },
+  {
+    "nombre": "BICARBONATO DE SODIO 5% SOL.",
+    "stock": 91,
+    "pvp": 5.42
+  },
+  {
+    "nombre": "BICARBONATO DE SODIO 5% SOL.",
+    "stock": 24,
+    "pvp": 5.42
+  },
+  {
+    "nombre": "BISOPROLOL 2,5MG CAJA X 20 COMPRIMIDOS",
+    "stock": 5,
+    "pvp": 4.67
+  },
+  {
+    "nombre": "BISOPROLOL 5MG BLISTER X 10 TABLETA",
+    "stock": 13,
+    "pvp": 0.62
+  },
+  {
+    "nombre": "BOLSA COLOSTOMIA 2 PIEZAS (57MM & 44MM)",
+    "stock": 25,
+    "pvp": 3.47
+  },
+  {
+    "nombre": "BOLSA DE DESECHO PEQUEÑA",
+    "stock": 50,
+    "pvp": 0.88
+  },
+  {
+    "nombre": "BOLSAS DESECHOS 40 KG",
+    "stock": 73,
+    "pvp": 0.82
+  },
+  {
+    "nombre": "BOMBA DE INFUSION-CBI 100ML-2ML",
+    "stock": 12,
+    "pvp": 15.88
+  },
+  {
+    "nombre": "BRIMONIDINA 0,2% 5ML GOTAS",
+    "stock": 4,
+    "pvp": 5.48
+  },
+  {
+    "nombre": "BRIXFLU ACETAMINOFEN/CLORFENIRAMINA",
+    "stock": 3,
+    "pvp": 6.33
+  },
+  {
+    "nombre": "BROMURO DE IPRATROPIO 0,5ML/2ML X SOBRE 5AMPOLLAS",
+    "stock": 10,
+    "pvp": 6.5
+  },
+  {
+    "nombre": "BROMURO DE ROCURONIO 50MG/5ML",
+    "stock": 2,
+    "pvp": 4.32
+  },
+  {
+    "nombre": "BROMURO DE ROCURONIO 50MG/5ML",
+    "stock": 36,
+    "pvp": 6.33
+  },
+  {
+    "nombre": "BUDESONIDA 0.5MG/2ML 5AMPOLLAS X SOBRE",
+    "stock": 15,
+    "pvp": 5.83
+  },
+  {
+    "nombre": "BUMETANIDA 0,5MG/2ML ( BUMELEX)  CAJA X 3 AMP",
+    "stock": 1,
+    "pvp": 8.72
+  },
+  {
+    "nombre": "BUPIVACAINA CLORHIDRATO 50MG/10ML",
+    "stock": 25,
+    "pvp": 2.38
+  },
+  {
+    "nombre": "CALCIO CARBONATO 600 MG TAB. MASTICABLE",
+    "stock": 5,
+    "pvp": 0.7
+  },
+  {
+    "nombre": "CAMPO ABIERTO",
+    "stock": 521,
+    "pvp": 0.67
+  },
+  {
+    "nombre": "CAMPO CERRADO",
+    "stock": 3,
+    "pvp": 0.93
+  },
+  {
+    "nombre": "CANDESARTAN 16MG CAJA X 10 TABLETAS",
+    "stock": 6,
+    "pvp": 4.85
+  },
+  {
+    "nombre": "CANDESARTAN 16MG CAJA X 30TAB",
+    "stock": 1,
+    "pvp": 8.5
+  },
+  {
+    "nombre": "CANDESARTAN 8MG CAJA X 30  TAB",
+    "stock": 1,
+    "pvp": 6.57
+  },
+  {
+    "nombre": "CANULA DE MAYO N°7",
+    "stock": 20,
+    "pvp": 2.55
+  },
+  {
+    "nombre": "CANULA DE MAYO N°8",
+    "stock": 60,
+    "pvp": 2.55
+  },
+  {
+    "nombre": "CANULA DE MAYO N°9",
+    "stock": 10,
+    "pvp": 2.55
+  },
+  {
+    "nombre": "CANULA DE YANKAUER CON CONEXION, TUBO X 2MTS",
+    "stock": 14,
+    "pvp": 8.35
+  },
+  {
+    "nombre": "CANULA NASAL ADULTO (BIGOTE)",
+    "stock": 199,
+    "pvp": 2.83
+  },
+  {
+    "nombre": "CANULA NASAL PEDIATRICA",
+    "stock": 3,
+    "pvp": 1.92
+  },
+  {
+    "nombre": "CANULA NASAL PEDIATRICO",
+    "stock": 62,
+    "pvp": 1.92
+  },
+  {
+    "nombre": "CAPTOPRIL 50MG X BLISTER 10TAB",
+    "stock": 30,
+    "pvp": 0.58
+  },
+  {
+    "nombre": "CARBAMAZEPINA 200MG BLISTER X 10 TAB.",
+    "stock": 27,
+    "pvp": 1.77
+  },
+  {
+    "nombre": "CARBAMAZEPINA 200MG BLISTER X 10 TABLETAS",
+    "stock": 10,
+    "pvp": 1.77
+  },
+  {
+    "nombre": "CARVEDILOL 12,5 MG BLISTER X 10 TAB",
+    "stock": 10,
+    "pvp": 1.5
+  },
+  {
+    "nombre": "CARVEDILOL 12,5 MG BLISTER X 10 TAB",
+    "stock": 28,
+    "pvp": 1.5
+  },
+  {
+    "nombre": "CARVEDILOL 12,5MG CAJA X 15 COMPRIMIDOS",
+    "stock": 5,
+    "pvp": 3.83
+  },
+  {
+    "nombre": "CARVEDILOL 6,25MG",
+    "stock": 20,
+    "pvp": 0.8
+  },
+  {
+    "nombre": "CATETER DE HEMODIALISIS 14FR",
+    "stock": 6,
+    "pvp": 57
+  },
+  {
+    "nombre": "CATETER ENDOTRAQUEAL BILUMEN",
+    "stock": 3,
+    "pvp": 91.67
+  },
+  {
+    "nombre": "CATETER TORAXICO N°18",
+    "stock": 2,
+    "pvp": 8.02
+  },
+  {
+    "nombre": "CATETER TRILUMEN 7FR X 20CM",
+    "stock": 13,
+    "pvp": 49.17
+  },
+  {
+    "nombre": "CATETER TROCAR N° 34",
+    "stock": 1,
+    "pvp": 11.93
+  },
+  {
+    "nombre": "CATETER TROCAR N° 38",
+    "stock": 1,
+    "pvp": 11.93
+  },
+  {
+    "nombre": "CATETER TROCAR N°26",
+    "stock": 1,
+    "pvp": 11.93
+  },
+  {
+    "nombre": "CATETER TROCAR N°32",
+    "stock": 2,
+    "pvp": 11.93
+  },
+  {
+    "nombre": "CATHETER DE SUCCION CON CONTROL 10FR",
+    "stock": 200,
+    "pvp": 1.67
+  },
+  {
+    "nombre": "CATHETER DE SUCCION CON CONTROL 12FR",
+    "stock": 200,
+    "pvp": 1.67
+  },
+  {
+    "nombre": "CATHETER DE SUCCION CON CONTROL 16FR",
+    "stock": 200,
+    "pvp": 1.67
+  },
+  {
+    "nombre": "CATHETER DOBLE J",
+    "stock": 2,
+    "pvp": 62.53
+  },
+  {
+    "nombre": "CATHETER HEMODIALISIS BILUMEN FR12 2X 20CM",
+    "stock": 1,
+    "pvp": 88.24
+  },
+  {
+    "nombre": "CATHETER SILICON 3VIAS 22FR",
+    "stock": 15,
+    "pvp": 3.33
+  },
+  {
+    "nombre": "CATHETER SILICON 3VIAS 24FR",
+    "stock": 15,
+    "pvp": 3.33
+  },
+  {
+    "nombre": "CEFADROXILO PARA SUSPENSION USP 250MG/5ML",
+    "stock": 10,
+    "pvp": 4.67
+  },
+  {
+    "nombre": "CEFADROXILO SUSP 250MG/5ML",
+    "stock": 1,
+    "pvp": 8.17
+  },
+  {
+    "nombre": "CEFALEXIMA 500MG BLISTER X 10 TAB",
+    "stock": 6,
+    "pvp": 2.67
+  },
+  {
+    "nombre": "CEFALOTINA 1GR AMP.",
+    "stock": 50,
+    "pvp": 2.2
+  },
+  {
+    "nombre": "CEFEPIMA 1GR AMPOLLA IM/IV",
+    "stock": 108,
+    "pvp": 3.83
+  },
+  {
+    "nombre": "CEFEPIME 1GR AMPOLLA",
+    "stock": 1,
+    "pvp": 3.83
+  },
+  {
+    "nombre": "CEFIXIMA 100MG/5ML",
+    "stock": 2,
+    "pvp": 5.2
+  },
+  {
+    "nombre": "CEFIXIMA 100MG/5ML POLVO PARA PREPARAR 60ML DE SUSPENSION",
+    "stock": 12,
+    "pvp": 5.2
+  },
+  {
+    "nombre": "CEFIXIMA 400MG BLISTER X 10 TAB.",
+    "stock": 10,
+    "pvp": 5.35
+  },
+  {
+    "nombre": "CEFOTAXIMA 1G AMPOLLA",
+    "stock": 50,
+    "pvp": 0.93
+  },
+  {
+    "nombre": "CEFOTAXIMA 1GR",
+    "stock": 90,
+    "pvp": 1.55
+  },
+  {
+    "nombre": "CEFTAZIDIMA 1GR AMPOLLAS IM/IV",
+    "stock": 10,
+    "pvp": 3.08
+  },
+  {
+    "nombre": "CEFTRIAXONA 1GR AMPOLLA",
+    "stock": 168,
+    "pvp": 1.67
+  },
+  {
+    "nombre": "CEFTRIAXONA 1GR AMPOLLA",
+    "stock": 40,
+    "pvp": 1.67
+  },
+  {
+    "nombre": "CEFTRIAXONA 1GR AMPOLLA",
+    "stock": 18,
+    "pvp": 1.67
+  },
+  {
+    "nombre": "CENTRO DE CAMA DESCARTABLE",
+    "stock": 72,
+    "pvp": 5.17
+  },
+  {
+    "nombre": "CENTRO DE CAMA DESCARTABLE BLANCOS",
+    "stock": 17,
+    "pvp": 5
+  },
+  {
+    "nombre": "CENTROS DE CAMA DR PEDICAL 60X90CMS PAQUETE X 30UND",
+    "stock": 150,
+    "pvp": 9.45
+  },
+  {
+    "nombre": "CEPILLO QUIRURGICO CON SOLUCION CLOROXIDINA",
+    "stock": 88,
+    "pvp": 1.1
+  },
+  {
+    "nombre": "CETIRIZINA 5MG/5ML JARABE",
+    "stock": 10,
+    "pvp": 3.67
+  },
+  {
+    "nombre": "CIANOCOBALAMINA B12 AMPOLLA",
+    "stock": 100,
+    "pvp": 0.58
+  },
+  {
+    "nombre": "CIFARCAINA 1% SOL 100ML",
+    "stock": 81,
+    "pvp": 7.85
+  },
+  {
+    "nombre": "CIFARCAINA HIPERBARA 5% SOL. AMP",
+    "stock": 68,
+    "pvp": 4.37
+  },
+  {
+    "nombre": "CINTA DE SEDA ADHESIVA 50X5CMS",
+    "stock": 98,
+    "pvp": 13.88
+  },
+  {
+    "nombre": "CINTA DURAPORE 5X9,1CMS",
+    "stock": 7,
+    "pvp": 2.08
+  },
+  {
+    "nombre": "CINTA QUIRURGICA DURAPORE 7,6CMS X 9,1 M DURAPORE",
+    "stock": 4,
+    "pvp": 7.42
+  },
+  {
+    "nombre": "CINTA QUIRURGICA MICROPORE 7,6CMX9,1CM",
+    "stock": 2,
+    "pvp": 4.87
+  },
+  {
+    "nombre": "CIPROFLOXACINA 100ML AMPOLLA",
+    "stock": 48,
+    "pvp": 1.95
+  },
+  {
+    "nombre": "CIPROFLOXACINA 200MG/100ML",
+    "stock": 30,
+    "pvp": 2
+  },
+  {
+    "nombre": "CIPROFLOXACINA 500MG BLISTER X 10 TAB",
+    "stock": 27,
+    "pvp": 2.15
+  },
+  {
+    "nombre": "CIPROFLOXACINA 500MG CAJA X 10 TAB",
+    "stock": 2,
+    "pvp": 4.9
+  },
+  {
+    "nombre": "CIPROFLOXACINA 500MG CAJA X 10 TABLETAS",
+    "stock": 10,
+    "pvp": 1.8
+  },
+  {
+    "nombre": "CIRCUITO RESPIRACION ANESTESIA 2M-DIAM. 22MM BOLSA Y FILTRO",
+    "stock": 37,
+    "pvp": 21.85
+  },
+  {
+    "nombre": "CITICOLINA 500MG/2ML",
+    "stock": 20,
+    "pvp": 1.58
+  },
+  {
+    "nombre": "CLARITROMICINA 500MG BLISTER X 10 TABLETAS",
+    "stock": 17,
+    "pvp": 6.58
+  },
+  {
+    "nombre": "CLINDAMICINA AMP. 600MG",
+    "stock": 20,
+    "pvp": 2.5
+  },
+  {
+    "nombre": "CLONIDINA 0.2MG",
+    "stock": 7,
+    "pvp": 2.5
+  },
+  {
+    "nombre": "CLONIXINATO DE LISINA 100MG/2ML",
+    "stock": 176,
+    "pvp": 2.92
+  },
+  {
+    "nombre": "CLOPIDROGEL 75MG CAJA X 30 TABLETAS",
+    "stock": 2,
+    "pvp": 3.6
+  },
+  {
+    "nombre": "CLOPIDROGREL 75MG BLISTER X 10 TAB",
+    "stock": 41,
+    "pvp": 1.5
+  },
+  {
+    "nombre": "CLOPIDROGREL 75MG BLISTER X 10 TAB",
+    "stock": 10,
+    "pvp": 1.5
+  },
+  {
+    "nombre": "CLORANFENICOL AMP 1GR",
+    "stock": 20,
+    "pvp": 1.28
+  },
+  {
+    "nombre": "CLORFENAMINA 10MG",
+    "stock": 100,
+    "pvp": 0.73
+  },
+  {
+    "nombre": "CLORFENIRAMINA 4MG CAJA X 20 TAB",
+    "stock": 26,
+    "pvp": 1.5
+  },
+  {
+    "nombre": "CLORURO DE POTASIO 7,5% SOL",
+    "stock": 17,
+    "pvp": 5.88
+  },
+  {
+    "nombre": "CLORURO DE POTASIO 7,5% SOL",
+    "stock": 48,
+    "pvp": 5.88
+  },
+  {
+    "nombre": "CLORURO DE SODIO 0,9% PART-FILL 100ML",
+    "stock": 50,
+    "pvp": 2.97
+  },
+  {
+    "nombre": "CLORURO DE SODIO 0,9% X 1000ML",
+    "stock": 228,
+    "pvp": 5.58
+  },
+  {
+    "nombre": "CLORURO DE SOIDO 0,65% SPRAY NASAL",
+    "stock": 4,
+    "pvp": 1.37
+  },
+  {
+    "nombre": "CLOTR+GENTA+BETAME 20GR",
+    "stock": 9,
+    "pvp": 1.92
+  },
+  {
+    "nombre": "CLOTRIMAZOL 1% CREMA TOPICA",
+    "stock": 26,
+    "pvp": 3.75
+  },
+  {
+    "nombre": "CLOTRIMAZOL CREMA",
+    "stock": 4,
+    "pvp": 7.23
+  },
+  {
+    "nombre": "COLCHON ANTIESCARA",
+    "stock": 1,
+    "pvp": 113.34
+  },
+  {
+    "nombre": "COLCHON ANTIESCARA",
+    "stock": 3,
+    "pvp": 113.34
+  },
+  {
+    "nombre": "COLLAR PHILADELPHIA M",
+    "stock": 1,
+    "pvp": 51.67
+  },
+  {
+    "nombre": "COLLAR PHILADELPHIA TALLA S",
+    "stock": 1,
+    "pvp": 51.67
+  },
+  {
+    "nombre": "COLLARIN PHILADELPHIA TRACH 3-1/4",
+    "stock": 1,
+    "pvp": 37.57
+  },
+  {
+    "nombre": "COMPLEJO B 2ML IM.IV.",
+    "stock": 120,
+    "pvp": 0.34
+  },
+  {
+    "nombre": "COMPLEJO B BLISTER X 10 TAB",
+    "stock": 6,
+    "pvp": 2.13
+  },
+  {
+    "nombre": "COMPRESA LAPARATOMIA PAQUETE X 5UND",
+    "stock": 98,
+    "pvp": 4.98
+  },
+  {
+    "nombre": "COMPRESAS DE LAPARATOMIA PAQUETE X 5 UND",
+    "stock": 81,
+    "pvp": 6.08
+  },
+  {
+    "nombre": "COMPRESOR DE NEBULIZADOR",
+    "stock": 3,
+    "pvp": 88.34
+  },
+  {
+    "nombre": "COMPRESOR NEBULIZADOR NEW TYPE",
+    "stock": 6,
+    "pvp": 88.34
+  },
+  {
+    "nombre": "CONTENEDOR ESPECIMEN 4OZ",
+    "stock": 100,
+    "pvp": 0.67
+  },
+  {
+    "nombre": "CONTRASTE IOHEXOL 300MG/ML",
+    "stock": 7,
+    "pvp": 66.67
+  },
+  {
+    "nombre": "CROMICO 0 812",
+    "stock": 12,
+    "pvp": 2.6
+  },
+  {
+    "nombre": "CROMICO 2-0 CT1 811",
+    "stock": 12,
+    "pvp": 2.47
+  },
+  {
+    "nombre": "CUBREBOTAS X PAR",
+    "stock": 830,
+    "pvp": 0.18
+  },
+  {
+    "nombre": "DESLORATADINA 5MG BLISTER X 10 TAB.",
+    "stock": 10,
+    "pvp": 0.9
+  },
+  {
+    "nombre": "DESLORATADINA 5MG CAJA X 10 TAB.",
+    "stock": 2,
+    "pvp": 2.1
+  },
+  {
+    "nombre": "DESLORATADINA 5MG X 10 COMPRIMIDOS",
+    "stock": 2,
+    "pvp": 2.1
+  },
+  {
+    "nombre": "DEXACORT 4MG/ML SOL AMP",
+    "stock": 25,
+    "pvp": 4.32
+  },
+  {
+    "nombre": "DEXAMETASONA 4MG AMPOLLA",
+    "stock": 60,
+    "pvp": 0.42
+  },
+  {
+    "nombre": "DEXAMETASONA 4MG AMPOLLA",
+    "stock": 100,
+    "pvp": 0.42
+  },
+  {
+    "nombre": "DEXAMETASONA 4MG AMPOLLA",
+    "stock": 91,
+    "pvp": 0.41
+  },
+  {
+    "nombre": "DEXAMETASONA 8MG/2ML",
+    "stock": 104,
+    "pvp": 0.83
+  },
+  {
+    "nombre": "DEXMEDETOMIDINA 100MCG/ML AMPOLLA",
+    "stock": 15,
+    "pvp": 11.77
+  },
+  {
+    "nombre": "DEXTROSA AL 5% EN AGUA DESTILADA N°1",
+    "stock": 34,
+    "pvp": 4.4
+  },
+  {
+    "nombre": "DEXTROSA SOLUCION AL 10%  EN AGUA 500ML",
+    "stock": 84,
+    "pvp": 5.88
+  },
+  {
+    "nombre": "DIAZEPAM 10MG AMP.",
+    "stock": 3,
+    "pvp": 11.84
+  },
+  {
+    "nombre": "DICLOFENAC GEL 30GR",
+    "stock": 1,
+    "pvp": 2.08
+  },
+  {
+    "nombre": "DICLOFENAC POTASICO 100MG BLISTER X 10 TAB",
+    "stock": 84,
+    "pvp": 1.04
+  },
+  {
+    "nombre": "DICLOFENAC POTASICO 10MG/5ML SUSPENSION",
+    "stock": 3,
+    "pvp": 2.25
+  },
+  {
+    "nombre": "DICLOFENAC POTASICO 50MG CAJA X 10 COMPRIMIDOS",
+    "stock": 5,
+    "pvp": 0.83
+  },
+  {
+    "nombre": "DICLOFENAC POTASICO 50MG X BLISTER",
+    "stock": 10,
+    "pvp": 0.77
+  },
+  {
+    "nombre": "DICLOFENAC POTASICO 75MG AMPOLLA",
+    "stock": 50,
+    "pvp": 2.6
+  },
+  {
+    "nombre": "DICLOFENAC POTASICO TAB 100MG BLISTER X 10 TAB",
+    "stock": 1,
+    "pvp": 0.75
+  },
+  {
+    "nombre": "DICLOFENAC SODICO 100 MG X 10 TAB",
+    "stock": 26,
+    "pvp": 0.6
+  },
+  {
+    "nombre": "DICLOFENAC SODICO 50MG X 10 TAB",
+    "stock": 47,
+    "pvp": 0.52
+  },
+  {
+    "nombre": "DICLOFENAC SODICO AMP. 75MG/3ML",
+    "stock": 3,
+    "pvp": 0.35
+  },
+  {
+    "nombre": "DICLOFENACO 1% GEL",
+    "stock": 18,
+    "pvp": 2.08
+  },
+  {
+    "nombre": "DICLOFENACO SODICO 75MG/3ML AMPOLLA",
+    "stock": 6,
+    "pvp": 1.83
+  },
+  {
+    "nombre": "DICLOFENACO SODICO SUPOSITORIOS 100MG CAJA X 10",
+    "stock": 19,
+    "pvp": 5.83
+  },
+  {
+    "nombre": "DIGOXINA 0,25 MG",
+    "stock": 30,
+    "pvp": 1.92
+  },
+  {
+    "nombre": "DIGOXINA 0,25MG X 10 TAB",
+    "stock": 47,
+    "pvp": 0.57
+  },
+  {
+    "nombre": "DIGOXINA 0,25MG/ML",
+    "stock": 30,
+    "pvp": 1.93
+  },
+  {
+    "nombre": "DIOSMINA 500MG X CAJA 30TAB",
+    "stock": 12,
+    "pvp": 8.33
+  },
+  {
+    "nombre": "DIPIDOL 500MG/2ML",
+    "stock": 100,
+    "pvp": 2.15
+  },
+  {
+    "nombre": "DIPIRONA 1G/2ML AMPOLLAS",
+    "stock": 100,
+    "pvp": 0.32
+  },
+  {
+    "nombre": "DIPIRONA 1GR/2ML AMPOLLA",
+    "stock": 53,
+    "pvp": 0.33
+  },
+  {
+    "nombre": "DOBLE LUMEN FR14X20CMS",
+    "stock": 2,
+    "pvp": 16.67
+  },
+  {
+    "nombre": "DOBUTAMINA AMP 250MG",
+    "stock": 5,
+    "pvp": 1.9
+  },
+  {
+    "nombre": "DOMPERIDONA 10MG/2ML AMPOLLA",
+    "stock": 33,
+    "pvp": 1.57
+  },
+  {
+    "nombre": "DOPAMINA AMP. 200MG/5ML",
+    "stock": 100,
+    "pvp": 1.33
+  },
+  {
+    "nombre": "DORZOLAMINA 2% X 5 ML GOTAS",
+    "stock": 4,
+    "pvp": 5.67
+  },
+  {
+    "nombre": "DORZOLAMINA 2%/ TIMOLOLO 0,5% GOTAS",
+    "stock": 4,
+    "pvp": 6.25
+  },
+  {
+    "nombre": "DOXICICLINA 100MG X BLISTER 10TAB",
+    "stock": 17,
+    "pvp": 2.58
+  },
+  {
+    "nombre": "DRENAJE JACKSON PRATT",
+    "stock": 27,
+    "pvp": 25
+  },
+  {
+    "nombre": "DRENAJE PORTOVAC FR 19 (1/4\")",
+    "stock": 11,
+    "pvp": 15.83
+  },
+  {
+    "nombre": "DRENLATEX 1/2",
+    "stock": 1,
+    "pvp": 1.95
+  },
+  {
+    "nombre": "DRENLATEX 1/4",
+    "stock": 1,
+    "pvp": 1.95
+  },
+  {
+    "nombre": "DUAL LUMEN VENTILACION N°16",
+    "stock": 1,
+    "pvp": 12
+  },
+  {
+    "nombre": "DUAL LUMEN VENTILACION SUCTION CATHETER FR14",
+    "stock": 6,
+    "pvp": 11.67
+  },
+  {
+    "nombre": "DURACAINA HIPERBARA 0,5% SOL. AMP.",
+    "stock": 83,
+    "pvp": 6.1
+  },
+  {
+    "nombre": "DYNACET GRIPDIA  500MG-2MG-30MG X 10 TAB",
+    "stock": 1,
+    "pvp": 1.8
+  },
+  {
+    "nombre": "EFEDRINA SULFATO 6% 1ML",
+    "stock": 100,
+    "pvp": 3.26
+  },
+  {
+    "nombre": "ENALAPRIL 10 MG CAJA X 20 TABLETAS",
+    "stock": 5,
+    "pvp": 1.13
+  },
+  {
+    "nombre": "ENALAPRIL 10MG X 10TAB",
+    "stock": 10,
+    "pvp": 0.37
+  },
+  {
+    "nombre": "ENALAPRIL 20MG X 10 TAB",
+    "stock": 14,
+    "pvp": 0.63
+  },
+  {
+    "nombre": "ENALAPRIL MALEATO 20MG BLISTER X 10 TAB",
+    "stock": 20,
+    "pvp": 0.45
+  },
+  {
+    "nombre": "ENOXAPARIN 60MGR AMP.",
+    "stock": 4,
+    "pvp": 5.83
+  },
+  {
+    "nombre": "ENOXAPARIN 60MGR AMP.",
+    "stock": 2,
+    "pvp": 5.83
+  },
+  {
+    "nombre": "ENOXAPARINA SODICA 60MG AMP",
+    "stock": 66,
+    "pvp": 6.67
+  },
+  {
+    "nombre": "ENOXOPARINA 20MG AMPOLLAS",
+    "stock": 7,
+    "pvp": 3.95
+  },
+  {
+    "nombre": "ENTEROMED (ENTEROGERMINA) 2000MILLONES/5ML X AMPOLLA",
+    "stock": 30,
+    "pvp": 1.13
+  },
+  {
+    "nombre": "EQUIPO DE CUIDADO RESPIRATORIO PEDIATRICO",
+    "stock": 7,
+    "pvp": 33.33
+  },
+  {
+    "nombre": "EQUIPO DE INFUSION BURETA 150ML",
+    "stock": 11,
+    "pvp": 1.5
+  },
+  {
+    "nombre": "EQUIPO DE MEDICION DE PRESION VENOSA CENTRAL",
+    "stock": 21,
+    "pvp": 5.8
+  },
+  {
+    "nombre": "EQUIPO DE OXIGENO CON RESERVORIO",
+    "stock": 25,
+    "pvp": 6.95
+  },
+  {
+    "nombre": "EQUIPO DE OXIGENO PEDIATRICO (MASCARILLA)",
+    "stock": 277,
+    "pvp": 4.87
+  },
+  {
+    "nombre": "ERBRIX-100 (SILDENAFIL) 100 MG X CAJA 8 TAB",
+    "stock": 25,
+    "pvp": 0.83
+  },
+  {
+    "nombre": "ERBRIX-50 (SILDENAFIL) 50 MG CAJA X 8 TAB",
+    "stock": 19,
+    "pvp": 0.67
+  },
+  {
+    "nombre": "ERGOMETRINA MALEATO 0,2MG/ML IV-IM",
+    "stock": 119,
+    "pvp": 0.67
+  },
+  {
+    "nombre": "ESOMEPRAZOL 20MG BLISTER X 10 TABLETAS",
+    "stock": 10,
+    "pvp": 0.75
+  },
+  {
+    "nombre": "ESOMEPRAZOL 40MG X BLISTER X 10 TAB",
+    "stock": 10,
+    "pvp": 0.9
+  },
+  {
+    "nombre": "ESPIRONOLACTONA 25MG X 30TAB",
+    "stock": 1,
+    "pvp": 2.93
+  },
+  {
+    "nombre": "ESPONJA DE GASA 4\" UNIDAD",
+    "stock": 9,
+    "pvp": 1.33
+  },
+  {
+    "nombre": "ESQUINERO CAMA 102X190CM SMS PQX10",
+    "stock": 29,
+    "pvp": 1.99
+  },
+  {
+    "nombre": "ETORICOXIB 120MG X 20 TABLETAS",
+    "stock": 3,
+    "pvp": 6.3
+  },
+  {
+    "nombre": "ETORICOXIB 60MG CAJA  X 20 TAB",
+    "stock": 5,
+    "pvp": 4.55
+  },
+  {
+    "nombre": "EUSILEN 4MG/2ML CAJA X 2 AMPOLLAS",
+    "stock": 6,
+    "pvp": 6.34
+  },
+  {
+    "nombre": "EXTENSION K50",
+    "stock": 3,
+    "pvp": 0.8
+  },
+  {
+    "nombre": "FENITOINA 100MG/2ML",
+    "stock": 180,
+    "pvp": 1.33
+  },
+  {
+    "nombre": "FENITOINA SODICA 250ML",
+    "stock": 100,
+    "pvp": 1.42
+  },
+  {
+    "nombre": "FENTANILO 0.5MG/10ML AMPOLLA",
+    "stock": 130,
+    "pvp": 3.38
+  },
+  {
+    "nombre": "FENTANILO 0.5MG/10ML AMPOLLA",
+    "stock": 20,
+    "pvp": 5
+  },
+  {
+    "nombre": "FENTANILO 0.5MG/10ML AMPOLLA",
+    "stock": 50,
+    "pvp": 5.01
+  },
+  {
+    "nombre": "FENTANILO 0.5MG/3ML  AMPOLLA",
+    "stock": 16,
+    "pvp": 3.38
+  },
+  {
+    "nombre": "FITOMENADIONA 10MG AMP VITAMINA K1",
+    "stock": 200,
+    "pvp": 0.72
+  },
+  {
+    "nombre": "FITOMENADIONA 10MG AMP VITAMINA K1",
+    "stock": 80,
+    "pvp": 0.72
+  },
+  {
+    "nombre": "FLUCO.0,01% HIDROQUINON4% TRETO 0,05% CREMA",
+    "stock": 4,
+    "pvp": 3.05
+  },
+  {
+    "nombre": "FLUCONAZOL 150MG CAJA X 2 TAB",
+    "stock": 14,
+    "pvp": 2.03
+  },
+  {
+    "nombre": "FLUCONAZOL 150MG CAJA X 2 TAB",
+    "stock": 7,
+    "pvp": 2.03
+  },
+  {
+    "nombre": "FLUCONAZOL 200MG CAJA X 5 TAB",
+    "stock": 19,
+    "pvp": 2.03
+  },
+  {
+    "nombre": "FLUCONAZOL 200MG/100ML AMPOLLA",
+    "stock": 75,
+    "pvp": 2.05
+  },
+  {
+    "nombre": "FLUIMEXINA (ACELTICISTEINA) 600MG X SOBRE",
+    "stock": 108,
+    "pvp": 0.92
+  },
+  {
+    "nombre": "FLUMAZENIL 1MG/10ML",
+    "stock": 66,
+    "pvp": 6.33
+  },
+  {
+    "nombre": "FLUMAZENIL AMP. 0.5MG/5ML",
+    "stock": 20,
+    "pvp": 6.28
+  },
+  {
+    "nombre": "FLUNARIZINA 10MG CAJA POR 20 TAB",
+    "stock": 23,
+    "pvp": 1.92
+  },
+  {
+    "nombre": "FLUNARIZINA 10MG CAJA X 20 TAB",
+    "stock": 1,
+    "pvp": 4.12
+  },
+  {
+    "nombre": "FUMARATO FERROSO 200 X BLISTER 10TAB",
+    "stock": 10,
+    "pvp": 0.45
+  },
+  {
+    "nombre": "FUNGOMAX 2MG/ML INF. FB X 100ML",
+    "stock": 4,
+    "pvp": 3.53
+  },
+  {
+    "nombre": "FUROSEMIDA 20MG CAJA X 24 TAB",
+    "stock": 20,
+    "pvp": 23.68
+  },
+  {
+    "nombre": "FUROSEMIDA 20MG/2ML AMPOLLA",
+    "stock": 29,
+    "pvp": 0.85
+  },
+  {
+    "nombre": "FUROSEMIDA 20MG/2ML IM/IV AMPOLLAS",
+    "stock": 60,
+    "pvp": 0.73
+  },
+  {
+    "nombre": "FUROSEMIDA 40MG BLISTER X 10 TAB",
+    "stock": 5,
+    "pvp": 0.38
+  },
+  {
+    "nombre": "FUROSEMIDA 40MG BLISTER X 10 TAB",
+    "stock": 8,
+    "pvp": 0.38
+  },
+  {
+    "nombre": "GASA ABSORBENTE 100 YDS - NO ESTERIL",
+    "stock": 3,
+    "pvp": 31.67
+  },
+  {
+    "nombre": "GASA ABSORBENTE 100YARDAS",
+    "stock": 5,
+    "pvp": 32.27
+  },
+  {
+    "nombre": "GASAS PARAFINADAS 10CMSX10CMS",
+    "stock": 1,
+    "pvp": 0.68
+  },
+  {
+    "nombre": "GEMFIBROZILO 600MG X 10 TAB",
+    "stock": 63,
+    "pvp": 1.65
+  },
+  {
+    "nombre": "GENTAMICINA 0,1% CREMA 20 GR",
+    "stock": 4,
+    "pvp": 1.5
+  },
+  {
+    "nombre": "GENTAMICINA 160MG/2ML AMP",
+    "stock": 90,
+    "pvp": 2.6
+  },
+  {
+    "nombre": "GENTAMICINA 160MG/2ML AMPOLLA",
+    "stock": 16,
+    "pvp": 4.97
+  },
+  {
+    "nombre": "GENTAMICINA 80MG/2ML AMP",
+    "stock": 90,
+    "pvp": 0.57
+  },
+  {
+    "nombre": "GLIBENCLAMIDA 5MG X 10 TAB",
+    "stock": 26,
+    "pvp": 0.37
+  },
+  {
+    "nombre": "GLIBENCLAMIDA 5MG X 15 TABLETAS",
+    "stock": 12,
+    "pvp": 1.13
+  },
+  {
+    "nombre": "GLICERAMIN 3% SOL KIT FV 1000ML",
+    "stock": 20,
+    "pvp": 60.62
+  },
+  {
+    "nombre": "GLIMEPIRIDA 2MG X 10 TAB.",
+    "stock": 10,
+    "pvp": 0.63
+  },
+  {
+    "nombre": "GLIMEPIRIDA 2MG X BLISTER",
+    "stock": 10,
+    "pvp": 0.63
+  },
+  {
+    "nombre": "GLIMEPIRIDA 4MG X 10 TAB",
+    "stock": 20,
+    "pvp": 1.35
+  },
+  {
+    "nombre": "GLIMEPIRIDA 4MG X 10 TAB",
+    "stock": 10,
+    "pvp": 1.35
+  },
+  {
+    "nombre": "GLIPP-2 (GLIMEPIRIDA BP) 2MG CAJA X 30 TABLETAS",
+    "stock": 10,
+    "pvp": 2.7
+  },
+  {
+    "nombre": "GLUCONATO DE CALCIO 10%/100ML",
+    "stock": 45,
+    "pvp": 4.5
+  },
+  {
+    "nombre": "GORRO DE CIRUJANO",
+    "stock": 388,
+    "pvp": 0.27
+  },
+  {
+    "nombre": "GORRO ENFERMERA AZUL",
+    "stock": "1,625.00",
+    "pvp": 0.17
+  },
+  {
+    "nombre": "GUANTES 7 1/2",
+    "stock": 236,
+    "pvp": 0.75
+  },
+  {
+    "nombre": "GUANTES DE NITRILO M CAJA POR 100 UND ( MORADO)",
+    "stock": 10,
+    "pvp": 16.82
+  },
+  {
+    "nombre": "GUANTES DE NITRILO TALLA L CAJA PO 100 UNDS. ( MORADO)",
+    "stock": 20,
+    "pvp": 14.04
+  },
+  {
+    "nombre": "GUANTES DECARTABLES TALLA M POR CAJA DE 100 UNDS",
+    "stock": 400,
+    "pvp": 13.23
+  },
+  {
+    "nombre": "GUANTES DESCARTABLES TALLA L  POR CAJA DE 100 UNDS",
+    "stock": 498,
+    "pvp": 13.23
+  },
+  {
+    "nombre": "GUANTES ESTERILES 7",
+    "stock": 2,
+    "pvp": 0.2
+  },
+  {
+    "nombre": "GUANTES QUIRURGICOS ESTERILES N°6 1/2 CAJA X 50",
+    "stock": 150,
+    "pvp": 37.5
+  },
+  {
+    "nombre": "GUANTES QUIRURGICOS ESTERILES N°7 1/2 CAJA X 50",
+    "stock": 50,
+    "pvp": 37.5
+  },
+  {
+    "nombre": "GUANTES QUIRURGICOS ESTERILES N°7 CAJA X 50",
+    "stock": 49,
+    "pvp": 37.5
+  },
+  {
+    "nombre": "GUANTES QUIRURGICOS ESTERILES N°8 CAJA X 50",
+    "stock": 100,
+    "pvp": 37.5
+  },
+  {
+    "nombre": "GUATA 15CMSX2,7CMS",
+    "stock": 4,
+    "pvp": 2.02
+  },
+  {
+    "nombre": "GUATA MEDAID 10CMS",
+    "stock": 24,
+    "pvp": 5.98
+  },
+  {
+    "nombre": "GUATA ORTOBAN 10CMS",
+    "stock": 24,
+    "pvp": 5.98
+  },
+  {
+    "nombre": "GUATA ORTOPEDICA 15CMS",
+    "stock": 22,
+    "pvp": 3.67
+  },
+  {
+    "nombre": "GUATA ORTOPEDICA 20CMS",
+    "stock": 6,
+    "pvp": 3
+  },
+  {
+    "nombre": "HALOPERIDOL 10MG X 30 TAB.",
+    "stock": 6,
+    "pvp": 7.9
+  },
+  {
+    "nombre": "HALOPERIDOL 5MG X 30 TAB",
+    "stock": 3,
+    "pvp": 6.32
+  },
+  {
+    "nombre": "HEPARINA SODICA 5000UI/5ML",
+    "stock": 10,
+    "pvp": 2.2
+  },
+  {
+    "nombre": "HEPARINA SODICA 5000UI/5ML",
+    "stock": 30,
+    "pvp": 2.2
+  },
+  {
+    "nombre": "HIDROCLOROTIAZIDA 25MG X 10TAB",
+    "stock": 17,
+    "pvp": 0.83
+  },
+  {
+    "nombre": "HIDROCORTISONA 100MG",
+    "stock": 22,
+    "pvp": 1.27
+  },
+  {
+    "nombre": "HIDROCORTISONA 100MG X AMPOLLA",
+    "stock": 10,
+    "pvp": 1.38
+  },
+  {
+    "nombre": "HIDROCORTISONA 500MG AMP I.V/ I.M",
+    "stock": 2,
+    "pvp": 3.62
+  },
+  {
+    "nombre": "HIDROCORTISONA 500MG AMP I.V/ I.M",
+    "stock": 1,
+    "pvp": 3.62
+  },
+  {
+    "nombre": "HIDROCORTISONA 500MG AMP I.V/ I.M",
+    "stock": 8,
+    "pvp": 3.63
+  },
+  {
+    "nombre": "HIDROCORTISONA 500MG AMPOLLA",
+    "stock": 30,
+    "pvp": 3.27
+  },
+  {
+    "nombre": "HIDROFEROL - CALCIFEDIOL  X 10 TAB",
+    "stock": 12,
+    "pvp": 4.13
+  },
+  {
+    "nombre": "HIOSCINA N-BUTIL BROMURO 10MG BLISTER X 10 TAB",
+    "stock": 52,
+    "pvp": 3
+  },
+  {
+    "nombre": "HUMIDIFICADOR DE OXIGENO 500ML",
+    "stock": 3,
+    "pvp": 11.5
+  },
+  {
+    "nombre": "IBUPROFENO 100MG/5ML JARABE",
+    "stock": 3,
+    "pvp": 3
+  },
+  {
+    "nombre": "IBUPROFENO 600MG BLISTER X 10 TAB",
+    "stock": 20,
+    "pvp": 1
+  },
+  {
+    "nombre": "IBUPROFENO 600MG-TIOCOLCHICOSIDO 4MG BLISTER X 10 TABLETAS",
+    "stock": 10,
+    "pvp": 2.7
+  },
+  {
+    "nombre": "IBUPROFENO 800MG BLISTER X 10 TABLETAS",
+    "stock": 20,
+    "pvp": 1.48
+  },
+  {
+    "nombre": "IBUPROFENO SUSPENSION BP",
+    "stock": 10,
+    "pvp": 1.95
+  },
+  {
+    "nombre": "IMIPENEM+CILASTATINA 500MG AMP. IV",
+    "stock": 10,
+    "pvp": 5.23
+  },
+  {
+    "nombre": "IMIPENEM+CILASTATINA 500MG AMP. IV",
+    "stock": 12,
+    "pvp": 5.23
+  },
+  {
+    "nombre": "INMUNOGLOBULINA ANTI D AMPOLLA",
+    "stock": 3,
+    "pvp": 143.99
+  },
+  {
+    "nombre": "INSULINA GLARGINA",
+    "stock": 2,
+    "pvp": 4.5
+  },
+  {
+    "nombre": "INYECTADORA 10ML",
+    "stock": 70,
+    "pvp": 0.14
+  },
+  {
+    "nombre": "INYECTADORA 10ML",
+    "stock": "1,500.00",
+    "pvp": 0.14
+  },
+  {
+    "nombre": "INYECTADORA 10ML",
+    "stock": "1,200.00",
+    "pvp": 0.14
+  },
+  {
+    "nombre": "INYECTADORA 10ML",
+    "stock": "1,600.00",
+    "pvp": 0.14
+  },
+  {
+    "nombre": "INYECTADORA 10ML",
+    "stock": "1,600.00",
+    "pvp": 0.14
+  },
+  {
+    "nombre": "INYECTADORA 1ML 29 X 1/2 LUER LOCK",
+    "stock": 100,
+    "pvp": 0.2
+  },
+  {
+    "nombre": "INYECTADORA 20ML POR UND",
+    "stock": 4,
+    "pvp": 0.38
+  },
+  {
+    "nombre": "INYECTADORA 20ML POR UND",
+    "stock": 850,
+    "pvp": 0.28
+  },
+  {
+    "nombre": "INYECTADORA 3ML",
+    "stock": 98,
+    "pvp": 0.11
+  },
+  {
+    "nombre": "INYECTADORA 50CC TIPO TOMMY",
+    "stock": 85,
+    "pvp": 1
+  },
+  {
+    "nombre": "INYECTADORA 5ML",
+    "stock": "4,500.00",
+    "pvp": 0.11
+  },
+  {
+    "nombre": "INYECTADORA 5ML",
+    "stock": "2,284.00",
+    "pvp": 0.11
+  },
+  {
+    "nombre": "INYECTADORA 5ML",
+    "stock": "2,400.00",
+    "pvp": 0.11
+  },
+  {
+    "nombre": "INYECTADORA 5ML",
+    "stock": "2,400.00",
+    "pvp": 0.11
+  },
+  {
+    "nombre": "IRBESARTAN 150MG BLISTER X 10TAB",
+    "stock": 35,
+    "pvp": 5.02
+  },
+  {
+    "nombre": "IRBESARTAN 300MG BLISTER X 10TAB",
+    "stock": 35,
+    "pvp": 6.05
+  },
+  {
+    "nombre": "ISOFLURANE 100ML FRASCO",
+    "stock": 9,
+    "pvp": 15.52
+  },
+  {
+    "nombre": "ITRACONAZOL 100MG X 10 TABLETAS (E)",
+    "stock": 1,
+    "pvp": 6
+  },
+  {
+    "nombre": "IV CATETER RADIOPAQUE N°18 (JELCO)",
+    "stock": 108,
+    "pvp": 1.03
+  },
+  {
+    "nombre": "IV CATETER RADIOPAQUE N°20 (JELCO)",
+    "stock": 630,
+    "pvp": 1.03
+  },
+  {
+    "nombre": "IV CATETER RADIOPAQUE N°22 (JELCO)",
+    "stock": 99,
+    "pvp": 1.03
+  },
+  {
+    "nombre": "IV CATETER RADIOPAQUE N°24 (JELCO)",
+    "stock": 99,
+    "pvp": 1.03
+  },
+  {
+    "nombre": "JERINGA DESCARTABLE 20ML",
+    "stock": "1,100.00",
+    "pvp": 0.25
+  },
+  {
+    "nombre": "KAYEXALATE 30GR X SOBRE",
+    "stock": 19,
+    "pvp": 12.67
+  },
+  {
+    "nombre": "KETOCONAZOL CREMA 2% W/W 15GR",
+    "stock": 1,
+    "pvp": 3.17
+  },
+  {
+    "nombre": "KETOPROFENO 100/2ML",
+    "stock": 19,
+    "pvp": 1.5
+  },
+  {
+    "nombre": "KETOPROFENO 100MG AMPOLLA",
+    "stock": 10,
+    "pvp": 1.5
+  },
+  {
+    "nombre": "KETOPROFENO 100MG/5ML AMPOLLA",
+    "stock": 475,
+    "pvp": 0.92
+  },
+  {
+    "nombre": "KETOPROFENO 100MG/5ML I.V ( KETOFEN)",
+    "stock": 26,
+    "pvp": 1.67
+  },
+  {
+    "nombre": "KETOROLACO 20MG POR BLISTER 10 TAB",
+    "stock": 4,
+    "pvp": 3.78
+  },
+  {
+    "nombre": "KETOROLACO 30MG SUBLINGUAL TAB BLISTER X 4 TAB",
+    "stock": 7,
+    "pvp": 11.55
+  },
+  {
+    "nombre": "KETOROLACO 30MG/ML AMPOLLA",
+    "stock": 158,
+    "pvp": 1.35
+  },
+  {
+    "nombre": "KETOROLACO SUBLINGUAL 30GR CAJA X 4TAB",
+    "stock": 7,
+    "pvp": 3.78
+  },
+  {
+    "nombre": "KIT DE CAMA 10 PIEZAS",
+    "stock": 10,
+    "pvp": 4.67
+  },
+  {
+    "nombre": "KIT DE CIRUJANO",
+    "stock": 136,
+    "pvp": 8.33
+  },
+  {
+    "nombre": "KIT DE LAPARATOMIA",
+    "stock": 13,
+    "pvp": 17.4
+  },
+  {
+    "nombre": "KIT DE PACIENTE",
+    "stock": 407,
+    "pvp": 1.55
+  },
+  {
+    "nombre": "KIT DE RASURAR NO ESTERIL",
+    "stock": 50,
+    "pvp": 1.33
+  },
+  {
+    "nombre": "KIT LAPARATOMIA",
+    "stock": 60,
+    "pvp": 15
+  },
+  {
+    "nombre": "KIT PARA OFTALMOLOGIA ESTERIL",
+    "stock": 8,
+    "pvp": 17.83
+  },
+  {
+    "nombre": "LAPARTOMIA PACK",
+    "stock": 5,
+    "pvp": 150
+  },
+  {
+    "nombre": "LAPIZ ELECTROCAUTHIN",
+    "stock": 44,
+    "pvp": 4.67
+  },
+  {
+    "nombre": "LENEZOLID 200MG/100ML AMPOLLA",
+    "stock": 11,
+    "pvp": 2.5
+  },
+  {
+    "nombre": "LEUKOMED T-PLUS 8X10CM",
+    "stock": 5,
+    "pvp": 3.02
+  },
+  {
+    "nombre": "LEVOCETIRIZINA 5 MG CAJA X 10 TAB",
+    "stock": 2,
+    "pvp": 1.9
+  },
+  {
+    "nombre": "LEVOFERIN 30MG/5ML",
+    "stock": 5,
+    "pvp": 7.08
+  },
+  {
+    "nombre": "LEVOFLOXA 500MG (LEVOFLOXACINA)",
+    "stock": 19,
+    "pvp": 4.72
+  },
+  {
+    "nombre": "LEVOFLOXACINA 500MG BLISTER X 10 TAB",
+    "stock": 2,
+    "pvp": 5.1
+  },
+  {
+    "nombre": "LEVOFLOXACINA 500MG BLISTER X 10 TABLETA",
+    "stock": 10,
+    "pvp": 2.9
+  },
+  {
+    "nombre": "LEVOFLOXACINA 750MG CAJA X 10 TAB",
+    "stock": 17,
+    "pvp": 4.28
+  },
+  {
+    "nombre": "LEVOFLOXACINA 750MG CAJA X 10 TAB",
+    "stock": 3,
+    "pvp": 4.28
+  },
+  {
+    "nombre": "LEVOFLOXACINA 750MG CAJA X 10 TAB",
+    "stock": 10,
+    "pvp": 4.28
+  },
+  {
+    "nombre": "LEVOFLOXACINA AMP. 500MG/100ML",
+    "stock": 43,
+    "pvp": 1.95
+  },
+  {
+    "nombre": "LEVONORGESTREL 0.75 MG X 2 TAB",
+    "stock": 8,
+    "pvp": 1.25
+  },
+  {
+    "nombre": "LEVOTEC 5MG/ML (LEVOFLOXACINA750MG)",
+    "stock": 60,
+    "pvp": 6.47
+  },
+  {
+    "nombre": "LEVOTIROXINA 100MGG BLISTER",
+    "stock": 37,
+    "pvp": 0.83
+  },
+  {
+    "nombre": "LEVOTIROXINA 150MGG BLISTER X 10 TAB",
+    "stock": 47,
+    "pvp": 0.83
+  },
+  {
+    "nombre": "LEVOTIROXINA 25MG BLISTER X 10 TABLETAS",
+    "stock": 47,
+    "pvp": 0.65
+  },
+  {
+    "nombre": "LEVOTIROXINA 50MGG BLISTER X 10 TAB",
+    "stock": 37,
+    "pvp": 0.75
+  },
+  {
+    "nombre": "LEVOTIROXINA SODICA 0,1MG CAJA X 10TAB",
+    "stock": 37,
+    "pvp": 1.25
+  },
+  {
+    "nombre": "LINCOMICINA 600MG/2ML AMPOLLA",
+    "stock": 65,
+    "pvp": 1.03
+  },
+  {
+    "nombre": "LIPIMED (ATORVASTATINA) 20MG CAJA X 30 TABLETA",
+    "stock": 5,
+    "pvp": 2.93
+  },
+  {
+    "nombre": "LIPIMED (ATORVASTATINA) 40MG CAJA X 30 TABLETAS",
+    "stock": 5,
+    "pvp": 4.03
+  },
+  {
+    "nombre": "LISINOPRIL 10MG BLISTER X 10 TAB",
+    "stock": 17,
+    "pvp": 1.25
+  },
+  {
+    "nombre": "LISINOPRIL 20MG BLISTER X 10TAB",
+    "stock": 17,
+    "pvp": 1.85
+  },
+  {
+    "nombre": "LORATADINA CAJA X 10 TAB",
+    "stock": 49,
+    "pvp": 2.67
+  },
+  {
+    "nombre": "LORATADINA SOLUCION ORAL USP 5MG/5ML",
+    "stock": 3,
+    "pvp": 2.25
+  },
+  {
+    "nombre": "LORATADINA/BETAMETASONA JARABE 1MG/0,05MG",
+    "stock": 1,
+    "pvp": 2.25
+  },
+  {
+    "nombre": "LOSARTAN 50MG/HIDROCLOROTIAZIDA 12.5MG CAJA X 100 TAB.",
+    "stock": 5,
+    "pvp": 0.92
+  },
+  {
+    "nombre": "LOSARTAN POTASICO 100MG BLISTER X 10",
+    "stock": 15,
+    "pvp": 1.27
+  },
+  {
+    "nombre": "LOSARTAN POTASICO 50MG CAJA X 10 COMPRIMIDOS",
+    "stock": 3,
+    "pvp": 2.4
+  },
+  {
+    "nombre": "LOSARTAN POTASICO 50MG X BLISTER X 10TAB",
+    "stock": 20,
+    "pvp": 0.82
+  },
+  {
+    "nombre": "LOWPRES 150MCG/ML",
+    "stock": 50,
+    "pvp": 4.95
+  },
+  {
+    "nombre": "LLAVE 3 VIAS",
+    "stock": 50,
+    "pvp": 0.5
+  },
+  {
+    "nombre": "MACROGOTERO LASER",
+    "stock": 2,
+    "pvp": 1.37
+  },
+  {
+    "nombre": "MACROGOTERO MEDAID",
+    "stock": 24,
+    "pvp": 1.33
+  },
+  {
+    "nombre": "MACROGOTEROS",
+    "stock": "1,975.00",
+    "pvp": 0.53
+  },
+  {
+    "nombre": "MACROGOTEROS",
+    "stock": 38,
+    "pvp": 1.33
+  },
+  {
+    "nombre": "MACROGOTEROS DYNAMICS",
+    "stock": 1,
+    "pvp": 1.37
+  },
+  {
+    "nombre": "MALLA QUIRURGICA MONOFILAMENTO DE POLIPROPILENO 30X30CM",
+    "stock": 1,
+    "pvp": 47.77
+  },
+  {
+    "nombre": "MASC. DE NEBULIZAR ADULTO",
+    "stock": 66,
+    "pvp": 2.83
+  },
+  {
+    "nombre": "MASCARILLA DE OXIGENO ADULTO",
+    "stock": 131,
+    "pvp": 2.78
+  },
+  {
+    "nombre": "MASCARILLA DE OXIGENO PARA ADULTO DESCANSO 7 PIES TUBO",
+    "stock": 199,
+    "pvp": 2.5
+  },
+  {
+    "nombre": "MASCARILLA DE OXIGENO RX ONLY",
+    "stock": 117,
+    "pvp": 2.78
+  },
+  {
+    "nombre": "MASCARILLA NEBULIZAR PEDIATRICA",
+    "stock": 92,
+    "pvp": 2.67
+  },
+  {
+    "nombre": "MASCARILLA OXIGENO",
+    "stock": 17,
+    "pvp": 2.83
+  },
+  {
+    "nombre": "MASCARILLA PARA NEBULIZAR ADULTO",
+    "stock": 169,
+    "pvp": 2.67
+  },
+  {
+    "nombre": "MEBENDAZOL 100MG/5ML-30ML SUSP.",
+    "stock": 12,
+    "pvp": 1.93
+  },
+  {
+    "nombre": "MEGAMOX 400MG/250ML INF. FV (MOXIFLOXACINA)",
+    "stock": 10,
+    "pvp": 15.68
+  },
+  {
+    "nombre": "MELOXICAM 15MG AMPOLLA",
+    "stock": 100,
+    "pvp": 5.8
+  },
+  {
+    "nombre": "MELOXICAM 15MG BLISTER X 10 TAB",
+    "stock": 10,
+    "pvp": 1.02
+  },
+  {
+    "nombre": "MEROPENEM 1000MG AMPOLLA",
+    "stock": 41,
+    "pvp": 5.51
+  },
+  {
+    "nombre": "MEROPENEM 1G AMPOLLA",
+    "stock": 60,
+    "pvp": 5.83
+  },
+  {
+    "nombre": "MEROPENEM POLV/SUSP X 1GR IV",
+    "stock": 20,
+    "pvp": 5.83
+  },
+  {
+    "nombre": "MEROPENEM VIAL 1GR",
+    "stock": 26,
+    "pvp": 5.83
+  },
+  {
+    "nombre": "MEROPENEM VIAL 1GR",
+    "stock": 100,
+    "pvp": 5.83
+  },
+  {
+    "nombre": "MEROPENEM VIAL 1GR",
+    "stock": 10,
+    "pvp": 5.83
+  },
+  {
+    "nombre": "METAMISOL+N-BUTILBROMURO DE ESCOPOLAMINA (BUSCAPINA COMPUESTA)",
+    "stock": 92,
+    "pvp": 1.4
+  },
+  {
+    "nombre": "METAMISOL+N-BUTILBROMURO DE ESCOPOLAMINA (BUSCAPINA COMPUESTA)",
+    "stock": 100,
+    "pvp": 1.4
+  },
+  {
+    "nombre": "METFORMINA 850MG CAJA X 10 TABLETA",
+    "stock": 33,
+    "pvp": 1
+  },
+  {
+    "nombre": "METFORMINA 850MG CAJA X 10 TABLETA",
+    "stock": 10,
+    "pvp": 1
+  },
+  {
+    "nombre": "METHOTREXATO 25MG/ML AMPOLLA",
+    "stock": 2,
+    "pvp": 24
+  },
+  {
+    "nombre": "METILPREDNISOLONA 500MG AMPOLLA",
+    "stock": 37,
+    "pvp": 10.01
+  },
+  {
+    "nombre": "METOCLOPRAMIDA 10MG",
+    "stock": 26,
+    "pvp": 0.37
+  },
+  {
+    "nombre": "METOCLOPRAMIDA 10MG X CAJA",
+    "stock": 16,
+    "pvp": 1.75
+  },
+  {
+    "nombre": "METOTREXATO 2,5MG X 10 TAB.",
+    "stock": 9,
+    "pvp": 13.33
+  },
+  {
+    "nombre": "METOTREXATO 50MG/2ML AMP.",
+    "stock": 2,
+    "pvp": 4.67
+  },
+  {
+    "nombre": "METRONIDAZOL 250MG/ 100ML SUSPENSION",
+    "stock": 4,
+    "pvp": 3.77
+  },
+  {
+    "nombre": "METRONIDAZOL 500MG BLISTER  X 10 TAB.",
+    "stock": 31,
+    "pvp": 1.05
+  },
+  {
+    "nombre": "METRONIDAZOL 500MG DE 100ML AMPOLLA",
+    "stock": 48,
+    "pvp": 1.95
+  },
+  {
+    "nombre": "METRONIDAZOL 500MG/100ML",
+    "stock": 29,
+    "pvp": 1.68
+  },
+  {
+    "nombre": "METRONIDAZOL 500MG/100ML AMP",
+    "stock": 19,
+    "pvp": 2.17
+  },
+  {
+    "nombre": "METRONIDAZOL SUSPENSION 250MG/5ML",
+    "stock": 31,
+    "pvp": 2.67
+  },
+  {
+    "nombre": "MIDAZOLAM 10MG/2ML",
+    "stock": 10,
+    "pvp": 3.08
+  },
+  {
+    "nombre": "MOLENZAVIR 200MG CAJA POR 20TAB",
+    "stock": 1,
+    "pvp": 33.33
+  },
+  {
+    "nombre": "MOMETASONA 0.1% (E)",
+    "stock": 4,
+    "pvp": 6.1
+  },
+  {
+    "nombre": "MONO DE CIRUJANO FVD",
+    "stock": 84,
+    "pvp": 2.51
+  },
+  {
+    "nombre": "MONO DE CIRUJANO TALLA XL 40 GRS UND (DESCART)",
+    "stock": 23,
+    "pvp": 2.92
+  },
+  {
+    "nombre": "MONOCRYL 3-0 Y936",
+    "stock": 12,
+    "pvp": 4.87
+  },
+  {
+    "nombre": "MONOCRYL 4-0 Y426",
+    "stock": 12,
+    "pvp": 4.13
+  },
+  {
+    "nombre": "MONTELUKAST 10 MG X BLISTER 10TAB",
+    "stock": 30,
+    "pvp": 1.65
+  },
+  {
+    "nombre": "MONTELUKAST 10MG CAJA X 10 COMPRIMIDOS",
+    "stock": 3,
+    "pvp": 3.02
+  },
+  {
+    "nombre": "MONTELUKAST 10MG/DESLORATADINA 5MG BLISTER X 10TAB",
+    "stock": 16,
+    "pvp": 1.92
+  },
+  {
+    "nombre": "MONTELUKAST 5MG BLISTER 10 TAB",
+    "stock": 41,
+    "pvp": 1.25
+  },
+  {
+    "nombre": "MONTELUKAST 5MG CAJA X 10 TABLETAS",
+    "stock": 3,
+    "pvp": 2.9
+  },
+  {
+    "nombre": "MONTY-10 (MONTELUKAST ) 10MG CAJA X 10 TABLETAS",
+    "stock": 30,
+    "pvp": 2.03
+  },
+  {
+    "nombre": "MORFINA CLORHIDRATO 10MG/1ML",
+    "stock": 100,
+    "pvp": 1.42
+  },
+  {
+    "nombre": "MOXIFLOXACINO 400MG X 10TABLETAS",
+    "stock": 3,
+    "pvp": 11.67
+  },
+  {
+    "nombre": "N-ACETILCISTEINA 300MG/3ML I.M. I.V.",
+    "stock": 10,
+    "pvp": 6.47
+  },
+  {
+    "nombre": "N-BUTILBROMURO D/ESCOPOLAMINA 20MG/ML IV-IM",
+    "stock": 100,
+    "pvp": 1.33
+  },
+  {
+    "nombre": "N-BUTILBROMURO DE ESCOPOLAMINA (BUSCAPINA SIMPLE)",
+    "stock": 63,
+    "pvp": 1.18
+  },
+  {
+    "nombre": "N-BUTILBROMURO DE ESCOPOLAMINA (BUSCAPINA SIMPLE)",
+    "stock": 194,
+    "pvp": 1.18
+  },
+  {
+    "nombre": "N° 19 RINGER LACTATO SOL. FB 500ML",
+    "stock": 132,
+    "pvp": 4.13
+  },
+  {
+    "nombre": "N° 28 DEXTRO-SAL 5%/0,30% SOLFB 500ML",
+    "stock": 144,
+    "pvp": 3.6
+  },
+  {
+    "nombre": "N° 29 DEXTRO-SAL 5%/0,45% SOLFB 500ML",
+    "stock": 144,
+    "pvp": 3.13
+  },
+  {
+    "nombre": "N°4 DEXTROSA SOLUCION FISIOLOGICA ISOTONICA 500ML",
+    "stock": 72,
+    "pvp": 4
+  },
+  {
+    "nombre": "NALOXONA AMP. 0,4MG/ML",
+    "stock": 86,
+    "pvp": 3
+  },
+  {
+    "nombre": "NEOSTIGMINA 0.5MG/ML AMPOLLAS",
+    "stock": 170,
+    "pvp": 1.61
+  },
+  {
+    "nombre": "NEOSTIGMINA 0.5MG/ML AMPOLLAS",
+    "stock": 30,
+    "pvp": 1.61
+  },
+  {
+    "nombre": "NEOSTIGMINA METILSULFATO 0,5MG/1ML",
+    "stock": 6,
+    "pvp": 1.48
+  },
+  {
+    "nombre": "NEOSTIGMINA METILSULFATO 0,5MG/1ML",
+    "stock": 300,
+    "pvp": 0.67
+  },
+  {
+    "nombre": "NIFEDIPINO 10MG BLISTER X 10 TAB",
+    "stock": 5,
+    "pvp": 0.52
+  },
+  {
+    "nombre": "NIFEDIPINO 20MG BLISTER X 10 TAB",
+    "stock": 15,
+    "pvp": 0.7
+  },
+  {
+    "nombre": "NIFEDIPINO 30MG BLISTER X 10 TAB",
+    "stock": 11,
+    "pvp": 1
+  },
+  {
+    "nombre": "NIMODIPINO 0,2MG/ML FRASCO SOLUCION PARA PERFUSION",
+    "stock": 34,
+    "pvp": 4.13
+  },
+  {
+    "nombre": "NISTATINA OVULOS",
+    "stock": 41,
+    "pvp": 2.83
+  },
+  {
+    "nombre": "NISTATINA SUSPENSION ORAL 100000/5ML",
+    "stock": 10,
+    "pvp": 2.62
+  },
+  {
+    "nombre": "NITROFURANTOINA 100MG CAJA X 10TAB",
+    "stock": 1,
+    "pvp": 4.5
+  },
+  {
+    "nombre": "NOREPINEFRINA 4ML AMPOLLA",
+    "stock": 28,
+    "pvp": 3.87
+  },
+  {
+    "nombre": "NUTRAMIN 8,5% SOL FV 500ML ( AMINOACIDOS)",
+    "stock": 12,
+    "pvp": 37.65
+  },
+  {
+    "nombre": "NYLON 2-0 164 NL262026F4P",
+    "stock": 18,
+    "pvp": 2.15
+  },
+  {
+    "nombre": "NYLON 3-0 163",
+    "stock": 12,
+    "pvp": 2.07
+  },
+  {
+    "nombre": "NYLON 3-0 627",
+    "stock": 12,
+    "pvp": 2.07
+  },
+  {
+    "nombre": "NYLON 4-0 14502",
+    "stock": 12,
+    "pvp": 2.06
+  },
+  {
+    "nombre": "NYLON 5-0 14501",
+    "stock": 12,
+    "pvp": 2.17
+  },
+  {
+    "nombre": "OBTURADOR CAJA X 100 UNDS",
+    "stock": 300,
+    "pvp": 19.93
+  },
+  {
+    "nombre": "OBTURADOR CAJA X 100UND",
+    "stock": 199,
+    "pvp": 19.6
+  },
+  {
+    "nombre": "OLANZAPINA 5MG X BLISTER X 10 TAB",
+    "stock": 97,
+    "pvp": 1.45
+  },
+  {
+    "nombre": "OLMERSARTAN 20MG CAJA X 30 TAB",
+    "stock": 3,
+    "pvp": 4.75
+  },
+  {
+    "nombre": "OLMERSARTAN 40MG CAJA X 30",
+    "stock": 2,
+    "pvp": 10
+  },
+  {
+    "nombre": "OLMESARTAN 40MG-HIDROCLOROTIAZIDA 12,5MG BLISTER X 10TAB",
+    "stock": 15,
+    "pvp": 1.9
+  },
+  {
+    "nombre": "OMEPRAZOL 20MG BP BLISTER X 10 TABLETAS",
+    "stock": 10,
+    "pvp": 0.57
+  },
+  {
+    "nombre": "OMEPRAZOL 40MG",
+    "stock": 4,
+    "pvp": 1.28
+  },
+  {
+    "nombre": "OMEPRAZOL 40MG",
+    "stock": 38,
+    "pvp": 0.93
+  },
+  {
+    "nombre": "OMEPRAZOL 40MG AMP.",
+    "stock": 3,
+    "pvp": 1.78
+  },
+  {
+    "nombre": "OMEPRAZOL 40MG AMPOLLA",
+    "stock": 778,
+    "pvp": 0.83
+  },
+  {
+    "nombre": "OMNIPAQUE 300/1ML DE 50ML",
+    "stock": 1,
+    "pvp": 41.67
+  },
+  {
+    "nombre": "OMNIPAQUE 300MG/100ML",
+    "stock": 4,
+    "pvp": 65.82
+  },
+  {
+    "nombre": "ONDANSETRON 4MG/2ML",
+    "stock": 100,
+    "pvp": 0.18
+  },
+  {
+    "nombre": "ONDANSETRON 8MG/4ML",
+    "stock": 200,
+    "pvp": 1.53
+  },
+  {
+    "nombre": "OXACILINA 1GR",
+    "stock": 50,
+    "pvp": 1.19
+  },
+  {
+    "nombre": "OXACILINA 1GR",
+    "stock": 15,
+    "pvp": 1.19
+  },
+  {
+    "nombre": "OXITETRACILINA- POLIMIXINA B 5MG- 10000IU",
+    "stock": 4,
+    "pvp": 5.42
+  },
+  {
+    "nombre": "PANTOPRAZOL 40MG BLISTER X 10 TAB",
+    "stock": 2,
+    "pvp": 1
+  },
+  {
+    "nombre": "PANTOPRAZOL 40MG BLISTER X 10 TAB",
+    "stock": 22,
+    "pvp": 1
+  },
+  {
+    "nombre": "PANTOPRAZOL 40MG CAJA X 10 TAB",
+    "stock": 2,
+    "pvp": 2.08
+  },
+  {
+    "nombre": "PAPEL BOBINA 5KG",
+    "stock": 2,
+    "pvp": 56.67
+  },
+  {
+    "nombre": "PAPEL CAMILLA POR ROLLO",
+    "stock": 8,
+    "pvp": 5.92
+  },
+  {
+    "nombre": "PDS 4-0 Z496",
+    "stock": 12,
+    "pvp": 3.85
+  },
+  {
+    "nombre": "PENICILINA 1.000.000 UI AMP",
+    "stock": 50,
+    "pvp": 0.92
+  },
+  {
+    "nombre": "PENICILINA BENZA 1.200.000UI",
+    "stock": 91,
+    "pvp": 0.92
+  },
+  {
+    "nombre": "PENTOXIFILINA 400MG BLISTER X 10 TABLETAS",
+    "stock": 20,
+    "pvp": 3.73
+  },
+  {
+    "nombre": "PENTOXIFILINA AMP. 300MG/15ML",
+    "stock": 19,
+    "pvp": 4.17
+  },
+  {
+    "nombre": "PERMETRINA5%-60ML LOCION",
+    "stock": 2,
+    "pvp": 6.82
+  },
+  {
+    "nombre": "PIPERACILINA + TAZOBACTAM AMP. 4,5GR",
+    "stock": 47,
+    "pvp": 8.12
+  },
+  {
+    "nombre": "PIPERACILINA/TAZOBACTAN 4.5GR - 0.5GR IV",
+    "stock": 10,
+    "pvp": 8.13
+  },
+  {
+    "nombre": "PIRIDOXINA 100MG AMP",
+    "stock": 50,
+    "pvp": 2.58
+  },
+  {
+    "nombre": "PIROXICAM 0,5% GEL",
+    "stock": 19,
+    "pvp": 2.08
+  },
+  {
+    "nombre": "PLANCHA ELETROCAUTHIN",
+    "stock": 81,
+    "pvp": 4.33
+  },
+  {
+    "nombre": "PORTOVAC FR 14 , 3/4",
+    "stock": 1,
+    "pvp": 15.83
+  },
+  {
+    "nombre": "PREDNISOLONA 5MG BLISTER X 15 TABLETAS",
+    "stock": 17,
+    "pvp": 1.67
+  },
+  {
+    "nombre": "PREGABALINA 75MG - METILCOBALAMINA 750MCG X 10TAB",
+    "stock": 44,
+    "pvp": 1.65
+  },
+  {
+    "nombre": "PRENDNISOLONA 1%   / 5ML GOTAS",
+    "stock": 1,
+    "pvp": 3.33
+  },
+  {
+    "nombre": "PROPANOLOL 10MG CAJA X 20 TABLETAS",
+    "stock": 2,
+    "pvp": 2.1
+  },
+  {
+    "nombre": "PROPANOLOL 40MG CAJA X 20 TAB",
+    "stock": 2,
+    "pvp": 3.38
+  },
+  {
+    "nombre": "PROPOFOL 200MG/20ML",
+    "stock": 10,
+    "pvp": 5
+  },
+  {
+    "nombre": "PROPOFOL EMULSION 200MG/20ML X AMPOLLA",
+    "stock": 145,
+    "pvp": 5
+  },
+  {
+    "nombre": "PROPRANOLOL 40MG X 10 TAB",
+    "stock": 40,
+    "pvp": 0.75
+  },
+  {
+    "nombre": "QUETIAPINA 200MG CAJA X 30 TABLETAS",
+    "stock": 3,
+    "pvp": 17.65
+  },
+  {
+    "nombre": "QUETIAPINA 200MG X 30 TABLETAS",
+    "stock": 1,
+    "pvp": 17.1
+  },
+  {
+    "nombre": "RANITIDINA 50MG / 2ML",
+    "stock": 29,
+    "pvp": 0.35
+  },
+  {
+    "nombre": "RECOLECTOR MUESTRA DE HECES",
+    "stock": 8,
+    "pvp": 0.13
+  },
+  {
+    "nombre": "RECOLECTOR MUESTRA DE ORINA",
+    "stock": 91,
+    "pvp": 0.23
+  },
+  {
+    "nombre": "REGULADOR DE OXIGENO CON MANOMETRO",
+    "stock": 6,
+    "pvp": 41.67
+  },
+  {
+    "nombre": "REHIDROSOL FRAMBUESA 45 MEQ/L X 600ML",
+    "stock": 5,
+    "pvp": 4.1
+  },
+  {
+    "nombre": "RESUCITADOR MANUAL (AMBU) ADULTO",
+    "stock": 19,
+    "pvp": 33.33
+  },
+  {
+    "nombre": "RESUCITADOR MANUAL (AMBU) PEDIATRICO",
+    "stock": 4,
+    "pvp": 33.33
+  },
+  {
+    "nombre": "RIDAL - RISPERIDONA 1MG/ML",
+    "stock": 1,
+    "pvp": 5.22
+  },
+  {
+    "nombre": "ROLLO DE GASA POR 1OO YARDAS",
+    "stock": 6,
+    "pvp": 29.18
+  },
+  {
+    "nombre": "ROLLO DE PAPEL PRINTER 110MMX20M",
+    "stock": 7,
+    "pvp": 42.87
+  },
+  {
+    "nombre": "ROLLO GASA PARA QUEMADO 4,5\"X4YDS ESTERIL",
+    "stock": 100,
+    "pvp": 3.33
+  },
+  {
+    "nombre": "SABANA DE CAMILLA UND",
+    "stock": 101,
+    "pvp": 1.53
+  },
+  {
+    "nombre": "SALBUTAMOL 100MG X 200 DOSIS",
+    "stock": 3,
+    "pvp": 13.33
+  },
+  {
+    "nombre": "SANDOSTATIN 0,1MG/ML (OCTREOTIDA)",
+    "stock": 30,
+    "pvp": 13.33
+  },
+  {
+    "nombre": "SCALP 21G",
+    "stock": 99,
+    "pvp": 0.15
+  },
+  {
+    "nombre": "SECNIDAZOL 1GR CAJA X 2 TABLETAS",
+    "stock": 2,
+    "pvp": 4.47
+  },
+  {
+    "nombre": "SEDA 0 SH 834",
+    "stock": 3,
+    "pvp": 2
+  },
+  {
+    "nombre": "SEDA 1SH 835 SK260126B0P",
+    "stock": 36,
+    "pvp": 1.85
+  },
+  {
+    "nombre": "SILDENAFILO 50MGX 2 TABLETAS",
+    "stock": 168,
+    "pvp": 0.47
+  },
+  {
+    "nombre": "SIMVASTATINA 40MG  CAJA X 10 TAB",
+    "stock": 5,
+    "pvp": 4.4
+  },
+  {
+    "nombre": "SIMVASTATINA 40MG CAJA X 10",
+    "stock": 4,
+    "pvp": 3.42
+  },
+  {
+    "nombre": "SISTEMA DE DRENAJE 19FR-100ML",
+    "stock": 1,
+    "pvp": 24.17
+  },
+  {
+    "nombre": "SITAGLIPTINA- METF 50MG/500MG CAJA X 30 TAB",
+    "stock": 2,
+    "pvp": 21.82
+  },
+  {
+    "nombre": "SOLUCION FISIOLOGICA 0.9% CLORURO DE SODIO 500ML",
+    "stock": 341,
+    "pvp": 1.37
+  },
+  {
+    "nombre": "SOLUCION FISIOLOGICA 0.9% CLORURO DE SODIO 500ML",
+    "stock": 553,
+    "pvp": 1.37
+  },
+  {
+    "nombre": "SOLUCION JABONOSA YODADA GALON",
+    "stock": 4,
+    "pvp": 10.4
+  },
+  {
+    "nombre": "SOLUCION RINGER LACTATO 500ML",
+    "stock": 132,
+    "pvp": 1.85
+  },
+  {
+    "nombre": "SOLUCION YODADA GALON",
+    "stock": 2,
+    "pvp": 10.4
+  },
+  {
+    "nombre": "SONDA 2V FR10",
+    "stock": 41,
+    "pvp": 2.08
+  },
+  {
+    "nombre": "SONDA ALIMENTACION N°05",
+    "stock": 24,
+    "pvp": 0.67
+  },
+  {
+    "nombre": "SONDA ALIMENTACION N°08",
+    "stock": 24,
+    "pvp": 0.67
+  },
+  {
+    "nombre": "SONDA DE SILICON 3V 20FR",
+    "stock": 20,
+    "pvp": 3.33
+  },
+  {
+    "nombre": "SONDA DE SILICON FR14 2VIAS",
+    "stock": 8,
+    "pvp": 2.08
+  },
+  {
+    "nombre": "SONDA DE SUCCION N°14",
+    "stock": 20,
+    "pvp": 0.82
+  },
+  {
+    "nombre": "SONDA FOLEY 2 VIAS N°18 SILICON",
+    "stock": 39,
+    "pvp": 2.5
+  },
+  {
+    "nombre": "SONDA FOLEY CON BALON 2VIAS FR12",
+    "stock": 20,
+    "pvp": 2.08
+  },
+  {
+    "nombre": "SONDA FOLEY CON BALON 2VIAS FR14",
+    "stock": 32,
+    "pvp": 2.08
+  },
+  {
+    "nombre": "SONDA FOLEY LATEX/SILICONADO N°16 2V",
+    "stock": 16,
+    "pvp": 2.08
+  },
+  {
+    "nombre": "SONDA FOLEY N°18 2VIAS",
+    "stock": 10,
+    "pvp": 6.95
+  },
+  {
+    "nombre": "SONDA FOLEY SILICONADA 3VIAS FR24",
+    "stock": 19,
+    "pvp": 8.08
+  },
+  {
+    "nombre": "SONDA FOLEY SILICONADA LATEX 3V FR22",
+    "stock": 5,
+    "pvp": 6.95
+  },
+  {
+    "nombre": "SONDA LEVIN N° 12",
+    "stock": 12,
+    "pvp": 1.73
+  },
+  {
+    "nombre": "SONDA LEVIN N°12",
+    "stock": 6,
+    "pvp": 1.73
+  },
+  {
+    "nombre": "SONDA LEVIN N°14",
+    "stock": 1,
+    "pvp": 1.73
+  },
+  {
+    "nombre": "SONDA LEVIN N°16FR",
+    "stock": 2,
+    "pvp": 1.73
+  },
+  {
+    "nombre": "SONDA NELATON FR16",
+    "stock": 39,
+    "pvp": 0.7
+  },
+  {
+    "nombre": "SONDA SALEM N°14",
+    "stock": 1,
+    "pvp": 1.67
+  },
+  {
+    "nombre": "SONDA SILICON 1VIA FR5",
+    "stock": 10,
+    "pvp": 0.82
+  },
+  {
+    "nombre": "SONDA SILICON FOLEY 3VIAS FR22",
+    "stock": 64,
+    "pvp": 6.95
+  },
+  {
+    "nombre": "SONDA SILICON FOLEY FR16 3 VIAS",
+    "stock": 44,
+    "pvp": 8.08
+  },
+  {
+    "nombre": "SONDA SILICONADA FOLEY 3VIAS FR20",
+    "stock": 93,
+    "pvp": 6.95
+  },
+  {
+    "nombre": "SONDASILICON 3VIAS FR 18",
+    "stock": 20,
+    "pvp": 8.08
+  },
+  {
+    "nombre": "STREPTUKINASE 1500 U AMPOLLA",
+    "stock": 9,
+    "pvp": 97.5
+  },
+  {
+    "nombre": "SUCCINILCOLINA AMP.",
+    "stock": 10,
+    "pvp": 15.1
+  },
+  {
+    "nombre": "SUCRADEL 1GR SOBRE X 10",
+    "stock": 1,
+    "pvp": 8.55
+  },
+  {
+    "nombre": "SUCRALFATO 1GR CAJA X 10TAB",
+    "stock": 2,
+    "pvp": 7.25
+  },
+  {
+    "nombre": "SULFADIAZINA DE PLATA 1% 500GR CREMA",
+    "stock": 2,
+    "pvp": 31
+  },
+  {
+    "nombre": "SULFADIAZINA DE PLATA 1% CREMA",
+    "stock": 4,
+    "pvp": 3.75
+  },
+  {
+    "nombre": "SULFAMETOXAZOL + TRIMETOPRIM 400+80MG/5ML",
+    "stock": 58,
+    "pvp": 3.38
+  },
+  {
+    "nombre": "SULFATO DE MAGNESIO AMP. 1GR/10ML",
+    "stock": 30,
+    "pvp": 2.7
+  },
+  {
+    "nombre": "SURVANTA AMPOLLA 25MG/ML",
+    "stock": 2,
+    "pvp": 678.68
+  },
+  {
+    "nombre": "SUTURA CATGUT SIMPLE 2-0 843",
+    "stock": 12,
+    "pvp": 1.18
+  },
+  {
+    "nombre": "SUTURA CROMICO 3-0 CT1 810",
+    "stock": 12,
+    "pvp": 1.55
+  },
+  {
+    "nombre": "SUTURA CROMICO 3-0 SH G 122",
+    "stock": 12,
+    "pvp": 1.33
+  },
+  {
+    "nombre": "SUTURA CROMICO CT1 811",
+    "stock": 7,
+    "pvp": 1.55
+  },
+  {
+    "nombre": "SUTURA CROMICO SH G123",
+    "stock": 12,
+    "pvp": 1.33
+  },
+  {
+    "nombre": "SUTURA DOS 4-0 Z496",
+    "stock": 12,
+    "pvp": 4.63
+  },
+  {
+    "nombre": "SUTURA MONOCRYL 4-0PS2 Y-426",
+    "stock": 12,
+    "pvp": 3.37
+  },
+  {
+    "nombre": "SUTURA NYLON 2-0 KS/AC 628",
+    "stock": 34,
+    "pvp": 1.18
+  },
+  {
+    "nombre": "SUTURA NYLON 2-0 SC 26 164T",
+    "stock": 21,
+    "pvp": 1.05
+  },
+  {
+    "nombre": "SUTURA NYLON 3-0 627",
+    "stock": 24,
+    "pvp": 1.18
+  },
+  {
+    "nombre": "SUTURA NYLON 3-0 SC 24 163",
+    "stock": 48,
+    "pvp": 1.05
+  },
+  {
+    "nombre": "SUTURA NYLON 4-0 SC -20 14502",
+    "stock": 24,
+    "pvp": 1.05
+  },
+  {
+    "nombre": "SUTURA PROLENE 1-0 8425",
+    "stock": 36,
+    "pvp": 0.9
+  },
+  {
+    "nombre": "SUTURA PROLENE 2-0 8623",
+    "stock": 24,
+    "pvp": 0.92
+  },
+  {
+    "nombre": "SUTURA PROLENE 2-0 SC 26 8185",
+    "stock": 24,
+    "pvp": 0.92
+  },
+  {
+    "nombre": "SUTURA SEDA 1 SA87",
+    "stock": 6,
+    "pvp": 2.03
+  },
+  {
+    "nombre": "SUTURA SEDA 2 SA85",
+    "stock": 12,
+    "pvp": 2.03
+  },
+  {
+    "nombre": "SUTURA VICRYL 0 J340",
+    "stock": 24,
+    "pvp": 2.17
+  },
+  {
+    "nombre": "SUTURA VICRYL 1 CT 1 341",
+    "stock": 1,
+    "pvp": 2.73
+  },
+  {
+    "nombre": "SUTURA VICRYL 2-0 J317",
+    "stock": 10,
+    "pvp": 2.17
+  },
+  {
+    "nombre": "SUTURA VICRYL 3-0 J316",
+    "stock": 11,
+    "pvp": 2.17
+  },
+  {
+    "nombre": "SUTURA VICRYL RAPID 3-0 9923",
+    "stock": 48,
+    "pvp": 2.75
+  },
+  {
+    "nombre": "SUTURA VICRYL SH 4-0 J315",
+    "stock": 12,
+    "pvp": 2.17
+  },
+  {
+    "nombre": "SUTURA VICYRL RAPID 4-0 W9922",
+    "stock": 12,
+    "pvp": 2.75
+  },
+  {
+    "nombre": "TADABRIX (TADALAFILO)20MG X 4 TABLETAS",
+    "stock": 8,
+    "pvp": 0.58
+  },
+  {
+    "nombre": "TAMSULOSINA 0,4MG X 10TAB",
+    "stock": 34,
+    "pvp": 1.02
+  },
+  {
+    "nombre": "TAMSULOSINA 0,4MG X 30 TAB",
+    "stock": 11,
+    "pvp": 2.77
+  },
+  {
+    "nombre": "TELMISARTAN 40MG X CAJA 30 TABLETA",
+    "stock": 7,
+    "pvp": 4.1
+  },
+  {
+    "nombre": "TELMISARTAN 80MG CAJA X 30 TABLETA",
+    "stock": 7,
+    "pvp": 8.18
+  },
+  {
+    "nombre": "TIBOZAK 2,5MG CAJA X 28TAB",
+    "stock": 37,
+    "pvp": 11.67
+  },
+  {
+    "nombre": "TIGECICLINA 50MG AMPOLLA",
+    "stock": 30,
+    "pvp": 26
+  },
+  {
+    "nombre": "TINIDAZOL 500MG TAB X 10 TAB",
+    "stock": 36,
+    "pvp": 1.67
+  },
+  {
+    "nombre": "TOXOIDE TETANICO",
+    "stock": 3,
+    "pvp": 9.17
+  },
+  {
+    "nombre": "TRAMADOL 100MG/2ML",
+    "stock": 50,
+    "pvp": 2.1
+  },
+  {
+    "nombre": "TRAMADOL CLORHIDRATO 100MG/2ML AMP",
+    "stock": 80,
+    "pvp": 2.1
+  },
+  {
+    "nombre": "TRAMADOL CLORHIDRATO 100MG/2ML AMP",
+    "stock": 190,
+    "pvp": 2.1
+  },
+  {
+    "nombre": "TRAMPA DE LUKENS 14FR",
+    "stock": 12,
+    "pvp": 3.02
+  },
+  {
+    "nombre": "TRAQUEOTOMO 6.5MM",
+    "stock": 2,
+    "pvp": 12.45
+  },
+  {
+    "nombre": "TRAQUEOTOMO 6MM",
+    "stock": 1,
+    "pvp": 12.45
+  },
+  {
+    "nombre": "TRAQUEOTOMO 7MM",
+    "stock": 1,
+    "pvp": 12.45
+  },
+  {
+    "nombre": "TRAZEL 10ML AMPOLLA",
+    "stock": 49,
+    "pvp": 8.17
+  },
+  {
+    "nombre": "TRIANCINOLONA 40MG AMPOLLA",
+    "stock": 20,
+    "pvp": 5.94
+  },
+  {
+    "nombre": "TRIFLOW II",
+    "stock": 19,
+    "pvp": 8.12
+  },
+  {
+    "nombre": "TRIMEBUTINA 200MG X BLISTER 10 TAB",
+    "stock": 10,
+    "pvp": 4.12
+  },
+  {
+    "nombre": "TRIMEBUTINA 50MG/5ML AMPOLLA",
+    "stock": 3,
+    "pvp": 5.1
+  },
+  {
+    "nombre": "TRIMETOPRIM 160MG/800MG BLISTER X 10TAB",
+    "stock": 13,
+    "pvp": 1.55
+  },
+  {
+    "nombre": "TRIMETOPRIM 160MG/800MG BLISTER X 10TAB",
+    "stock": 30,
+    "pvp": 1.55
+  },
+  {
+    "nombre": "TRIMETOPRIMA / SULFAMETOXAZOL 80/400MG CAJA X 10TAB",
+    "stock": 17,
+    "pvp": 3.18
+  },
+  {
+    "nombre": "TUBO DE EXTENSION K50",
+    "stock": 4,
+    "pvp": 0.47
+  },
+  {
+    "nombre": "TUBO ENDOTRAQUEAL 7MM",
+    "stock": 9,
+    "pvp": 2.2
+  },
+  {
+    "nombre": "TUBO ENDOTRAQUEAL 9MM",
+    "stock": 5,
+    "pvp": 2.2
+  },
+  {
+    "nombre": "TUBO RECOLECCION DE SANGRE TAPA AZUL",
+    "stock": 9,
+    "pvp": 10.9
+  },
+  {
+    "nombre": "TUBO RECOLECCION DE SANGRE TAPA ROJA",
+    "stock": 9,
+    "pvp": 16.9
+  },
+  {
+    "nombre": "TUBO RECOLECCION DE SANGRE TAPA ROJA",
+    "stock": 15,
+    "pvp": 13.53
+  },
+  {
+    "nombre": "ULTRAVIST 300MGI/ML   (IOPROMIDA) FRASCO AMPOLLAS",
+    "stock": 10,
+    "pvp": 76.67
+  },
+  {
+    "nombre": "VALSARTAN 160 MG BLISTER X 10 TAB",
+    "stock": 34,
+    "pvp": 5.3
+  },
+  {
+    "nombre": "VALSARTAN 80MG BLISTER X 10 TAB",
+    "stock": 37,
+    "pvp": 3.12
+  },
+  {
+    "nombre": "VANCOMICINA 1GR",
+    "stock": 4,
+    "pvp": 2.68
+  },
+  {
+    "nombre": "VANCOMICINA 500MG  IV",
+    "stock": 11,
+    "pvp": 2.32
+  },
+  {
+    "nombre": "VANCOMICINA 500MG AMPOLLA",
+    "stock": 9,
+    "pvp": 2.32
+  },
+  {
+    "nombre": "VANCOMICINA 500MG AMPOLLA",
+    "stock": 10,
+    "pvp": 4.12
+  },
+  {
+    "nombre": "VANCOMICINA 500MG IV",
+    "stock": 190,
+    "pvp": 2.68
+  },
+  {
+    "nombre": "VENDA ELASTICA 10X10CMS",
+    "stock": 2,
+    "pvp": 1.62
+  },
+  {
+    "nombre": "VENDA ELASTICA 15CM",
+    "stock": 45,
+    "pvp": 1.78
+  },
+  {
+    "nombre": "VENDA ELASTICA 15CM X 5CMS",
+    "stock": 100,
+    "pvp": 2.15
+  },
+  {
+    "nombre": "VENDA ELASTICA 20CM",
+    "stock": 7,
+    "pvp": 2.63
+  },
+  {
+    "nombre": "VENDA QUEMADOS KERLY",
+    "stock": 237,
+    "pvp": 2.02
+  },
+  {
+    "nombre": "VENDA TUBULAR HIDRO DELTA DRY 5CM",
+    "stock": 2,
+    "pvp": 7.5
+  },
+  {
+    "nombre": "VITAMINA  B1 B6 B12 AMPOLLA",
+    "stock": 100,
+    "pvp": 0.52
+  },
+  {
+    "nombre": "YANKAUER 10\"TUBE",
+    "stock": 99,
+    "pvp": 3
+  },
+  {
+    "nombre": "YESO ORTOBAN 10CMS",
+    "stock": 14,
+    "pvp": 3.3
+  },
+  {
+    "nombre": "YESO ORTOBAN 15CMS",
+    "stock": 4,
+    "pvp": 7.25
+  },
+  {
+    "nombre": "YESO ORTOBAN 20CMS",
+    "stock": 1,
+    "pvp": 6.57
+  }
+]

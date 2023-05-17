@@ -50,7 +50,22 @@
     </tbody>
 </table>
 <div>
-    {{$eventos->links()}}
+    <ul class="pagination" style="">
+    @if($eventos->previousPageUrl())
+        <li>
+            <a class=" btn white-text" style="min-width:200px;" href="{{$eventos->previousPageUrl()}}">
+                 Anterior
+            </a>
+        </li>
+    @endif
+    @if($eventos->nextPageUrl())
+        <li>
+            <a class=" btn white-text" style="min-width:200px;" href="{{$eventos->nextPageUrl()}}">
+                 Siguiente
+            </a>
+        </li>
+    @endif
+  </ul>
 </div>
 <div class="fixed-action-btn">
     <a class="btn-floating btn-large green  modal-trigger" href="#create">

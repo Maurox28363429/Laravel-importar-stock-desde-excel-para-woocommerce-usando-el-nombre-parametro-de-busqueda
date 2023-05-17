@@ -1,0 +1,6575 @@
+ [
+  {
+    id: "1",
+    marca: "DYNALAB",
+    nombre: "ACECLOFENACO 100MG CAJA X 20 TABLETAS",
+    stock: "1.00",
+    pvp: "2.52",
+    pvp bs: "Bs.64.03",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "2",
+    marca: "BIOMEDIC",
+    nombre: "ACETAMINOFEN 300MG/2ML AMP ( PARACETAMOL)",
+    stock: "18.00",
+    pvp: "0.47",
+    pvp bs: "Bs.11.88",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "3",
+    marca: "BRIXMEDIC",
+    nombre: "ACETAMINOFEN 500MG BLISTER X 10 TABLETAS",
+    stock: "11.00",
+    pvp: "3.17",
+    pvp bs: "Bs.80.56",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "4",
+    marca: "BRIXMEDIC",
+    nombre: "ACETAMINOFEN 500MG BLISTER X 10 TABLETAS",
+    stock: "10.00",
+    pvp: "0.88",
+    pvp bs: "Bs.22.48",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "5",
+    marca: "BRIXMEDIC",
+    nombre: "ACETAMINOFEN 650MG-CAFEINA-ERGOTAMINA BLISTER X 10 TAB",
+    stock: "9.00",
+    pvp: "2.03",
+    pvp bs: "Bs.51.73",
+    vencimiento: "30/06/2023"
+  },
+  {
+    id: "6",
+    marca: "INMENOL INDUSTRIAL",
+    nombre: "ACETAMINOFEN SUPOSITORIO X 5 UNIDADES",
+    stock: "129.00",
+    pvp: "2.95",
+    pvp bs: "Bs.75.05",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "7",
+    marca: "INMENOL INDUSTRIAL",
+    nombre: "ACETAMINOFEN SUPOSITORIO X 5 UNIDADES",
+    stock: "98.00",
+    pvp: "2.95",
+    pvp bs: "Bs.75.05",
+    vencimiento: "30/10/2023"
+  },
+  {
+    id: "8",
+    marca: "BRIXMEDIC",
+    nombre: "ACETAMINOFEN-CLORFENIRAMINA 500MG/2M BLISTER POR 10 TABLETAS",
+    stock: "10.00",
+    pvp: "0.88",
+    pvp bs: "Bs.22.48",
+    vencimiento: "30/12/2025"
+  },
+  {
+    id: "9",
+    marca: "BRIXMEDIC",
+    nombre: "ACETAMINOFEN-CLORFENIRAMINA 500MG/4MG BLISTER POR 10 TABLETAS",
+    stock: "10.00",
+    pvp: "0.88",
+    pvp bs: "Bs.22.48",
+    vencimiento: "30/08/2025"
+  },
+  {
+    id: "10",
+    marca: "PIMMCLA",
+    nombre: "ACICLOVIR 200MG AMPOLLA",
+    stock: "2.00",
+    pvp: "2.58",
+    pvp bs: "Bs.65.73",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "11",
+    marca: "BRIXMEDIC",
+    nombre: "ACICLOVIR 400MG BLISTER X 10 TABLETAS",
+    stock: "7.00",
+    pvp: "2.52",
+    pvp bs: "Bs.64.03",
+    vencimiento: "01/04/2024"
+  },
+  {
+    id: "12",
+    marca: "COASPHARMA",
+    nombre: "ACICLOVIR 5% CREMA",
+    stock: "17.00",
+    pvp: "1.63",
+    pvp bs: "Bs.41.56",
+    vencimiento: "30/01/2024"
+  },
+  {
+    id: "13",
+    marca: "BRIXMEDIC",
+    nombre: "ACIDO ACETILSALICILICO 81 MG BLISTER X 10 TAB",
+    stock: "61.00",
+    pvp: "0.60",
+    pvp bs: "Bs.15.27",
+    vencimiento: "30/03/2025"
+  },
+  {
+    id: "14",
+    marca: "MEDWISE",
+    nombre: "ACIDO ASCORBICO 500MG/2ML",
+    stock: "50.00",
+    pvp: "0.85",
+    pvp bs: "Bs.21.63",
+    vencimiento: "30/08/2023"
+  },
+  {
+    id: "15",
+    marca: "REYOUNG",
+    nombre: "ACIDO ASCORBICO AMPOLLA 100MG/2ML",
+    stock: "200.00",
+    pvp: "0.23",
+    pvp bs: "Bs.5.94",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "16",
+    marca: "BIOMEDIC",
+    nombre: "ACIDO FOLICO 10MG X BLISTER 10TAB",
+    stock: "43.00",
+    pvp: "1.08",
+    pvp bs: "Bs.27.57",
+    vencimiento: "31/12/2024"
+  },
+  {
+    id: "17",
+    marca: "KLINOS",
+    nombre: "ACIDO FOLICO 5MG X 30 COMPRIMIDOS",
+    stock: "10.00",
+    pvp: "2.03",
+    pvp bs: "Bs.51.73",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "18",
+    marca: "DYNALAB",
+    nombre: "ACIDO IBANDRONICO 150MG 1 TABLETA",
+    stock: "5.00",
+    pvp: "3.38",
+    pvp bs: "Bs.86.08",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "19",
+    marca: "REYOUNG",
+    nombre: "ACIDO TRANEXAMICO 500MG/5ML",
+    stock: "175.00",
+    pvp: "0.93",
+    pvp bs: "Bs.23.59",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "20",
+    marca: "BRIXMEDIC",
+    nombre: "ACIDO VALPROICO 500MG BLISTER POR 10 TABLETAS",
+    stock: "6.00",
+    pvp: "2.80",
+    pvp bs: "Bs.71.24",
+    vencimiento: "01/06/2023"
+  },
+  {
+    id: "21",
+    marca: "VITALIS",
+    nombre: "ACIDO ZOLEDRONICO 4MG/5ML AMPOLLA",
+    stock: "2.00",
+    pvp: "38.88",
+    pvp bs: "Bs.989.22",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "22",
+    marca: "AKORN",
+    nombre: "ADENOSINE 6MG/2ML AMPOLLA",
+    stock: "47.00",
+    pvp: "10.00",
+    pvp bs: "Bs.254.41",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "23",
+    marca: "EUROFAN",
+    nombre: "ADHESIVO EUROFAN 9.14X5CMS",
+    stock: "12.00",
+    pvp: "5.00",
+    pvp bs: "Bs.127.21",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "24",
+    marca: "GIDAGUS",
+    nombre: "ADHESIVO Q. 2,5CMS",
+    stock: "7.00",
+    pvp: "6.67",
+    pvp bs: "Bs.169.61",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "25",
+    marca: "GIDAGUS",
+    nombre: "ADHESIVO QUIRURGICO 5CM",
+    stock: "6.00",
+    pvp: "2.33",
+    pvp bs: "Bs.59.37",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "26",
+    marca: "GIGDAUS",
+    nombre: "ADHESIVO QUIRURGICO GIDAUS COLOR PIEL 2.5CMSX5CMS",
+    stock: "9.00",
+    pvp: "6.55",
+    pvp bs: "Bs.166.64",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "27",
+    marca: "ROSPITAL",
+    nombre: "ADHESIVO QUIRURGICO ROSPITAL 5CMX9,1CMS",
+    stock: "1.00",
+    pvp: "2.20",
+    pvp bs: "Bs.55.97",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "28",
+    marca: "BIOSANO",
+    nombre: "ADRENALINA 1GR/1ML",
+    stock: "109.00",
+    pvp: "0.63",
+    pvp bs: "Bs.16.12",
+    vencimiento: "01/07/2023"
+  },
+  {
+    id: "29",
+    marca: "NEPHRON",
+    nombre: "ADRENALINA RACEMICA SOLUCION PARA INHALACION USP 2,25% AMPOLLA",
+    stock: "30.00",
+    pvp: "5.27",
+    pvp bs: "Bs.133.99",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "30",
+    marca: "BEHRENS",
+    nombre: "AGUA DESTILADA FRASCO 500ML",
+    stock: "184.00",
+    pvp: "4.77",
+    pvp bs: "Bs.121.27",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "31",
+    marca: "",
+    nombre: "AGUA OXIGENA 3% GALON",
+    stock: "2.00",
+    pvp: "11.28",
+    pvp bs: "Bs.287.06",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "32",
+    marca: "ALNA",
+    nombre: "AGUA OXIGENA 500CC",
+    stock: "1.00",
+    pvp: "1.73",
+    pvp bs: "Bs.44.10",
+    vencimiento: "30/12/2024"
+  },
+  {
+    id: "33",
+    marca: "MEDAC",
+    nombre: "AGUJA EPIDURAL 16G",
+    stock: "2.00",
+    pvp: "1.33",
+    pvp bs: "Bs.33.93",
+    vencimiento: "30/05/2026"
+  },
+  {
+    id: "34",
+    marca: "GROSSMED",
+    nombre: "AGUJA HIPODERMICA 18G X 1 1/2",
+    stock: "100.00",
+    pvp: "0.08",
+    pvp bs: "Bs.2.12",
+    vencimiento: "30/08/2026"
+  },
+  {
+    id: "35",
+    marca: "MEDAID",
+    nombre: "AGUJA HIPODERMICA 19GX1 1/2\",
+    stock: "400.00",
+    pvp: "0.08",
+    pvp bs: "Bs.2.12",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "36",
+    marca: "DYNAMICS",
+    nombre: "AGUJA HIPODERMICA 21G 1/1/2",
+    stock: "100.00",
+    pvp: "0.08",
+    pvp bs: "Bs.2.12",
+    vencimiento: "30/12/2023"
+  },
+  {
+    id: "37",
+    marca: "MEDAID",
+    nombre: "AGUJA HIPODERMICA 22GX1 1/2\",
+    stock: "490.00",
+    pvp: "0.08",
+    pvp bs: "Bs.2.12",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "38",
+    marca: "GROSSMED",
+    nombre: "AGUJA HIPODERMICA 23G X 1",
+    stock: "100.00",
+    pvp: "0.08",
+    pvp bs: "Bs.2.12",
+    vencimiento: "30/06/2026"
+  },
+  {
+    id: "39",
+    marca: "MEDAID",
+    nombre: "AGUJA HIPODERMICA 23GX1 1/2\",
+    stock: "700.00",
+    pvp: "0.08",
+    pvp bs: "Bs.2.12",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "40",
+    marca: "MEDAID",
+    nombre: "AGUJA HIPODERMICA 25GX1 1/2\",
+    stock: "700.00",
+    pvp: "0.08",
+    pvp bs: "Bs.2.12",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "41",
+    marca: "GROSSMED",
+    nombre: "AGUJA HIPODERMICA 27G",
+    stock: "100.00",
+    pvp: "0.08",
+    pvp bs: "Bs.2.12",
+    vencimiento: "30/06/2026"
+  },
+  {
+    id: "42",
+    marca: "IMSUMEDICAL",
+    nombre: "AGUJA HIPODERMICA IMSUMEDICAL 25G X 5/8",
+    stock: "200.00",
+    pvp: "0.08",
+    pvp bs: "Bs.2.12",
+    vencimiento: "31/08/2024"
+  },
+  {
+    id: "43",
+    marca: "INSUMEDICAL",
+    nombre: "AGUJA HIPODERMICA INSUMEDICAL 22G",
+    stock: "280.00",
+    pvp: "0.08",
+    pvp bs: "Bs.2.12",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "44",
+    marca: "MEDAID",
+    nombre: "AGUJA HIPODERMICA. 27G",
+    stock: "100.00",
+    pvp: "0.08",
+    pvp bs: "Bs.2.12",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "45",
+    marca: "MCD",
+    nombre: "AGUJA PERICRANEA 21CAJA X 100",
+    stock: "100.00",
+    pvp: "0.13",
+    pvp bs: "Bs.3.40",
+    vencimiento: "30/05/2026"
+  },
+  {
+    id: "46",
+    marca: "GIGDAUS",
+    nombre: "AGUJA PERICRANEAL SCALP #21",
+    stock: "88.00",
+    pvp: "0.13",
+    pvp bs: "Bs.3.25",
+    vencimiento: "30/07/2026"
+  },
+  {
+    id: "47",
+    marca: "DYNAMICS",
+    nombre: "AGUJA TIPO PLUMA 21GX1 1/2",
+    stock: "200.00",
+    pvp: "0.25",
+    pvp bs: "Bs.6.36",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "48",
+    marca: "DYNAMICS",
+    nombre: "AGUJA TIPO PLUMA PARA EXTRACCION DE SANGRE 23G X 1 1/2",
+    stock: "100.00",
+    pvp: "0.25",
+    pvp bs: "Bs.6.36",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "49",
+    marca: "DYNAMICS",
+    nombre: "AGUJAS HIPORDERMICAS 18X1 CAJA DE 100",
+    stock: "290.00",
+    pvp: "0.07",
+    pvp bs: "Bs.1.77",
+    vencimiento: "30/12/2023"
+  },
+  {
+    id: "50",
+    marca: "COASPHARMA",
+    nombre: "ALBENDAZOL 200MG CAJA X 2 TABLETAS",
+    stock: "104.00",
+    pvp: "0.67",
+    pvp bs: "Bs.16.96",
+    vencimiento: "01/03/2024"
+  },
+  {
+    id: "51",
+    marca: "BRIXMEDIC",
+    nombre: "ALBENDAZOL 400MG MASTICABLE BLISTER X 10TAB",
+    stock: "7.00",
+    pvp: "2.07",
+    pvp bs: "Bs.52.58",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "52",
+    marca: "COASPHARMA",
+    nombre: "ALBENDAZOL 400MG/10ML SUSPENSION",
+    stock: "12.00",
+    pvp: "1.50",
+    pvp bs: "Bs.38.16",
+    vencimiento: "01/10/2023"
+  },
+  {
+    id: "53",
+    marca: "KEDRION",
+    nombre: "ALBUMINA HUMANA 20% X 50ML",
+    stock: "4.00",
+    pvp: "75.50",
+    pvp bs: "Bs.1,920.81",
+    vencimiento: "30/05/2025"
+  },
+  {
+    id: "54",
+    marca: "ALNA",
+    nombre: "ALCOHOL 120 CC",
+    stock: "1.00",
+    pvp: "1.53",
+    pvp bs: "Bs.39.01",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "55",
+    marca: "ALNA",
+    nombre: "ALCOHOL 240CC",
+    stock: "1.00",
+    pvp: "1.00",
+    pvp bs: "Bs.25.44",
+    vencimiento: "25/02/2024"
+  },
+  {
+    id: "56",
+    marca: "ALNA",
+    nombre: "ALCOHOL 500CC",
+    stock: "5.00",
+    pvp: "5.00",
+    pvp bs: "Bs.127.21",
+    vencimiento: "25/02/2024"
+  },
+  {
+    id: "57",
+    marca: "ALNA",
+    nombre: "ALCOHOL 500CC SPRAY",
+    stock: "2.00",
+    pvp: "5.00",
+    pvp bs: "Bs.127.21",
+    vencimiento: "25/02/2024"
+  },
+  {
+    id: "58",
+    marca: "ALNA",
+    nombre: "ALCOHOL 950ML",
+    stock: "1.00",
+    pvp: "6.48",
+    pvp bs: "Bs.164.94",
+    vencimiento: "25/02/2024"
+  },
+  {
+    id: "59",
+    marca: "ALNA",
+    nombre: "ALCOHOL ABSOLUTO ALNA",
+    stock: "1.00",
+    pvp: "4.40",
+    pvp bs: "Bs.111.94",
+    vencimiento: "30/08/2026"
+  },
+  {
+    id: "60",
+    marca: "ALNA",
+    nombre: "ALCOHOL GALON",
+    stock: "1.00",
+    pvp: "15.40",
+    pvp bs: "Bs.391.79",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "61",
+    marca: "YODINE",
+    nombre: "ALCOHOL ISOPROPILICO 1 LT",
+    stock: "10.00",
+    pvp: "5.30",
+    pvp bs: "Bs.134.84",
+    vencimiento: "25/02/2026"
+  },
+  {
+    id: "62",
+    marca: "FRASCO SPRAY 120CC",
+    nombre: "ALCOHOL SPRAY 120CC",
+    stock: "2.00",
+    pvp: "0.78",
+    pvp bs: "Bs.19.93",
+    vencimiento: "25/02/2024"
+  },
+  {
+    id: "63",
+    marca: "BIOSANO",
+    nombre: "AMIKACINA 100MG/ 2ML",
+    stock: "100.00",
+    pvp: "0.80",
+    pvp bs: "Bs.20.36",
+    vencimiento: "29/06/2023"
+  },
+  {
+    id: "64",
+    marca: "TIANJIN PHARMACEUTICAL",
+    nombre: "AMIKACINA 100MG/2ML",
+    stock: "100.00",
+    pvp: "0.62",
+    pvp bs: "Bs.15.69",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "65",
+    marca: "VITALIS",
+    nombre: "AMIKACINA 100MG/2ML AMPOLLA",
+    stock: "30.00",
+    pvp: "1.00",
+    pvp bs: "Bs.25.45",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "66",
+    marca: "VITALIS",
+    nombre: "AMIKACINA 500MG/2ML",
+    stock: "40.00",
+    pvp: "1.50",
+    pvp bs: "Bs.38.14",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "67",
+    marca: "AMIKACINA 500MG/2ML",
+    nombre: "AMIKACINA 500MG/2ML",
+    stock: "14.00",
+    pvp: "1.33",
+    pvp bs: "Bs.33.93",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "68",
+    marca: "VITALIS",
+    nombre: "AMIKACINA 500MG/2ML",
+    stock: "20.00",
+    pvp: "1.43",
+    pvp bs: "Bs.36.47",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "69",
+    marca: "BIOSANO",
+    nombre: "AMINOFILINA 250MG/10ML",
+    stock: "175.00",
+    pvp: "1.03",
+    pvp bs: "Bs.26.29",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "70",
+    marca: "BIOSANO",
+    nombre: "AMIODARONA CLORHIDRATO 150MG/3ML",
+    stock: "98.00",
+    pvp: "1.33",
+    pvp bs: "Bs.33.94",
+    vencimiento: "30/01/2025"
+  },
+  {
+    id: "71",
+    marca: "BRIXMEDIC",
+    nombre: "AMLODIPINA 10MG BLISTER X 10 TAB",
+    stock: "24.00",
+    pvp: "0.73",
+    pvp bs: "Bs.18.66",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "72",
+    marca: "GENVEN",
+    nombre: "AMLODIPINA 10MG CAJA X 10 COMPRIMIDOS",
+    stock: "5.00",
+    pvp: "1.47",
+    pvp bs: "Bs.37.32",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "73",
+    marca: "BRIXMEDIC",
+    nombre: "AMLODIPINA 5MG BLISTER X 10 TAB",
+    stock: "80.00",
+    pvp: "0.48",
+    pvp bs: "Bs.12.30",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "74",
+    marca: "ZAKI",
+    nombre: "AMOXICILINA 500MG CAJA X 10TABLETAS",
+    stock: "10.00",
+    pvp: "1.93",
+    pvp bs: "Bs.49.19",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "75",
+    marca: "BRIXMEDIC",
+    nombre: "AMOXICILINA SUSPENSION ORAL 250MG/5ML",
+    stock: "10.00",
+    pvp: "3.47",
+    pvp bs: "Bs.88.20",
+    vencimiento: "30/12/2025"
+  },
+  {
+    id: "76",
+    marca: "VITALIS",
+    nombre: "AMPICILINA + SULBACTAN 1.5GR AMPOLLA",
+    stock: "10.00",
+    pvp: "1.57",
+    pvp bs: "Bs.40.06",
+    vencimiento: "30/11/2025"
+  },
+  {
+    id: "77",
+    marca: "BALAXI",
+    nombre: "AMPICILINA 1GR AMPOLLA",
+    stock: "50.00",
+    pvp: "1.53",
+    pvp bs: "Bs.39.01",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "78",
+    marca: "VITALIS",
+    nombre: "AMPICILINA 1GR AMPOLLA",
+    stock: "40.00",
+    pvp: "1.38",
+    pvp bs: "Bs.35.20",
+    vencimiento: "30/03/2025"
+  },
+  {
+    id: "79",
+    marca: "BIOMEDIC LAB",
+    nombre: "AMPICILINA SULBACTAM 1,5 AMPOLLA",
+    stock: "171.00",
+    pvp: "0.93",
+    pvp bs: "Bs.23.59",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "80",
+    marca: "ALESS PHARMACEUTICALS",
+    nombre: "AMPICILINA SULBACTAN 1.5GR AMPOLLA",
+    stock: "4.00",
+    pvp: "1.48",
+    pvp bs: "Bs.37.74",
+    vencimiento: "30/03/2025"
+  },
+  {
+    id: "81",
+    marca: "EL MORRO",
+    nombre: "AMPICILINA SULBACTAN 1.5GR AMPOLLAS",
+    stock: "11.00",
+    pvp: "1.57",
+    pvp bs: "Bs.40.06",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "82",
+    marca: "BHAR",
+    nombre: "ANFOTERICINA B AMP 50MG",
+    stock: "10.00",
+    pvp: "32.08",
+    pvp bs: "Bs.816.09",
+    vencimiento: "25/02/2024"
+  },
+  {
+    id: "83",
+    marca: "MEDIAD",
+    nombre: "APLICADORES DE MADERA POR PAQUETE DE 100",
+    stock: "50.00",
+    pvp: "0.03",
+    pvp bs: "Bs.0.89",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "84",
+    marca: "COVAWOUND",
+    nombre: "APOSITO CON ALMOHADILLA COVAWOUND FOAM 10X10CMS",
+    stock: "1.00",
+    pvp: "2.50",
+    pvp bs: "Bs.63.61",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "85",
+    marca: "MEDAID",
+    nombre: "APOSITO CON PAD IMPERMEABLE 8X10CMS",
+    stock: "37.00",
+    pvp: "1.00",
+    pvp bs: "Bs.25.44",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "86",
+    marca: "COVALON",
+    nombre: "APOSITO CUTIMED 15 X 15 CMS",
+    stock: "1.00",
+    pvp: "3.33",
+    pvp bs: "Bs.84.81",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "87",
+    marca: "COVAWOUND",
+    nombre: "APOSITO DE ALGINATO 10X20CMS",
+    stock: "1.00",
+    pvp: "16.22",
+    pvp bs: "Bs.412.56",
+    vencimiento: "30/08/2024"
+  },
+  {
+    id: "88",
+    marca: "CURASPON",
+    nombre: "APOSITO HAEMOSTATIC ABSORBENTE CUASPOM",
+    stock: "1.00",
+    pvp: "8.33",
+    pvp bs: "Bs.212.01",
+    vencimiento: "30/01/2024"
+  },
+  {
+    id: "89",
+    marca: "MEDLINE",
+    nombre: "APOSITO HIDROCOLLOID 10.2 X 10.2",
+    stock: "112.00",
+    pvp: "13.90",
+    pvp bs: "Bs.353.63",
+    vencimiento: "18/02/2024"
+  },
+  {
+    id: "90",
+    marca: "MEDLINE",
+    nombre: "APOSITO HIDROCOLLOID 15X15CMS",
+    stock: "16.00",
+    pvp: "13.90",
+    pvp bs: "Bs.353.63",
+    vencimiento: "18/02/2024"
+  },
+  {
+    id: "91",
+    marca: "COVAVIEW",
+    nombre: "APOSITO IV TRANSPARENTE COVAVIEW IV 8,5CMX10.5CMS",
+    stock: "1.00",
+    pvp: "3.48",
+    pvp bs: "Bs.88.62",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "92",
+    marca: "COVAVIEW IV",
+    nombre: "APOSITO IV TRANSPARENTE COVIEW IV 6X7CMS",
+    stock: "1.00",
+    pvp: "3.48",
+    pvp bs: "Bs.88.62",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "93",
+    marca: "3M",
+    nombre: "APOSITO TRANSPARENTE 8.5CMSX10.5CMS",
+    stock: "5.00",
+    pvp: "1.67",
+    pvp bs: "Bs.42.40",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "94",
+    marca: "3M",
+    nombre: "APOSITO TRANSPARENTE 8.5CMSX10.5CMS",
+    stock: "5.00",
+    pvp: "1.67",
+    pvp bs: "Bs.42.40",
+    vencimiento: "30/01/2027"
+  },
+  {
+    id: "95",
+    marca: "MEDAID",
+    nombre: "APOSITO TRANSPARENTE CON ALMOHADILLA 10X25CM",
+    stock: "100.00",
+    pvp: "2.15",
+    pvp bs: "Bs.54.57",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "96",
+    marca: "MEDAID",
+    nombre: "APOSITO TRANSPARENTE CON ALMOHADILLA 6X8CM",
+    stock: "50.00",
+    pvp: "1.07",
+    pvp bs: "Bs.27.14",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "97",
+    marca: "YUWELL",
+    nombre: "ASPIRADOR DE GLERAS",
+    stock: "1.00",
+    pvp: "331.67",
+    pvp bs: "Bs.8,437.77",
+    vencimiento: "30/11/2026"
+  },
+  {
+    id: "98",
+    marca: "BRIXMEDIC",
+    nombre: "ATENOLOL 100MG CAJA 10 BLISTER X 14 TABLETAS",
+    stock: "47.00",
+    pvp: "0.77",
+    pvp bs: "Bs.19.51",
+    vencimiento: "31/05/2024"
+  },
+  {
+    id: "99",
+    marca: "BRIXMEDIC",
+    nombre: "ATENOLOL 50MG CAJA 10 BLISTER X 10 TAB",
+    stock: "27.00",
+    pvp: "0.57",
+    pvp bs: "Bs.14.42",
+    vencimiento: "01/05/2024"
+  },
+  {
+    id: "100",
+    marca: "ATNAHS",
+    nombre: "ATENOLOL 5MG/10ML AMPOLLA",
+    stock: "72.00",
+    pvp: "2.95",
+    pvp bs: "Bs.75.05",
+    vencimiento: "26/02/2026"
+  },
+  {
+    id: "101",
+    marca: "BRIXMEDIC",
+    nombre: "ATORVASTATINA 20MG BLISTER X 10 TAB.",
+    stock: "30.00",
+    pvp: "1.27",
+    pvp bs: "Bs.32.23",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "102",
+    marca: "BRIXMEDIC",
+    nombre: "ATORVASTATINA 40MG BLISTER X 10 TAB.",
+    stock: "9.00",
+    pvp: "1.63",
+    pvp bs: "Bs.41.56",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "103",
+    marca: "BIOSANO",
+    nombre: "ATROPINA SULFATO 1MG/1ML AMP",
+    stock: "105.00",
+    pvp: "0.45",
+    pvp bs: "Bs.11.45",
+    vencimiento: "31/10/2023"
+  },
+  {
+    id: "104",
+    marca: "BRIXMEDIC",
+    nombre: "AZITROMICINA 200MG/5ML",
+    stock: "2.00",
+    pvp: "3.15",
+    pvp bs: "Bs.80.10",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "105",
+    marca: "DYNALAB",
+    nombre: "AZITROMICINA 500MG",
+    stock: "1.00",
+    pvp: "3.96",
+    pvp bs: "Bs.100.75",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "106",
+    marca: "BRIXMEDIC",
+    nombre: "AZITROMICINA 500MG BLISTER X 3",
+    stock: "27.00",
+    pvp: "3.30",
+    pvp bs: "Bs.83.96",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "107",
+    marca: "CALOX",
+    nombre: "AZITROMICINA 500MG CAJA X 3 TABLETAS",
+    stock: "5.00",
+    pvp: "3.58",
+    pvp bs: "Bs.91.17",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "108",
+    marca: "VITALIS",
+    nombre: "AZTREONAN 1.5GR",
+    stock: "10.00",
+    pvp: "10.00",
+    pvp bs: "Bs.254.41",
+    vencimiento: "25/02/2025"
+  },
+  {
+    id: "109",
+    marca: "DAC55",
+    nombre: "BACITRACINA 500UI/G UNGUENTO",
+    stock: "1.00",
+    pvp: "4.25",
+    pvp bs: "Bs.108.12",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "110",
+    marca: "",
+    nombre: "BAJA LENGUA CAJA X 100",
+    stock: "6.00",
+    pvp: "3.52",
+    pvp bs: "Bs.89.47",
+    vencimiento: "31/10/2023"
+  },
+  {
+    id: "111",
+    marca: "RXONLY",
+    nombre: "BANDEJA DE DRENAJE TORAXICO PLEURO-VAC",
+    stock: "2.00",
+    pvp: "110.00",
+    pvp bs: "Bs.2,798.46",
+    vencimiento: "14/07/2026"
+  },
+  {
+    id: "112",
+    marca: "MEDAID",
+    nombre: "BARRERA CUTANEA PARA BOLSA COLOSTOMIA 44MM",
+    stock: "5.00",
+    pvp: "5.00",
+    pvp bs: "Bs.127.21",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "113",
+    marca: "CMV",
+    nombre: "BATA DE CIRUJANO ESTERIL 40GR S/P",
+    stock: "102.00",
+    pvp: "3.12",
+    pvp bs: "Bs.79.29",
+    vencimiento: "30/11/2025"
+  },
+  {
+    id: "114",
+    marca: "FVD",
+    nombre: "BATA DE CIRUJANO VD",
+    stock: "1.00",
+    pvp: "2.57",
+    pvp bs: "Bs.65.42",
+    vencimiento: "30/08/2026"
+  },
+  {
+    id: "115",
+    marca: "MDC",
+    nombre: "BATA DE PACIENTE DESCARTABLE",
+    stock: "260.00",
+    pvp: "1.08",
+    pvp bs: "Bs.27.57",
+    vencimiento: "30/08/2026"
+  },
+  {
+    id: "116",
+    marca: "BRIXMEDIC",
+    nombre: "BECLOMETASONA DIPROPIONATO/FENILEFRINA/LIDOCAINA",
+    stock: "2.00",
+    pvp: "2.63",
+    pvp bs: "Bs.67.00",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "117",
+    marca: "DYNALAB",
+    nombre: "BETAHISTINA 16MG CAJA X 50 TAB",
+    stock: "2.00",
+    pvp: "18.17",
+    pvp bs: "Bs.462.17",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "118",
+    marca: "BIOSANO",
+    nombre: "BETAMETASONA 4MG/1ML AMP. IM/IV",
+    stock: "94.00",
+    pvp: "0.57",
+    pvp bs: "Bs.14.42",
+    vencimiento: "01/10/2023"
+  },
+  {
+    id: "119",
+    marca: "DYNALAB",
+    nombre: "BETAMETASONA 4MG/1ML AMPOLLA",
+    stock: "18.00",
+    pvp: "1.07",
+    pvp bs: "Bs.27.14",
+    vencimiento: "30/10/2023"
+  },
+  {
+    id: "120",
+    marca: "VITALIS",
+    nombre: "BETAMETASONA 4MG/1ML AMPOLLA",
+    stock: "30.00",
+    pvp: "0.57",
+    pvp bs: "Bs.14.62",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "121",
+    marca: "BRIXMEDIC",
+    nombre: "BETAMETASONA 4MG/ML",
+    stock: "150.00",
+    pvp: "1.00",
+    pvp bs: "Bs.25.44",
+    vencimiento: "29/06/2023"
+  },
+  {
+    id: "122",
+    marca: "BEHRENS",
+    nombre: "BICARBONATO DE SODIO 5% SOL.",
+    stock: "91.00",
+    pvp: "5.42",
+    pvp bs: "Bs.137.81",
+    vencimiento: "22/11/2026"
+  },
+  {
+    id: "123",
+    marca: "BEHRENS",
+    nombre: "BICARBONATO DE SODIO 5% SOL.",
+    stock: "24.00",
+    pvp: "5.42",
+    pvp bs: "Bs.137.81",
+    vencimiento: "01/02/2028"
+  },
+  {
+    id: "124",
+    marca: "GENVEN",
+    nombre: "BISOPROLOL 2,5MG CAJA X 20 COMPRIMIDOS",
+    stock: "5.00",
+    pvp: "4.67",
+    pvp bs: "Bs.118.73",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "125",
+    marca: "BRIXMEDIC",
+    nombre: "BISOPROLOL 5MG BLISTER X 10 TABLETA",
+    stock: "13.00",
+    pvp: "0.62",
+    pvp bs: "Bs.15.69",
+    vencimiento: "01/06/2024"
+  },
+  {
+    id: "126",
+    marca: "MEDAID",
+    nombre: "BOLSA COLOSTOMIA 2 PIEZAS (57MM & 44MM)",
+    stock: "25.00",
+    pvp: "3.47",
+    pvp bs: "Bs.88.20",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "127",
+    marca: "",
+    nombre: "BOLSA DE DESECHO PEQUEÑA",
+    stock: "50.00",
+    pvp: "0.88",
+    pvp bs: "Bs.22.48",
+    vencimiento: "30/07/2026"
+  },
+  {
+    id: "128",
+    marca: "",
+    nombre: "BOLSAS DESECHOS 40 KG",
+    stock: "73.00",
+    pvp: "0.82",
+    pvp bs: "Bs.20.78",
+    vencimiento: "30/05/2025"
+  },
+  {
+    id: "129",
+    marca: "SOLUMED",
+    nombre: "BOMBA DE INFUSION-CBI 100ML-2ML",
+    stock: "12.00",
+    pvp: "15.88",
+    pvp bs: "Bs.403.98",
+    vencimiento: "26/09/2026"
+  },
+  {
+    id: "130",
+    marca: "DYNALAB",
+    nombre: "BRIMONIDINA 0,2% 5ML GOTAS",
+    stock: "4.00",
+    pvp: "5.48",
+    pvp bs: "Bs.139.50",
+    vencimiento: "31/08/2023"
+  },
+  {
+    id: "131",
+    marca: "BRIX",
+    nombre: "BRIXFLU ACETAMINOFEN/CLORFENIRAMINA",
+    stock: "3.00",
+    pvp: "6.33",
+    pvp bs: "Bs.161.13",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "132",
+    marca: "DYNALAB",
+    nombre: "BROMURO DE IPRATROPIO 0,5ML/2ML X SOBRE 5AMPOLLAS",
+    stock: "10.00",
+    pvp: "6.50",
+    pvp bs: "Bs.165.37",
+    vencimiento: "31/07/2023"
+  },
+  {
+    id: "133",
+    marca: "BIOSANO",
+    nombre: "BROMURO DE ROCURONIO 50MG/5ML",
+    stock: "2.00",
+    pvp: "4.32",
+    pvp bs: "Bs.109.81",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "134",
+    marca: "VITALIS",
+    nombre: "BROMURO DE ROCURONIO 50MG/5ML",
+    stock: "36.00",
+    pvp: "6.33",
+    pvp bs: "Bs.161.13",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "135",
+    marca: "DYNALAB",
+    nombre: "BUDESONIDA 0.5MG/2ML 5AMPOLLAS X SOBRE",
+    stock: "15.00",
+    pvp: "5.83",
+    pvp bs: "Bs.148.41",
+    vencimiento: "01/07/2023"
+  },
+  {
+    id: "136",
+    marca: "ROWE",
+    nombre: "BUMETANIDA 0,5MG/2ML ( BUMELEX)  CAJA X 3 AMP",
+    stock: "1.00",
+    pvp: "8.72",
+    pvp bs: "Bs.221.76",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "137",
+    marca: "BIOSANO",
+    nombre: "BUPIVACAINA CLORHIDRATO 50MG/10ML",
+    stock: "25.00",
+    pvp: "2.38",
+    pvp bs: "Bs.60.64",
+    vencimiento: "30/01/2025"
+  },
+  {
+    id: "138",
+    marca: "BRIXMEDIC",
+    nombre: "CALCIO CARBONATO 600 MG TAB. MASTICABLE",
+    stock: "5.00",
+    pvp: "0.70",
+    pvp bs: "Bs.17.81",
+    vencimiento: "30/10/2023"
+  },
+  {
+    id: "139",
+    marca: "DEXX",
+    nombre: "CAMPO ABIERTO",
+    stock: "521.00",
+    pvp: "0.67",
+    pvp bs: "Bs.16.96",
+    vencimiento: "30/06/2027"
+  },
+  {
+    id: "140",
+    marca: "",
+    nombre: "CAMPO CERRADO",
+    stock: "3.00",
+    pvp: "0.93",
+    pvp bs: "Bs.23.75",
+    vencimiento: "30/06/2026"
+  },
+  {
+    id: "141",
+    marca: "LA SANTE",
+    nombre: "CANDESARTAN 16MG CAJA X 10 TABLETAS",
+    stock: "6.00",
+    pvp: "4.85",
+    pvp bs: "Bs.123.39",
+    vencimiento: "30/03/2025"
+  },
+  {
+    id: "142",
+    marca: "DYNALAB",
+    nombre: "CANDESARTAN 16MG CAJA X 30TAB",
+    stock: "1.00",
+    pvp: "8.50",
+    pvp bs: "Bs.216.25",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "143",
+    marca: "DYNALAB",
+    nombre: "CANDESARTAN 8MG CAJA X 30  TAB",
+    stock: "1.00",
+    pvp: "6.57",
+    pvp bs: "Bs.167.06",
+    vencimiento: "30/04/2025"
+  },
+  {
+    id: "144",
+    marca: "HUDSON",
+    nombre: "CANULA DE MAYO N°7",
+    stock: "20.00",
+    pvp: "2.55",
+    pvp bs: "Bs.64.88",
+    vencimiento: "30/06/2026"
+  },
+  {
+    id: "145",
+    marca: "DYNAMICS",
+    nombre: "CANULA DE MAYO N°8",
+    stock: "60.00",
+    pvp: "2.55",
+    pvp bs: "Bs.64.88",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "146",
+    marca: "DYNAMICS",
+    nombre: "CANULA DE MAYO N°9",
+    stock: "10.00",
+    pvp: "2.55",
+    pvp bs: "Bs.64.88",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "147",
+    marca: "PRONTOMEDICA",
+    nombre: "CANULA DE YANKAUER CON CONEXION, TUBO X 2MTS",
+    stock: "14.00",
+    pvp: "8.35",
+    pvp bs: "Bs.212.43",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "148",
+    marca: "FORSURE",
+    nombre: "CANULA NASAL ADULTO (BIGOTE)",
+    stock: "199.00",
+    pvp: "2.83",
+    pvp bs: "Bs.72.09",
+    vencimiento: "30/08/2025"
+  },
+  {
+    id: "149",
+    marca: "VENTLAB",
+    nombre: "CANULA NASAL PEDIATRICA",
+    stock: "3.00",
+    pvp: "1.92",
+    pvp bs: "Bs.48.76",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "150",
+    marca: "HUDSON",
+    nombre: "CANULA NASAL PEDIATRICO",
+    stock: "62.00",
+    pvp: "1.92",
+    pvp bs: "Bs.48.76",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "151",
+    marca: "REYOUNG",
+    nombre: "CAPTOPRIL 50MG X BLISTER 10TAB",
+    stock: "30.00",
+    pvp: "0.58",
+    pvp bs: "Bs.14.84",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "152",
+    marca: "BRIXMEDIC",
+    nombre: "CARBAMAZEPINA 200MG BLISTER X 10 TAB.",
+    stock: "27.00",
+    pvp: "1.77",
+    pvp bs: "Bs.44.95",
+    vencimiento: "01/05/2024"
+  },
+  {
+    id: "153",
+    marca: "BRIXMEDIC",
+    nombre: "CARBAMAZEPINA 200MG BLISTER X 10 TABLETAS",
+    stock: "10.00",
+    pvp: "1.77",
+    pvp bs: "Bs.44.95",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "154",
+    marca: "BRIXMEDIC",
+    nombre: "CARVEDILOL 12,5 MG BLISTER X 10 TAB",
+    stock: "10.00",
+    pvp: "1.50",
+    pvp bs: "Bs.38.16",
+    vencimiento: "01/03/2024"
+  },
+  {
+    id: "155",
+    marca: "BRIXMEDIC",
+    nombre: "CARVEDILOL 12,5 MG BLISTER X 10 TAB",
+    stock: "28.00",
+    pvp: "1.50",
+    pvp bs: "Bs.38.16",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "156",
+    marca: "GENVEN",
+    nombre: "CARVEDILOL 12,5MG CAJA X 15 COMPRIMIDOS",
+    stock: "5.00",
+    pvp: "3.83",
+    pvp bs: "Bs.97.53",
+    vencimiento: "30/12/2024"
+  },
+  {
+    id: "157",
+    marca: "REYOUNG",
+    nombre: "CARVEDILOL 6,25MG",
+    stock: "20.00",
+    pvp: "0.80",
+    pvp bs: "Bs.20.36",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "158",
+    marca: "ECOMED",
+    nombre: "CATETER DE HEMODIALISIS 14FR",
+    stock: "6.00",
+    pvp: "57.00",
+    pvp bs: "Bs.1,450.11",
+    vencimiento: "27/04/2027"
+  },
+  {
+    id: "159",
+    marca: "SMITH MEDICAL",
+    nombre: "CATETER ENDOTRAQUEAL BILUMEN",
+    stock: "3.00",
+    pvp: "91.67",
+    pvp bs: "Bs.2,332.05",
+    vencimiento: "25/02/2024"
+  },
+  {
+    id: "160",
+    marca: "PRONTO MEDICA",
+    nombre: "CATETER TORAXICO N°18",
+    stock: "2.00",
+    pvp: "8.02",
+    pvp bs: "Bs.203.95",
+    vencimiento: "30/07/2023"
+  },
+  {
+    id: "161",
+    marca: "ARROW",
+    nombre: "CATETER TRILUMEN 7FR X 20CM",
+    stock: "13.00",
+    pvp: "49.17",
+    pvp bs: "Bs.1,250.83",
+    vencimiento: "26/06/2030"
+  },
+  {
+    id: "162",
+    marca: "PRONTO MEDICA",
+    nombre: "CATETER TROCAR N° 34",
+    stock: "1.00",
+    pvp: "11.93",
+    pvp bs: "Bs.303.59",
+    vencimiento: "30/01/2024"
+  },
+  {
+    id: "163",
+    marca: "PRONTO MEDICA",
+    nombre: "CATETER TROCAR N° 38",
+    stock: "1.00",
+    pvp: "11.93",
+    pvp bs: "Bs.303.59",
+    vencimiento: "30/06/2023"
+  },
+  {
+    id: "164",
+    marca: "PRONTOMEDICA",
+    nombre: "CATETER TROCAR N°26",
+    stock: "1.00",
+    pvp: "11.93",
+    pvp bs: "Bs.303.59",
+    vencimiento: "30/01/2024"
+  },
+  {
+    id: "165",
+    marca: "PRONTOMEDICA",
+    nombre: "CATETER TROCAR N°32",
+    stock: "2.00",
+    pvp: "11.93",
+    pvp bs: "Bs.303.59",
+    vencimiento: "30/01/2024"
+  },
+  {
+    id: "166",
+    marca: "FORSURE",
+    nombre: "CATHETER DE SUCCION CON CONTROL 10FR",
+    stock: "200.00",
+    pvp: "1.67",
+    pvp bs: "Bs.42.40",
+    vencimiento: "30/06/2029"
+  },
+  {
+    id: "167",
+    marca: "FORSURE",
+    nombre: "CATHETER DE SUCCION CON CONTROL 12FR",
+    stock: "200.00",
+    pvp: "1.67",
+    pvp bs: "Bs.42.40",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "168",
+    marca: "FORSURE",
+    nombre: "CATHETER DE SUCCION CON CONTROL 16FR",
+    stock: "200.00",
+    pvp: "1.67",
+    pvp bs: "Bs.42.40",
+    vencimiento: "30/06/2029"
+  },
+  {
+    id: "169",
+    marca: "JETCAT",
+    nombre: "CATHETER DOBLE J",
+    stock: "2.00",
+    pvp: "62.53",
+    pvp bs: "Bs.1,590.88",
+    vencimiento: "01/05/2027"
+  },
+  {
+    id: "170",
+    marca: "ARROW",
+    nombre: "CATHETER HEMODIALISIS BILUMEN FR12 2X 20CM",
+    stock: "1.00",
+    pvp: "88.24",
+    pvp bs: "Bs.2,244.70",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "171",
+    marca: "FORSURE",
+    nombre: "CATHETER SILICON 3VIAS 22FR",
+    stock: "15.00",
+    pvp: "3.33",
+    pvp bs: "Bs.84.81",
+    vencimiento: "30/03/2025"
+  },
+  {
+    id: "172",
+    marca: "FORSURE",
+    nombre: "CATHETER SILICON 3VIAS 24FR",
+    stock: "15.00",
+    pvp: "3.33",
+    pvp bs: "Bs.84.81",
+    vencimiento: "30/03/2025"
+  },
+  {
+    id: "173",
+    marca: "BRIXMEDIC",
+    nombre: "CEFADROXILO PARA SUSPENSION USP 250MG/5ML",
+    stock: "10.00",
+    pvp: "4.67",
+    pvp bs: "Bs.118.73",
+    vencimiento: "30/12/2025"
+  },
+  {
+    id: "174",
+    marca: "FAHD",
+    nombre: "CEFADROXILO SUSP 250MG/5ML",
+    stock: "1.00",
+    pvp: "8.17",
+    pvp bs: "Bs.207.73",
+    vencimiento: "27/04/2024"
+  },
+  {
+    id: "175",
+    marca: "BRIXMEDIC",
+    nombre: "CEFALEXIMA 500MG BLISTER X 10 TAB",
+    stock: "6.00",
+    pvp: "2.67",
+    pvp bs: "Bs.67.84",
+    vencimiento: "01/07/2023"
+  },
+  {
+    id: "176",
+    marca: "EL MORRO",
+    nombre: "CEFALOTINA 1GR AMP.",
+    stock: "50.00",
+    pvp: "2.20",
+    pvp bs: "Bs.55.97",
+    vencimiento: "31/12/2024"
+  },
+  {
+    id: "177",
+    marca: "VITALIS",
+    nombre: "CEFEPIMA 1GR AMPOLLA IM/IV",
+    stock: "108.00",
+    pvp: "3.83",
+    pvp bs: "Bs.97.53",
+    vencimiento: "30/04/2025"
+  },
+  {
+    id: "178",
+    marca: "DYNALAB",
+    nombre: "CEFEPIME 1GR AMPOLLA",
+    stock: "1.00",
+    pvp: "3.83",
+    pvp bs: "Bs.97.53",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "179",
+    marca: "DYNALAB",
+    nombre: "CEFIXIMA 100MG/5ML",
+    stock: "2.00",
+    pvp: "5.20",
+    pvp bs: "Bs.132.29",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "180",
+    marca: "BRIXMEDIC",
+    nombre: "CEFIXIMA 100MG/5ML POLVO PARA PREPARAR 60ML DE SUSPENSION",
+    stock: "12.00",
+    pvp: "5.20",
+    pvp bs: "Bs.132.29",
+    vencimiento: "30/12/2024"
+  },
+  {
+    id: "181",
+    marca: "BRIXMEDIC",
+    nombre: "CEFIXIMA 400MG BLISTER X 10 TAB.",
+    stock: "10.00",
+    pvp: "5.35",
+    pvp bs: "Bs.136.11",
+    vencimiento: "30/11/2025"
+  },
+  {
+    id: "182",
+    marca: "HIUMAN BIOCIENCE",
+    nombre: "CEFOTAXIMA 1G AMPOLLA",
+    stock: "50.00",
+    pvp: "0.93",
+    pvp bs: "Bs.23.75",
+    vencimiento: "30/10/2023"
+  },
+  {
+    id: "183",
+    marca: "EL MORRO",
+    nombre: "CEFOTAXIMA 1GR",
+    stock: "90.00",
+    pvp: "1.55",
+    pvp bs: "Bs.39.44",
+    vencimiento: "01/05/2024"
+  },
+  {
+    id: "184",
+    marca: "VITALYS",
+    nombre: "CEFTAZIDIMA 1GR AMPOLLAS IM/IV",
+    stock: "10.00",
+    pvp: "3.08",
+    pvp bs: "Bs.78.45",
+    vencimiento: "01/10/2024"
+  },
+  {
+    id: "185",
+    marca: "EL MORRO",
+    nombre: "CEFTRIAXONA 1GR AMPOLLA",
+    stock: "168.00",
+    pvp: "1.67",
+    pvp bs: "Bs.42.40",
+    vencimiento: "31/05/2024"
+  },
+  {
+    id: "186",
+    marca: "EL MORRO",
+    nombre: "CEFTRIAXONA 1GR AMPOLLA",
+    stock: "40.00",
+    pvp: "1.67",
+    pvp bs: "Bs.42.40",
+    vencimiento: "30/12/2024"
+  },
+  {
+    id: "187",
+    marca: "PHARMAGEN",
+    nombre: "CEFTRIAXONA 1GR AMPOLLA",
+    stock: "18.00",
+    pvp: "1.67",
+    pvp bs: "Bs.42.40",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "188",
+    marca: "DESCARTABLE",
+    nombre: "CENTRO DE CAMA DESCARTABLE",
+    stock: "72.00",
+    pvp: "5.17",
+    pvp bs: "Bs.131.45",
+    vencimiento: "30/12/2023"
+  },
+  {
+    id: "189",
+    marca: "",
+    nombre: "CENTRO DE CAMA DESCARTABLE BLANCOS",
+    stock: "17.00",
+    pvp: "5.00",
+    pvp bs: "Bs.127.21",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "190",
+    marca: "PEDICAL",
+    nombre: "CENTROS DE CAMA DR PEDICAL 60X90CMS PAQUETE X 30UND",
+    stock: "150.00",
+    pvp: "9.45",
+    pvp bs: "Bs.240.42",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "191",
+    marca: "BIO-SCRUB",
+    nombre: "CEPILLO QUIRURGICO CON SOLUCION CLOROXIDINA",
+    stock: "88.00",
+    pvp: "1.10",
+    pvp bs: "Bs.27.96",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "192",
+    marca: "BRIXMEDIC",
+    nombre: "CETIRIZINA 5MG/5ML JARABE",
+    stock: "10.00",
+    pvp: "3.67",
+    pvp bs: "Bs.93.28",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "193",
+    marca: "BIOSANO",
+    nombre: "CIANOCOBALAMINA B12 AMPOLLA",
+    stock: "100.00",
+    pvp: "0.58",
+    pvp bs: "Bs.14.84",
+    vencimiento: "01/07/2023"
+  },
+  {
+    id: "194",
+    marca: "BEHRENS",
+    nombre: "CIFARCAINA 1% SOL 100ML",
+    stock: "81.00",
+    pvp: "7.85",
+    pvp bs: "Bs.199.71",
+    vencimiento: "17/11/2025"
+  },
+  {
+    id: "195",
+    marca: "BEHRENS",
+    nombre: "CIFARCAINA HIPERBARA 5% SOL. AMP",
+    stock: "68.00",
+    pvp: "4.37",
+    pvp bs: "Bs.111.10",
+    vencimiento: "29/11/2024"
+  },
+  {
+    id: "196",
+    marca: "SUGAMA",
+    nombre: "CINTA DE SEDA ADHESIVA 50X5CMS",
+    stock: "98.00",
+    pvp: "13.88",
+    pvp bs: "Bs.353.20",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "197",
+    marca: "3M",
+    nombre: "CINTA DURAPORE 5X9,1CMS",
+    stock: "7.00",
+    pvp: "2.08",
+    pvp bs: "Bs.53.01",
+    vencimiento: "30/12/2025"
+  },
+  {
+    id: "198",
+    marca: "3M",
+    nombre: "CINTA QUIRURGICA DURAPORE 7,6CMS X 9,1 M DURAPORE",
+    stock: "4.00",
+    pvp: "7.42",
+    pvp bs: "Bs.188.69",
+    vencimiento: "30/01/2024"
+  },
+  {
+    id: "199",
+    marca: "MICROPORE",
+    nombre: "CINTA QUIRURGICA MICROPORE 7,6CMX9,1CM",
+    stock: "2.00",
+    pvp: "4.87",
+    pvp bs: "Bs.123.82",
+    vencimiento: "30/11/2025"
+  },
+  {
+    id: "200",
+    marca: "ALFA",
+    nombre: "CIPROFLOXACINA 100ML AMPOLLA",
+    stock: "48.00",
+    pvp: "1.95",
+    pvp bs: "Bs.49.61",
+    vencimiento: "30/11/2026"
+  },
+  {
+    id: "201",
+    marca: "SHANDONG PHARMACEUTICALS",
+    nombre: "CIPROFLOXACINA 200MG/100ML",
+    stock: "30.00",
+    pvp: "2.00",
+    pvp bs: "Bs.50.88",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "202",
+    marca: "BRIXMEDIC",
+    nombre: "CIPROFLOXACINA 500MG BLISTER X 10 TAB",
+    stock: "27.00",
+    pvp: "2.15",
+    pvp bs: "Bs.54.70",
+    vencimiento: "01/03/2024"
+  },
+  {
+    id: "203",
+    marca: "GENVEN",
+    nombre: "CIPROFLOXACINA 500MG CAJA X 10 TAB",
+    stock: "2.00",
+    pvp: "4.90",
+    pvp bs: "Bs.124.66",
+    vencimiento: "30/01/2025"
+  },
+  {
+    id: "204",
+    marca: "LIVEALTH",
+    nombre: "CIPROFLOXACINA 500MG CAJA X 10 TABLETAS",
+    stock: "10.00",
+    pvp: "1.80",
+    pvp bs: "Bs.45.80",
+    vencimiento: "30/04/2025"
+  },
+  {
+    id: "205",
+    marca: "SUGAMA",
+    nombre: "CIRCUITO RESPIRACION ANESTESIA 2M-DIAM. 22MM BOLSA Y FILTRO",
+    stock: "37.00",
+    pvp: "21.85",
+    pvp bs: "Bs.555.88",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "206",
+    marca: "BRIXMEDIC",
+    nombre: "CITICOLINA 500MG/2ML",
+    stock: "20.00",
+    pvp: "1.58",
+    pvp bs: "Bs.40.28",
+    vencimiento: "30/06/2023"
+  },
+  {
+    id: "207",
+    marca: "COASPHARMA",
+    nombre: "CLARITROMICINA 500MG BLISTER X 10 TABLETAS",
+    stock: "17.00",
+    pvp: "6.58",
+    pvp bs: "Bs.167.49",
+    vencimiento: "30/12/2023"
+  },
+  {
+    id: "208",
+    marca: "VITALIS",
+    nombre: "CLINDAMICINA AMP. 600MG",
+    stock: "20.00",
+    pvp: "2.50",
+    pvp bs: "Bs.63.53",
+    vencimiento: "30/12/2023"
+  },
+  {
+    id: "209",
+    marca: "MERIT",
+    nombre: "CLONIDINA 0.2MG",
+    stock: "7.00",
+    pvp: "2.50",
+    pvp bs: "Bs.63.61",
+    vencimiento: "30/08/2023"
+  },
+  {
+    id: "210",
+    marca: "BIOSANO",
+    nombre: "CLONIXINATO DE LISINA 100MG/2ML",
+    stock: "176.00",
+    pvp: "2.92",
+    pvp bs: "Bs.74.20",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "211",
+    marca: "BLUE MEDICAL",
+    nombre: "CLOPIDROGEL 75MG CAJA X 30 TABLETAS",
+    stock: "2.00",
+    pvp: "3.60",
+    pvp bs: "Bs.91.59",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "212",
+    marca: "BRIXMEDIC",
+    nombre: "CLOPIDROGREL 75MG BLISTER X 10 TAB",
+    stock: "41.00",
+    pvp: "1.50",
+    pvp bs: "Bs.38.16",
+    vencimiento: "31/08/2023"
+  },
+  {
+    id: "213",
+    marca: "BRIXMEDIC",
+    nombre: "CLOPIDROGREL 75MG BLISTER X 10 TAB",
+    stock: "10.00",
+    pvp: "1.50",
+    pvp bs: "Bs.38.16",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "214",
+    marca: "VITALIS",
+    nombre: "CLORANFENICOL AMP 1GR",
+    stock: "20.00",
+    pvp: "1.28",
+    pvp bs: "Bs.32.65",
+    vencimiento: "31/08/2024"
+  },
+  {
+    id: "215",
+    marca: "BIOSANO",
+    nombre: "CLORFENAMINA 10MG",
+    stock: "100.00",
+    pvp: "0.73",
+    pvp bs: "Bs.18.66",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "216",
+    marca: "COASPHARMA",
+    nombre: "CLORFENIRAMINA 4MG CAJA X 20 TAB",
+    stock: "26.00",
+    pvp: "1.50",
+    pvp bs: "Bs.38.16",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "217",
+    marca: "BEHRENS",
+    nombre: "CLORURO DE POTASIO 7,5% SOL",
+    stock: "17.00",
+    pvp: "5.88",
+    pvp bs: "Bs.149.68",
+    vencimiento: "30/08/2024"
+  },
+  {
+    id: "218",
+    marca: "BEHRENS",
+    nombre: "CLORURO DE POTASIO 7,5% SOL",
+    stock: "48.00",
+    pvp: "5.88",
+    pvp bs: "Bs.149.68",
+    vencimiento: "30/04/2025"
+  },
+  {
+    id: "219",
+    marca: "BEHRENS",
+    nombre: "CLORURO DE SODIO 0,9% PART-FILL 100ML",
+    stock: "50.00",
+    pvp: "2.97",
+    pvp bs: "Bs.75.48",
+    vencimiento: "01/02/2025"
+  },
+  {
+    id: "220",
+    marca: "PISSA",
+    nombre: "CLORURO DE SODIO 0,9% X 1000ML",
+    stock: "228.00",
+    pvp: "5.58",
+    pvp bs: "Bs.142.05",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "221",
+    marca: "DYNALAB",
+    nombre: "CLORURO DE SOIDO 0,65% SPRAY NASAL",
+    stock: "4.00",
+    pvp: "1.37",
+    pvp bs: "Bs.34.77",
+    vencimiento: "31/07/2023"
+  },
+  {
+    id: "222",
+    marca: "BRIXMEDIC",
+    nombre: "CLOTR+GENTA+BETAME 20GR",
+    stock: "9.00",
+    pvp: "1.92",
+    pvp bs: "Bs.48.76",
+    vencimiento: "01/06/2023"
+  },
+  {
+    id: "223",
+    marca: "COASPHARMA",
+    nombre: "CLOTRIMAZOL 1% CREMA TOPICA",
+    stock: "26.00",
+    pvp: "3.75",
+    pvp bs: "Bs.95.41",
+    vencimiento: "01/03/2024"
+  },
+  {
+    id: "224",
+    marca: "BIOMEDIC",
+    nombre: "CLOTRIMAZOL CREMA",
+    stock: "4.00",
+    pvp: "7.23",
+    pvp bs: "Bs.184.02",
+    vencimiento: "30/01/2024"
+  },
+  {
+    id: "225",
+    marca: "MATTRES",
+    nombre: "COLCHON ANTIESCARA",
+    stock: "1.00",
+    pvp: "113.34",
+    pvp bs: "Bs.2,883.26",
+    vencimiento: "30/11/2026"
+  },
+  {
+    id: "226",
+    marca: "BUBBLESHAPE",
+    nombre: "COLCHON ANTIESCARA",
+    stock: "3.00",
+    pvp: "113.34",
+    pvp bs: "Bs.2,883.26",
+    vencimiento: "30/04/2026"
+  },
+  {
+    id: "227",
+    marca: "BSNMEDICAL",
+    nombre: "COLLAR PHILADELPHIA M",
+    stock: "1.00",
+    pvp: "51.67",
+    pvp bs: "Bs.1,314.43",
+    vencimiento: "30/11/2026"
+  },
+  {
+    id: "228",
+    marca: "BSNMEDICAL",
+    nombre: "COLLAR PHILADELPHIA TALLA S",
+    stock: "1.00",
+    pvp: "51.67",
+    pvp bs: "Bs.1,314.43",
+    vencimiento: "30/11/2026"
+  },
+  {
+    id: "229",
+    marca: "OSSUR",
+    nombre: "COLLARIN PHILADELPHIA TRACH 3-1/4",
+    stock: "1.00",
+    pvp: "37.57",
+    pvp bs: "Bs.955.72",
+    vencimiento: "30/08/2026"
+  },
+  {
+    id: "230",
+    marca: "CLINIMED",
+    nombre: "COMPLEJO B 2ML IM.IV.",
+    stock: "120.00",
+    pvp: "0.34",
+    pvp bs: "Bs.8.74",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "231",
+    marca: "ALFA",
+    nombre: "COMPLEJO B BLISTER X 10 TAB",
+    stock: "6.00",
+    pvp: "2.13",
+    pvp bs: "Bs.54.28",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "232",
+    marca: "MEDAID",
+    nombre: "COMPRESA LAPARATOMIA PAQUETE X 5UND",
+    stock: "98.00",
+    pvp: "4.98",
+    pvp bs: "Bs.126.65",
+    vencimiento: "30/06/2027"
+  },
+  {
+    id: "233",
+    marca: "MARAX",
+    nombre: "COMPRESAS DE LAPARATOMIA PAQUETE X 5 UND",
+    stock: "81.00",
+    pvp: "6.08",
+    pvp bs: "Bs.154.62",
+    vencimiento: "01/01/2030"
+  },
+  {
+    id: "234",
+    marca: "REACHMED",
+    nombre: "COMPRESOR DE NEBULIZADOR",
+    stock: "3.00",
+    pvp: "88.34",
+    pvp bs: "Bs.2,247.25",
+    vencimiento: "30/11/2026"
+  },
+  {
+    id: "235",
+    marca: "NEWTYPE",
+    nombre: "COMPRESOR NEBULIZADOR NEW TYPE",
+    stock: "6.00",
+    pvp: "88.34",
+    pvp bs: "Bs.2,247.25",
+    vencimiento: "30/11/2026"
+  },
+  {
+    id: "236",
+    marca: "",
+    nombre: "CONTENEDOR ESPECIMEN 4OZ",
+    stock: "100.00",
+    pvp: "0.67",
+    pvp bs: "Bs.16.96",
+    vencimiento: "30/06/2029"
+  },
+  {
+    id: "237",
+    marca: "GE HEALTH",
+    nombre: "CONTRASTE IOHEXOL 300MG/ML",
+    stock: "7.00",
+    pvp: "66.67",
+    pvp bs: "Bs.1,696.04",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "238",
+    marca: "DEMETECH",
+    nombre: "CROMICO 0 812",
+    stock: "12.00",
+    pvp: "2.60",
+    pvp bs: "Bs.66.06",
+    vencimiento: "01/05/2027"
+  },
+  {
+    id: "239",
+    marca: "DEMETECH",
+    nombre: "CROMICO 2-0 CT1 811",
+    stock: "12.00",
+    pvp: "2.47",
+    pvp bs: "Bs.62.76",
+    vencimiento: "28/06/2027"
+  },
+  {
+    id: "240",
+    marca: "",
+    nombre: "CUBREBOTAS X PAR",
+    stock: "830.00",
+    pvp: "0.18",
+    pvp bs: "Bs.4.67",
+    vencimiento: "30/11/2026"
+  },
+  {
+    id: "241",
+    marca: "BRIXMEDIC",
+    nombre: "DESLORATADINA 5MG BLISTER X 10 TAB.",
+    stock: "10.00",
+    pvp: "0.90",
+    pvp bs: "Bs.22.90",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "242",
+    marca: "DYNALAB",
+    nombre: "DESLORATADINA 5MG CAJA X 10 TAB.",
+    stock: "2.00",
+    pvp: "2.10",
+    pvp bs: "Bs.53.43",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "243",
+    marca: "GENVEN",
+    nombre: "DESLORATADINA 5MG X 10 COMPRIMIDOS",
+    stock: "2.00",
+    pvp: "2.10",
+    pvp bs: "Bs.53.43",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "244",
+    marca: "BEHRENS",
+    nombre: "DEXACORT 4MG/ML SOL AMP",
+    stock: "25.00",
+    pvp: "4.32",
+    pvp bs: "Bs.109.82",
+    vencimiento: "08/11/2024"
+  },
+  {
+    id: "245",
+    marca: "VITALIS",
+    nombre: "DEXAMETASONA 4MG AMPOLLA",
+    stock: "60.00",
+    pvp: "0.42",
+    pvp bs: "Bs.10.60",
+    vencimiento: "30/10/2023"
+  },
+  {
+    id: "246",
+    marca: "DISTRILAB",
+    nombre: "DEXAMETASONA 4MG AMPOLLA",
+    stock: "100.00",
+    pvp: "0.42",
+    pvp bs: "Bs.10.60",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "247",
+    marca: "BIOSANO",
+    nombre: "DEXAMETASONA 4MG AMPOLLA",
+    stock: "91.00",
+    pvp: "0.41",
+    pvp bs: "Bs.10.37",
+    vencimiento: "30/10/2023"
+  },
+  {
+    id: "248",
+    marca: "PHARMACEUTICALS",
+    nombre: "DEXAMETASONA 8MG/2ML",
+    stock: "104.00",
+    pvp: "0.83",
+    pvp bs: "Bs.21.21",
+    vencimiento: "30/01/2025"
+  },
+  {
+    id: "249",
+    marca: "BEHRENS",
+    nombre: "DEXMEDETOMIDINA 100MCG/ML AMPOLLA",
+    stock: "15.00",
+    pvp: "11.77",
+    pvp bs: "Bs.299.35",
+    vencimiento: "26/11/2023"
+  },
+  {
+    id: "250",
+    marca: "BEHRENS",
+    nombre: "DEXTROSA AL 5% EN AGUA DESTILADA N°1",
+    stock: "34.00",
+    pvp: "4.40",
+    pvp bs: "Bs.111.94",
+    vencimiento: "03/04/2024"
+  },
+  {
+    id: "251",
+    marca: "BERHENS",
+    nombre: "DEXTROSA SOLUCION AL 10%  EN AGUA 500ML",
+    stock: "84.00",
+    pvp: "5.88",
+    pvp bs: "Bs.149.68",
+    vencimiento: "16/05/2024"
+  },
+  {
+    id: "252",
+    marca: "",
+    nombre: "DIAZEPAM 10MG AMP.",
+    stock: "3.00",
+    pvp: "11.84",
+    pvp bs: "Bs.301.22",
+    vencimiento: "30/08/2023"
+  },
+  {
+    id: "253",
+    marca: "BRIXMEDIC",
+    nombre: "DICLOFENAC GEL 30GR",
+    stock: "1.00",
+    pvp: "2.08",
+    pvp bs: "Bs.53.01",
+    vencimiento: "01/06/2023"
+  },
+  {
+    id: "254",
+    marca: "BRIXMEDIC",
+    nombre: "DICLOFENAC POTASICO 100MG BLISTER X 10 TAB",
+    stock: "84.00",
+    pvp: "1.04",
+    pvp bs: "Bs.26.56",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "255",
+    marca: "LIVEALTH",
+    nombre: "DICLOFENAC POTASICO 10MG/5ML SUSPENSION",
+    stock: "3.00",
+    pvp: "2.25",
+    pvp bs: "Bs.57.24",
+    vencimiento: "30/08/2025"
+  },
+  {
+    id: "256",
+    marca: "GENVEN",
+    nombre: "DICLOFENAC POTASICO 50MG CAJA X 10 COMPRIMIDOS",
+    stock: "5.00",
+    pvp: "0.83",
+    pvp bs: "Bs.21.21",
+    vencimiento: "30/08/2025"
+  },
+  {
+    id: "257",
+    marca: "BRIXMEDIC",
+    nombre: "DICLOFENAC POTASICO 50MG X BLISTER",
+    stock: "10.00",
+    pvp: "0.77",
+    pvp bs: "Bs.19.51",
+    vencimiento: "25/02/2025"
+  },
+  {
+    id: "258",
+    marca: "MEDIC WISE",
+    nombre: "DICLOFENAC POTASICO 75MG AMPOLLA",
+    stock: "50.00",
+    pvp: "2.60",
+    pvp bs: "Bs.66.15",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "259",
+    marca: "GENERICOS IF",
+    nombre: "DICLOFENAC POTASICO TAB 100MG BLISTER X 10 TAB",
+    stock: "1.00",
+    pvp: "0.75",
+    pvp bs: "Bs.19.08",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "260",
+    marca: "BRIXMEDIC",
+    nombre: "DICLOFENAC SODICO 100 MG X 10 TAB",
+    stock: "26.00",
+    pvp: "0.60",
+    pvp bs: "Bs.15.27",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "261",
+    marca: "BRIXMEDIC",
+    nombre: "DICLOFENAC SODICO 50MG X 10 TAB",
+    stock: "47.00",
+    pvp: "0.52",
+    pvp bs: "Bs.13.15",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "262",
+    marca: "VITALIS",
+    nombre: "DICLOFENAC SODICO AMP. 75MG/3ML",
+    stock: "3.00",
+    pvp: "0.35",
+    pvp bs: "Bs.8.96",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "263",
+    marca: "COASPHARMA",
+    nombre: "DICLOFENACO 1% GEL",
+    stock: "18.00",
+    pvp: "2.08",
+    pvp bs: "Bs.53.01",
+    vencimiento: "01/03/2024"
+  },
+  {
+    id: "264",
+    marca: "ALPHARMA",
+    nombre: "DICLOFENACO SODICO 75MG/3ML AMPOLLA",
+    stock: "6.00",
+    pvp: "1.83",
+    pvp bs: "Bs.46.65",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "265",
+    marca: "REYOUNG",
+    nombre: "DICLOFENACO SODICO SUPOSITORIOS 100MG CAJA X 10",
+    stock: "19.00",
+    pvp: "5.83",
+    pvp bs: "Bs.148.41",
+    vencimiento: "01/08/2024"
+  },
+  {
+    id: "266",
+    marca: "ROTEXMED",
+    nombre: "DIGOXINA 0,25 MG",
+    stock: "30.00",
+    pvp: "1.92",
+    pvp bs: "Bs.48.76",
+    vencimiento: "30/01/2024"
+  },
+  {
+    id: "267",
+    marca: "BRIXMEDIC",
+    nombre: "DIGOXINA 0,25MG X 10 TAB",
+    stock: "47.00",
+    pvp: "0.57",
+    pvp bs: "Bs.14.42",
+    vencimiento: "01/03/2024"
+  },
+  {
+    id: "268",
+    marca: "NEOPHARM",
+    nombre: "DIGOXINA 0,25MG/ML",
+    stock: "30.00",
+    pvp: "1.93",
+    pvp bs: "Bs.49.02",
+    vencimiento: "31/05/2023"
+  },
+  {
+    id: "269",
+    marca: "PHARMACEUTICAL",
+    nombre: "DIOSMINA 500MG X CAJA 30TAB",
+    stock: "12.00",
+    pvp: "8.33",
+    pvp bs: "Bs.212.01",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "270",
+    marca: "BEHRENS",
+    nombre: "DIPIDOL 500MG/2ML",
+    stock: "100.00",
+    pvp: "2.15",
+    pvp bs: "Bs.54.70",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "271",
+    marca: "VITALIS",
+    nombre: "DIPIRONA 1G/2ML AMPOLLAS",
+    stock: "100.00",
+    pvp: "0.32",
+    pvp bs: "Bs.8.06",
+    vencimiento: "30/08/2025"
+  },
+  {
+    id: "272",
+    marca: "FARMIONNI",
+    nombre: "DIPIRONA 1GR/2ML AMPOLLA",
+    stock: "53.00",
+    pvp: "0.33",
+    pvp bs: "Bs.8.48",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "273",
+    marca: "JET CATJ",
+    nombre: "DOBLE LUMEN FR14X20CMS",
+    stock: "2.00",
+    pvp: "16.67",
+    pvp bs: "Bs.424.01",
+    vencimiento: "31/05/2024"
+  },
+  {
+    id: "274",
+    marca: "RXONLY",
+    nombre: "DOBUTAMINA AMP 250MG",
+    stock: "5.00",
+    pvp: "1.90",
+    pvp bs: "Bs.48.34",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "275",
+    marca: "BIOSANO",
+    nombre: "DOMPERIDONA 10MG/2ML AMPOLLA",
+    stock: "33.00",
+    pvp: "1.57",
+    pvp bs: "Bs.40.06",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "276",
+    marca: "BIOSANO",
+    nombre: "DOPAMINA AMP. 200MG/5ML",
+    stock: "100.00",
+    pvp: "1.33",
+    pvp bs: "Bs.33.93",
+    vencimiento: "30/01/2025"
+  },
+  {
+    id: "277",
+    marca: "DYANALAB",
+    nombre: "DORZOLAMINA 2% X 5 ML GOTAS",
+    stock: "4.00",
+    pvp: "5.67",
+    pvp bs: "Bs.144.17",
+    vencimiento: "31/08/2023"
+  },
+  {
+    id: "278",
+    marca: "DYNALAB",
+    nombre: "DORZOLAMINA 2%/ TIMOLOLO 0,5% GOTAS",
+    stock: "4.00",
+    pvp: "6.25",
+    pvp bs: "Bs.159.01",
+    vencimiento: "31/08/2023"
+  },
+  {
+    id: "279",
+    marca: "BRIXMEDIC",
+    nombre: "DOXICICLINA 100MG X BLISTER 10TAB",
+    stock: "17.00",
+    pvp: "2.58",
+    pvp bs: "Bs.65.73",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "280",
+    marca: "",
+    nombre: "DRENAJE JACKSON PRATT",
+    stock: "27.00",
+    pvp: "25.00",
+    pvp bs: "Bs.636.02",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "281",
+    marca: "INSUMEDICAL",
+    nombre: "DRENAJE PORTOVAC FR 19 (1/4\"),
+    stock: "11.00",
+    pvp: "15.83",
+    pvp bs: "Bs.402.81",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "282",
+    marca: "KENDALL",
+    nombre: "DRENLATEX 1/2",
+    stock: "1.00",
+    pvp: "1.95",
+    pvp bs: "Bs.49.61",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "283",
+    marca: "KENDALL",
+    nombre: "DRENLATEX 1/4",
+    stock: "1.00",
+    pvp: "1.95",
+    pvp bs: "Bs.49.61",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "284",
+    marca: "RX ONLY",
+    nombre: "DUAL LUMEN VENTILACION N°16",
+    stock: "1.00",
+    pvp: "12.00",
+    pvp bs: "Bs.305.28",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "285",
+    marca: "RX ONLY",
+    nombre: "DUAL LUMEN VENTILACION SUCTION CATHETER FR14",
+    stock: "6.00",
+    pvp: "11.67",
+    pvp bs: "Bs.296.81",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "286",
+    marca: "BEHRENS",
+    nombre: "DURACAINA HIPERBARA 0,5% SOL. AMP.",
+    stock: "83.00",
+    pvp: "6.10",
+    pvp bs: "Bs.155.19",
+    vencimiento: "15/11/2025"
+  },
+  {
+    id: "287",
+    marca: "DYNALAB",
+    nombre: "DYNACET GRIPDIA  500MG-2MG-30MG X 10 TAB",
+    stock: "1.00",
+    pvp: "1.80",
+    pvp bs: "Bs.45.80",
+    vencimiento: "31/05/2024"
+  },
+  {
+    id: "288",
+    marca: "BIOSANO",
+    nombre: "EFEDRINA SULFATO 6% 1ML",
+    stock: "100.00",
+    pvp: "3.26",
+    pvp bs: "Bs.82.92",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "289",
+    marca: "LA SANTE",
+    nombre: "ENALAPRIL 10 MG CAJA X 20 TABLETAS",
+    stock: "5.00",
+    pvp: "1.13",
+    pvp bs: "Bs.28.84",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "290",
+    marca: "BRIXMEDIC",
+    nombre: "ENALAPRIL 10MG X 10TAB",
+    stock: "10.00",
+    pvp: "0.37",
+    pvp bs: "Bs.9.33",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "291",
+    marca: "BRIXMEDIC",
+    nombre: "ENALAPRIL 20MG X 10 TAB",
+    stock: "14.00",
+    pvp: "0.63",
+    pvp bs: "Bs.16.12",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "292",
+    marca: "BIOMEDIC LAB",
+    nombre: "ENALAPRIL MALEATO 20MG BLISTER X 10 TAB",
+    stock: "20.00",
+    pvp: "0.45",
+    pvp bs: "Bs.11.45",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "293",
+    marca: "PROCAPS",
+    nombre: "ENOXAPARIN 60MGR AMP.",
+    stock: "4.00",
+    pvp: "5.83",
+    pvp bs: "Bs.148.41",
+    vencimiento: "30/06/2023"
+  },
+  {
+    id: "294",
+    marca: "PROCAPS",
+    nombre: "ENOXAPARIN 60MGR AMP.",
+    stock: "2.00",
+    pvp: "5.83",
+    pvp bs: "Bs.148.41",
+    vencimiento: "30/08/2023"
+  },
+  {
+    id: "295",
+    marca: "ROVI|",
+    nombre: "ENOXAPARINA SODICA 60MG AMP",
+    stock: "66.00",
+    pvp: "6.67",
+    pvp bs: "Bs.169.61",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "296",
+    marca: "PROCAPS",
+    nombre: "ENOXOPARINA 20MG AMPOLLAS",
+    stock: "7.00",
+    pvp: "3.95",
+    pvp bs: "Bs.100.49",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "297",
+    marca: "LIVEALTH",
+    nombre: "ENTEROMED (ENTEROGERMINA) 2000MILLONES/5ML X AMPOLLA",
+    stock: "30.00",
+    pvp: "1.13",
+    pvp bs: "Bs.28.84",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "298",
+    marca: "RX ONLY",
+    nombre: "EQUIPO DE CUIDADO RESPIRATORIO PEDIATRICO",
+    stock: "7.00",
+    pvp: "33.33",
+    pvp bs: "Bs.848.02",
+    vencimiento: "30/01/2027"
+  },
+  {
+    id: "299",
+    marca: "MC MEDICALL",
+    nombre: "EQUIPO DE INFUSION BURETA 150ML",
+    stock: "11.00",
+    pvp: "1.50",
+    pvp bs: "Bs.38.16",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "300",
+    marca: "PRONTO MEDICA",
+    nombre: "EQUIPO DE MEDICION DE PRESION VENOSA CENTRAL",
+    stock: "21.00",
+    pvp: "5.80",
+    pvp bs: "Bs.147.56",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "301",
+    marca: "MEDAID",
+    nombre: "EQUIPO DE OXIGENO CON RESERVORIO",
+    stock: "25.00",
+    pvp: "6.95",
+    pvp bs: "Bs.176.81",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "302",
+    marca: "COLINPLUS",
+    nombre: "EQUIPO DE OXIGENO PEDIATRICO (MASCARILLA)",
+    stock: "277.00",
+    pvp: "4.87",
+    pvp bs: "Bs.123.82",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "303",
+    marca: "BRIXMEDIC",
+    nombre: "ERBRIX-100 (SILDENAFIL) 100 MG X CAJA 8 TAB",
+    stock: "25.00",
+    pvp: "0.83",
+    pvp bs: "Bs.21.21",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "304",
+    marca: "BRIXMEDIC",
+    nombre: "ERBRIX-50 (SILDENAFIL) 50 MG CAJA X 8 TAB",
+    stock: "19.00",
+    pvp: "0.67",
+    pvp bs: "Bs.16.96",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "305",
+    marca: "BIOSANO",
+    nombre: "ERGOMETRINA MALEATO 0,2MG/ML IV-IM",
+    stock: "119.00",
+    pvp: "0.67",
+    pvp bs: "Bs.16.97",
+    vencimiento: "30/06/2023"
+  },
+  {
+    id: "306",
+    marca: "BIOMEDIC LAB",
+    nombre: "ESOMEPRAZOL 20MG BLISTER X 10 TABLETAS",
+    stock: "10.00",
+    pvp: "0.75",
+    pvp bs: "Bs.19.08",
+    vencimiento: "30/11/2025"
+  },
+  {
+    id: "307",
+    marca: "BRIXMEDIC",
+    nombre: "ESOMEPRAZOL 40MG X BLISTER X 10 TAB",
+    stock: "10.00",
+    pvp: "0.90",
+    pvp bs: "Bs.22.90",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "308",
+    marca: "DYNALAB",
+    nombre: "ESPIRONOLACTONA 25MG X 30TAB",
+    stock: "1.00",
+    pvp: "2.93",
+    pvp bs: "Bs.74.63",
+    vencimiento: "01/06/2023"
+  },
+  {
+    id: "309",
+    marca: "COMPOMEDICA",
+    nombre: "ESPONJA DE GASA 4\" UNIDAD,
+    stock: "9.00",
+    pvp: "1.33",
+    pvp bs: "Bs.33.93",
+    vencimiento: "30/08/2026"
+  },
+  {
+    id: "310",
+    marca: "MEDAID",
+    nombre: "ESQUINERO CAMA 102X190CM SMS PQX10",
+    stock: "29.00",
+    pvp: "1.99",
+    pvp bs: "Bs.50.67",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "311",
+    marca: "DYNALAB",
+    nombre: "ETORICOXIB 120MG X 20 TABLETAS",
+    stock: "3.00",
+    pvp: "6.30",
+    pvp bs: "Bs.160.28",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "312",
+    marca: "DYNALAD",
+    nombre: "ETORICOXIB 60MG CAJA  X 20 TAB",
+    stock: "5.00",
+    pvp: "4.55",
+    pvp bs: "Bs.115.76",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "313",
+    marca: "COFASA",
+    nombre: "EUSILEN 4MG/2ML CAJA X 2 AMPOLLAS",
+    stock: "6.00",
+    pvp: "6.34",
+    pvp bs: "Bs.161.19",
+    vencimiento: "30/08/2025"
+  },
+  {
+    id: "314",
+    marca: "RX ONLY",
+    nombre: "EXTENSION K50",
+    stock: "3.00",
+    pvp: "0.80",
+    pvp bs: "Bs.20.36",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "315",
+    marca: "NOVAPLUS",
+    nombre: "FENITOINA 100MG/2ML",
+    stock: "180.00",
+    pvp: "1.33",
+    pvp bs: "Bs.33.93",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "316",
+    marca: "BIOSANO",
+    nombre: "FENITOINA SODICA 250ML",
+    stock: "100.00",
+    pvp: "1.42",
+    pvp bs: "Bs.36.04",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "317",
+    marca: "BIOSANO",
+    nombre: "FENTANILO 0.5MG/10ML AMPOLLA",
+    stock: "130.00",
+    pvp: "3.38",
+    pvp bs: "Bs.86.08",
+    vencimiento: "31/07/2024"
+  },
+  {
+    id: "318",
+    marca: "FRESENIUS KABI",
+    nombre: "FENTANILO 0.5MG/10ML AMPOLLA",
+    stock: "20.00",
+    pvp: "5.00",
+    pvp bs: "Bs.127.21",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "319",
+    marca: "BIOSANO",
+    nombre: "FENTANILO 0.5MG/10ML AMPOLLA",
+    stock: "50.00",
+    pvp: "5.01",
+    pvp bs: "Bs.127.34",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "320",
+    marca: "BLASKOV LTDA",
+    nombre: "FENTANILO 0.5MG/3ML  AMPOLLA",
+    stock: "16.00",
+    pvp: "3.38",
+    pvp bs: "Bs.86.08",
+    vencimiento: "30/07/2023"
+  },
+  {
+    id: "321",
+    marca: "BIOSANO",
+    nombre: "FITOMENADIONA 10MG AMP VITAMINA K1",
+    stock: "200.00",
+    pvp: "0.72",
+    pvp bs: "Bs.18.39",
+    vencimiento: "01/06/2024"
+  },
+  {
+    id: "322",
+    marca: "BIOSANO",
+    nombre: "FITOMENADIONA 10MG AMP VITAMINA K1",
+    stock: "80.00",
+    pvp: "0.72",
+    pvp bs: "Bs.18.39",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "323",
+    marca: "DYNALAB",
+    nombre: "FLUCO.0,01% HIDROQUINON4% TRETO 0,05% CREMA",
+    stock: "4.00",
+    pvp: "3.05",
+    pvp bs: "Bs.77.60",
+    vencimiento: "31/07/2023"
+  },
+  {
+    id: "324",
+    marca: "BRIXMEDIC",
+    nombre: "FLUCONAZOL 150MG CAJA X 2 TAB",
+    stock: "14.00",
+    pvp: "2.03",
+    pvp bs: "Bs.51.73",
+    vencimiento: "01/04/2024"
+  },
+  {
+    id: "325",
+    marca: "BRIXMEDIC",
+    nombre: "FLUCONAZOL 150MG CAJA X 2 TAB",
+    stock: "7.00",
+    pvp: "2.03",
+    pvp bs: "Bs.51.73",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "326",
+    marca: "QUALITYMED",
+    nombre: "FLUCONAZOL 200MG CAJA X 5 TAB",
+    stock: "19.00",
+    pvp: "2.03",
+    pvp bs: "Bs.51.73",
+    vencimiento: "01/09/2023"
+  },
+  {
+    id: "327",
+    marca: "KM PLUS",
+    nombre: "FLUCONAZOL 200MG/100ML AMPOLLA",
+    stock: "75.00",
+    pvp: "2.05",
+    pvp bs: "Bs.52.16",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "328",
+    marca: "PORTUGAL",
+    nombre: "FLUIMEXINA (ACELTICISTEINA) 600MG X SOBRE",
+    stock: "108.00",
+    pvp: "0.92",
+    pvp bs: "Bs.23.32",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "329",
+    marca: "RX ONLY",
+    nombre: "FLUMAZENIL 1MG/10ML",
+    stock: "66.00",
+    pvp: "6.33",
+    pvp bs: "Bs.161.13",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "330",
+    marca: "HUMANWELL",
+    nombre: "FLUMAZENIL AMP. 0.5MG/5ML",
+    stock: "20.00",
+    pvp: "6.28",
+    pvp bs: "Bs.159.86",
+    vencimiento: "29/06/2023"
+  },
+  {
+    id: "331",
+    marca: "QUALITYMED",
+    nombre: "FLUNARIZINA 10MG CAJA POR 20 TAB",
+    stock: "23.00",
+    pvp: "1.92",
+    pvp bs: "Bs.48.76",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "332",
+    marca: "DYNALAB",
+    nombre: "FLUNARIZINA 10MG CAJA X 20 TAB",
+    stock: "1.00",
+    pvp: "4.12",
+    pvp bs: "Bs.104.73",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "333",
+    marca: "PHARMACEUTICAL",
+    nombre: "FUMARATO FERROSO 200 X BLISTER 10TAB",
+    stock: "10.00",
+    pvp: "0.45",
+    pvp bs: "Bs.11.45",
+    vencimiento: "31/12/2024"
+  },
+  {
+    id: "334",
+    marca: "BEHRENS",
+    nombre: "FUNGOMAX 2MG/ML INF. FB X 100ML",
+    stock: "4.00",
+    pvp: "3.53",
+    pvp bs: "Bs.89.89",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "335",
+    marca: "DYNALAB",
+    nombre: "FUROSEMIDA 20MG CAJA X 24 TAB",
+    stock: "20.00",
+    pvp: "23.68",
+    pvp bs: "Bs.602.52",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "336",
+    marca: "BIOSANO",
+    nombre: "FUROSEMIDA 20MG/2ML AMPOLLA",
+    stock: "29.00",
+    pvp: "0.85",
+    pvp bs: "Bs.21.65",
+    vencimiento: "31/07/2024"
+  },
+  {
+    id: "337",
+    marca: "BRIXMEDIC",
+    nombre: "FUROSEMIDA 20MG/2ML IM/IV AMPOLLAS",
+    stock: "60.00",
+    pvp: "0.73",
+    pvp bs: "Bs.18.66",
+    vencimiento: "01/07/2023"
+  },
+  {
+    id: "338",
+    marca: "BRIXMEDIC",
+    nombre: "FUROSEMIDA 40MG BLISTER X 10 TAB",
+    stock: "5.00",
+    pvp: "0.38",
+    pvp bs: "Bs.9.76",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "339",
+    marca: "BRIXMEDIC",
+    nombre: "FUROSEMIDA 40MG BLISTER X 10 TAB",
+    stock: "8.00",
+    pvp: "0.38",
+    pvp bs: "Bs.9.76",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "340",
+    marca: "COTTON",
+    nombre: "GASA ABSORBENTE 100 YDS - NO ESTERIL",
+    stock: "3.00",
+    pvp: "31.67",
+    pvp bs: "Bs.805.62",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "341",
+    marca: "",
+    nombre: "GASA ABSORBENTE 100YARDAS",
+    stock: "5.00",
+    pvp: "32.27",
+    pvp bs: "Bs.820.88",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "342",
+    marca: "MEDAID",
+    nombre: "GASAS PARAFINADAS 10CMSX10CMS",
+    stock: "1.00",
+    pvp: "0.68",
+    pvp bs: "Bs.17.39",
+    vencimiento: "31/07/2023"
+  },
+  {
+    id: "343",
+    marca: "COASPHARMA",
+    nombre: "GEMFIBROZILO 600MG X 10 TAB",
+    stock: "63.00",
+    pvp: "1.65",
+    pvp bs: "Bs.41.98",
+    vencimiento: "01/05/2024"
+  },
+  {
+    id: "344",
+    marca: "BRIXMEDIC",
+    nombre: "GENTAMICINA 0,1% CREMA 20 GR",
+    stock: "4.00",
+    pvp: "1.50",
+    pvp bs: "Bs.38.16",
+    vencimiento: "15/03/2025"
+  },
+  {
+    id: "345",
+    marca: "NY FHARMA",
+    nombre: "GENTAMICINA 160MG/2ML AMP",
+    stock: "90.00",
+    pvp: "2.60",
+    pvp bs: "Bs.66.04",
+    vencimiento: "31/07/2024"
+  },
+  {
+    id: "346",
+    marca: "KM PLUS",
+    nombre: "GENTAMICINA 160MG/2ML AMPOLLA",
+    stock: "16.00",
+    pvp: "4.97",
+    pvp bs: "Bs.126.36",
+    vencimiento: "31/01/2024"
+  },
+  {
+    id: "347",
+    marca: "BIOSANO",
+    nombre: "GENTAMICINA 80MG/2ML AMP",
+    stock: "90.00",
+    pvp: "0.57",
+    pvp bs: "Bs.14.42",
+    vencimiento: "03/11/2024"
+  },
+  {
+    id: "348",
+    marca: "BRIXMEDIC",
+    nombre: "GLIBENCLAMIDA 5MG X 10 TAB",
+    stock: "26.00",
+    pvp: "0.37",
+    pvp bs: "Bs.9.33",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "349",
+    marca: "COAPHARMA",
+    nombre: "GLIBENCLAMIDA 5MG X 15 TABLETAS",
+    stock: "12.00",
+    pvp: "1.13",
+    pvp bs: "Bs.28.84",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "350",
+    marca: "BEHRENS",
+    nombre: "GLICERAMIN 3% SOL KIT FV 1000ML",
+    stock: "20.00",
+    pvp: "60.62",
+    pvp bs: "Bs.1,542.12",
+    vencimiento: "15/02/2025"
+  },
+  {
+    id: "351",
+    marca: "BRIXMEDIC",
+    nombre: "GLIMEPIRIDA 2MG X 10 TAB.",
+    stock: "10.00",
+    pvp: "0.63",
+    pvp bs: "Bs.16.12",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "352",
+    marca: "BRIXMEDIC",
+    nombre: "GLIMEPIRIDA 2MG X BLISTER",
+    stock: "10.00",
+    pvp: "0.63",
+    pvp bs: "Bs.16.12",
+    vencimiento: "25/02/2025"
+  },
+  {
+    id: "353",
+    marca: "BRIXMEDIC",
+    nombre: "GLIMEPIRIDA 4MG X 10 TAB",
+    stock: "20.00",
+    pvp: "1.35",
+    pvp bs: "Bs.34.35",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "354",
+    marca: "BRIXMEDIC",
+    nombre: "GLIMEPIRIDA 4MG X 10 TAB",
+    stock: "10.00",
+    pvp: "1.35",
+    pvp bs: "Bs.34.35",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "355",
+    marca: "SOLITAIRE",
+    nombre: "GLIPP-2 (GLIMEPIRIDA BP) 2MG CAJA X 30 TABLETAS",
+    stock: "10.00",
+    pvp: "2.70",
+    pvp bs: "Bs.68.69",
+    vencimiento: "30/10/2023"
+  },
+  {
+    id: "356",
+    marca: "BEHRENS",
+    nombre: "GLUCONATO DE CALCIO 10%/100ML",
+    stock: "45.00",
+    pvp: "4.50",
+    pvp bs: "Bs.114.49",
+    vencimiento: "10/04/2025"
+  },
+  {
+    id: "357",
+    marca: "DEXX",
+    nombre: "GORRO DE CIRUJANO",
+    stock: "388.00",
+    pvp: "0.27",
+    pvp bs: "Bs.6.85",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "358",
+    marca: "DESCARTABLE",
+    nombre: "GORRO ENFERMERA AZUL",
+    stock: "1,625.00",
+    pvp: "0.17",
+    pvp bs: "Bs.4.24",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "359",
+    marca: "DROFALCA",
+    nombre: "GUANTES 7 1/2",
+    stock: "236.00",
+    pvp: "0.75",
+    pvp bs: "Bs.19.08",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "360",
+    marca: "HALYARD",
+    nombre: "GUANTES DE NITRILO M CAJA POR 100 UND ( MORADO)",
+    stock: "10.00",
+    pvp: "16.82",
+    pvp bs: "Bs.427.91",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "361",
+    marca: "HALYARD",
+    nombre: "GUANTES DE NITRILO TALLA L CAJA PO 100 UNDS. ( MORADO)",
+    stock: "20.00",
+    pvp: "14.04",
+    pvp bs: "Bs.357.17",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "362",
+    marca: "MDC",
+    nombre: "GUANTES DECARTABLES TALLA M POR CAJA DE 100 UNDS",
+    stock: "400.00",
+    pvp: "13.23",
+    pvp bs: "Bs.336.63",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "363",
+    marca: "MDC",
+    nombre: "GUANTES DESCARTABLES TALLA L  POR CAJA DE 100 UNDS",
+    stock: "498.00",
+    pvp: "13.23",
+    pvp bs: "Bs.336.63",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "364",
+    marca: "JMC",
+    nombre: "GUANTES ESTERILES 7",
+    stock: "2.00",
+    pvp: "0.20",
+    pvp bs: "Bs.5.09",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "365",
+    marca: "SOFT",
+    nombre: "GUANTES QUIRURGICOS ESTERILES N°6 1/2 CAJA X 50",
+    stock: "150.00",
+    pvp: "37.50",
+    pvp bs: "Bs.954.02",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "366",
+    marca: "SOFT",
+    nombre: "GUANTES QUIRURGICOS ESTERILES N°7 1/2 CAJA X 50",
+    stock: "50.00",
+    pvp: "37.50",
+    pvp bs: "Bs.954.02",
+    vencimiento: "01/05/2026"
+  },
+  {
+    id: "367",
+    marca: "SOFT",
+    nombre: "GUANTES QUIRURGICOS ESTERILES N°7 CAJA X 50",
+    stock: "49.00",
+    pvp: "37.50",
+    pvp bs: "Bs.954.02",
+    vencimiento: "01/05/2026"
+  },
+  {
+    id: "368",
+    marca: "SOFT",
+    nombre: "GUANTES QUIRURGICOS ESTERILES N°8 CAJA X 50",
+    stock: "100.00",
+    pvp: "37.50",
+    pvp bs: "Bs.954.02",
+    vencimiento: "01/05/2026"
+  },
+  {
+    id: "369",
+    marca: "ORTOBAN",
+    nombre: "GUATA 15CMSX2,7CMS",
+    stock: "4.00",
+    pvp: "2.02",
+    pvp bs: "Bs.51.31",
+    vencimiento: "26/02/2027"
+  },
+  {
+    id: "370",
+    marca: "MEDAID",
+    nombre: "GUATA MEDAID 10CMS",
+    stock: "24.00",
+    pvp: "5.98",
+    pvp bs: "Bs.152.22",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "371",
+    marca: "GAESCA",
+    nombre: "GUATA ORTOBAN 10CMS",
+    stock: "24.00",
+    pvp: "5.98",
+    pvp bs: "Bs.152.22",
+    vencimiento: "30/01/2027"
+  },
+  {
+    id: "372",
+    marca: "GAESCA",
+    nombre: "GUATA ORTOPEDICA 15CMS",
+    stock: "22.00",
+    pvp: "3.67",
+    pvp bs: "Bs.93.28",
+    vencimiento: "30/01/2027"
+  },
+  {
+    id: "373",
+    marca: "GAESCA",
+    nombre: "GUATA ORTOPEDICA 20CMS",
+    stock: "6.00",
+    pvp: "3.00",
+    pvp bs: "Bs.76.33",
+    vencimiento: "30/01/2027"
+  },
+  {
+    id: "374",
+    marca: "DYNALAB",
+    nombre: "HALOPERIDOL 10MG X 30 TAB.",
+    stock: "6.00",
+    pvp: "7.90",
+    pvp bs: "Bs.200.99",
+    vencimiento: "31/07/2023"
+  },
+  {
+    id: "375",
+    marca: "DYNALAB",
+    nombre: "HALOPERIDOL 5MG X 30 TAB",
+    stock: "3.00",
+    pvp: "6.32",
+    pvp bs: "Bs.160.70",
+    vencimiento: "31/07/2023"
+  },
+  {
+    id: "376",
+    marca: "PHARMAX INDIA",
+    nombre: "HEPARINA SODICA 5000UI/5ML",
+    stock: "10.00",
+    pvp: "2.20",
+    pvp bs: "Bs.55.97",
+    vencimiento: "25/02/2025"
+  },
+  {
+    id: "377",
+    marca: "PHARMAX INDIA",
+    nombre: "HEPARINA SODICA 5000UI/5ML",
+    stock: "30.00",
+    pvp: "2.20",
+    pvp bs: "Bs.55.97",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "378",
+    marca: "BRIXMEDIC",
+    nombre: "HIDROCLOROTIAZIDA 25MG X 10TAB",
+    stock: "17.00",
+    pvp: "0.83",
+    pvp bs: "Bs.21.21",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "379",
+    marca: "SHANXI",
+    nombre: "HIDROCORTISONA 100MG",
+    stock: "22.00",
+    pvp: "1.27",
+    pvp bs: "Bs.32.23",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "380",
+    marca: "VITALIS",
+    nombre: "HIDROCORTISONA 100MG X AMPOLLA",
+    stock: "10.00",
+    pvp: "1.38",
+    pvp bs: "Bs.35.21",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "381",
+    marca: "VITALIS",
+    nombre: "HIDROCORTISONA 500MG AMP I.V/ I.M",
+    stock: "2.00",
+    pvp: "3.62",
+    pvp bs: "Bs.92.01",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "382",
+    marca: "VITALIS",
+    nombre: "HIDROCORTISONA 500MG AMP I.V/ I.M",
+    stock: "1.00",
+    pvp: "3.62",
+    pvp bs: "Bs.92.01",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "383",
+    marca: "VITALIS",
+    nombre: "HIDROCORTISONA 500MG AMP I.V/ I.M",
+    stock: "8.00",
+    pvp: "3.63",
+    pvp bs: "Bs.92.44",
+    vencimiento: "28/11/2025"
+  },
+  {
+    id: "384",
+    marca: "BIOMEDIC LAB",
+    nombre: "HIDROCORTISONA 500MG AMPOLLA",
+    stock: "30.00",
+    pvp: "3.27",
+    pvp bs: "Bs.83.11",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "385",
+    marca: "FAES FARMA",
+    nombre: "HIDROFEROL - CALCIFEDIOL  X 10 TAB",
+    stock: "12.00",
+    pvp: "4.13",
+    pvp bs: "Bs.105.16",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "386",
+    marca: "COASPHARMA",
+    nombre: "HIOSCINA N-BUTIL BROMURO 10MG BLISTER X 10 TAB",
+    stock: "52.00",
+    pvp: "3.00",
+    pvp bs: "Bs.76.33",
+    vencimiento: "01/10/2023"
+  },
+  {
+    id: "387",
+    marca: "ALLEGRANCE",
+    nombre: "HUMIDIFICADOR DE OXIGENO 500ML",
+    stock: "3.00",
+    pvp: "11.50",
+    pvp bs: "Bs.292.57",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "388",
+    marca: "DYNALAB",
+    nombre: "IBUPROFENO 100MG/5ML JARABE",
+    stock: "3.00",
+    pvp: "3.00",
+    pvp bs: "Bs.76.33",
+    vencimiento: "31/08/2023"
+  },
+  {
+    id: "389",
+    marca: "BRIXMEDIC",
+    nombre: "IBUPROFENO 600MG BLISTER X 10 TAB",
+    stock: "20.00",
+    pvp: "1.00",
+    pvp bs: "Bs.25.44",
+    vencimiento: "30/01/2025"
+  },
+  {
+    id: "390",
+    marca: "BRIXMEDIC",
+    nombre: "IBUPROFENO 600MG-TIOCOLCHICOSIDO 4MG BLISTER X 10 TABLETAS",
+    stock: "10.00",
+    pvp: "2.70",
+    pvp bs: "Bs.68.69",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "391",
+    marca: "BRIXMEDIC",
+    nombre: "IBUPROFENO 800MG BLISTER X 10 TABLETAS",
+    stock: "20.00",
+    pvp: "1.48",
+    pvp bs: "Bs.37.74",
+    vencimiento: "30/01/2025"
+  },
+  {
+    id: "392",
+    marca: "BRIXMEDIC",
+    nombre: "IBUPROFENO SUSPENSION BP",
+    stock: "10.00",
+    pvp: "1.95",
+    pvp bs: "Bs.49.61",
+    vencimiento: "30/12/2025"
+  },
+  {
+    id: "393",
+    marca: "VITALIS",
+    nombre: "IMIPENEM+CILASTATINA 500MG AMP. IV",
+    stock: "10.00",
+    pvp: "5.23",
+    pvp bs: "Bs.133.14",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "394",
+    marca: "VITALIS",
+    nombre: "IMIPENEM+CILASTATINA 500MG AMP. IV",
+    stock: "12.00",
+    pvp: "5.23",
+    pvp bs: "Bs.133.14",
+    vencimiento: "30/10/2023"
+  },
+  {
+    id: "395",
+    marca: "RHOPHYLA",
+    nombre: "INMUNOGLOBULINA ANTI D AMPOLLA",
+    stock: "3.00",
+    pvp: "143.99",
+    pvp bs: "Bs.3,663.01",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "396",
+    marca: "GEROPHARM",
+    nombre: "INSULINA GLARGINA",
+    stock: "2.00",
+    pvp: "4.50",
+    pvp bs: "Bs.114.49",
+    vencimiento: "01/08/2023"
+  },
+  {
+    id: "397",
+    marca: "MCD",
+    nombre: "INYECTADORA 10ML",
+    stock: "70.00",
+    pvp: "0.14",
+    pvp bs: "Bs.3.46",
+    vencimiento: "30/08/2024"
+  },
+  {
+    id: "398",
+    marca: "GROSSMED",
+    nombre: "INYECTADORA 10ML",
+    stock: "1,500.00",
+    pvp: "0.14",
+    pvp bs: "Bs.3.46",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "399",
+    marca: "MEDIS",
+    nombre: "INYECTADORA 10ML",
+    stock: "1,200.00",
+    pvp: "0.14",
+    pvp bs: "Bs.3.46",
+    vencimiento: "30/12/2023"
+  },
+  {
+    id: "400",
+    marca: "INSUMEDICAL",
+    nombre: "INYECTADORA 10ML",
+    stock: "1,600.00",
+    pvp: "0.14",
+    pvp bs: "Bs.3.46",
+    vencimiento: "27/04/2024"
+  },
+  {
+    id: "401",
+    marca: "INSUMEDICAL",
+    nombre: "INYECTADORA 10ML",
+    stock: "1,600.00",
+    pvp: "0.14",
+    pvp bs: "Bs.3.46",
+    vencimiento: "30/08/2024"
+  },
+  {
+    id: "402",
+    marca: "MEDAID",
+    nombre: "INYECTADORA 1ML 29 X 1/2 LUER LOCK",
+    stock: "100.00",
+    pvp: "0.20",
+    pvp bs: "Bs.5.09",
+    vencimiento: "01/04/2026"
+  },
+  {
+    id: "403",
+    marca: "INSUMEDICAL",
+    nombre: "INYECTADORA 20ML POR UND",
+    stock: "4.00",
+    pvp: "0.38",
+    pvp bs: "Bs.9.56",
+    vencimiento: "30/08/2024"
+  },
+  {
+    id: "404",
+    marca: "MEDIKPRO",
+    nombre: "INYECTADORA 20ML POR UND",
+    stock: "850.00",
+    pvp: "0.28",
+    pvp bs: "Bs.7.11",
+    vencimiento: "30/11/2026"
+  },
+  {
+    id: "405",
+    marca: "MCD",
+    nombre: "INYECTADORA 3ML",
+    stock: "98.00",
+    pvp: "0.11",
+    pvp bs: "Bs.2.70",
+    vencimiento: "19/06/2026"
+  },
+  {
+    id: "406",
+    marca: "MEDAID",
+    nombre: "INYECTADORA 50CC TIPO TOMMY",
+    stock: "85.00",
+    pvp: "1.00",
+    pvp bs: "Bs.25.45",
+    vencimiento: "01/10/2025"
+  },
+  {
+    id: "407",
+    marca: "SUGAMA",
+    nombre: "INYECTADORA 5ML",
+    stock: "4,500.00",
+    pvp: "0.11",
+    pvp bs: "Bs.2.80",
+    vencimiento: "30/01/2026"
+  },
+  {
+    id: "408",
+    marca: "INSUMEDICAL",
+    nombre: "INYECTADORA 5ML",
+    stock: "2,284.00",
+    pvp: "0.11",
+    pvp bs: "Bs.2.80",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "409",
+    marca: "ROSPITAL",
+    nombre: "INYECTADORA 5ML",
+    stock: "2,400.00",
+    pvp: "0.11",
+    pvp bs: "Bs.2.80",
+    vencimiento: "30/01/2024"
+  },
+  {
+    id: "410",
+    marca: "MCD",
+    nombre: "INYECTADORA 5ML",
+    stock: "2,400.00",
+    pvp: "0.11",
+    pvp bs: "Bs.2.80",
+    vencimiento: "30/04/2025"
+  },
+  {
+    id: "411",
+    marca: "BRIXMEDIC",
+    nombre: "IRBESARTAN 150MG BLISTER X 10TAB",
+    stock: "35.00",
+    pvp: "5.02",
+    pvp bs: "Bs.127.62",
+    vencimiento: "01/06/2024"
+  },
+  {
+    id: "412",
+    marca: "BRIXMEDIC",
+    nombre: "IRBESARTAN 300MG BLISTER X 10TAB",
+    stock: "35.00",
+    pvp: "6.05",
+    pvp bs: "Bs.153.92",
+    vencimiento: "01/06/2024"
+  },
+  {
+    id: "413",
+    marca: "RXONLY",
+    nombre: "ISOFLURANE 100ML FRASCO",
+    stock: "9.00",
+    pvp: "15.52",
+    pvp bs: "Bs.394.76",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "414",
+    marca: "FARMAMED",
+    nombre: "ITRACONAZOL 100MG X 10 TABLETAS (E)",
+    stock: "1.00",
+    pvp: "6.00",
+    pvp bs: "Bs.152.70",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "415",
+    marca: "SMITH MEDICAL",
+    nombre: "IV CATETER RADIOPAQUE N°18 (JELCO)",
+    stock: "108.00",
+    pvp: "1.03",
+    pvp bs: "Bs.26.29",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "416",
+    marca: "SMITH MEDICAL",
+    nombre: "IV CATETER RADIOPAQUE N°20 (JELCO)",
+    stock: "630.00",
+    pvp: "1.03",
+    pvp bs: "Bs.26.29",
+    vencimiento: "14/02/2025"
+  },
+  {
+    id: "417",
+    marca: "SMITH MEDICAL",
+    nombre: "IV CATETER RADIOPAQUE N°22 (JELCO)",
+    stock: "99.00",
+    pvp: "1.03",
+    pvp bs: "Bs.26.29",
+    vencimiento: "30/01/2027"
+  },
+  {
+    id: "418",
+    marca: "SMITH MEDICAL",
+    nombre: "IV CATETER RADIOPAQUE N°24 (JELCO)",
+    stock: "99.00",
+    pvp: "1.03",
+    pvp bs: "Bs.26.29",
+    vencimiento: "01/01/2024"
+  },
+  {
+    id: "419",
+    marca: "MEDIKPRO",
+    nombre: "JERINGA DESCARTABLE 20ML",
+    stock: "1,100.00",
+    pvp: "0.25",
+    pvp bs: "Bs.6.36",
+    vencimiento: "30/11/2026"
+  },
+  {
+    id: "420",
+    marca: "SURESE",
+    nombre: "KAYEXALATE 30GR X SOBRE",
+    stock: "19.00",
+    pvp: "12.67",
+    pvp bs: "Bs.322.25",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "421",
+    marca: "BRIXMEDIC",
+    nombre: "KETOCONAZOL CREMA 2% W/W 15GR",
+    stock: "1.00",
+    pvp: "3.17",
+    pvp bs: "Bs.80.56",
+    vencimiento: "01/06/2023"
+  },
+  {
+    id: "422",
+    marca: "JMW",
+    nombre: "KETOPROFENO 100/2ML",
+    stock: "19.00",
+    pvp: "1.50",
+    pvp bs: "Bs.38.16",
+    vencimiento: "30/08/2024"
+  },
+  {
+    id: "423",
+    marca: "VITALIS",
+    nombre: "KETOPROFENO 100MG AMPOLLA",
+    stock: "10.00",
+    pvp: "1.50",
+    pvp bs: "Bs.38.16",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "424",
+    marca: "CAFERMA",
+    nombre: "KETOPROFENO 100MG/5ML AMPOLLA",
+    stock: "475.00",
+    pvp: "0.92",
+    pvp bs: "Bs.23.32",
+    vencimiento: "30/01/2024"
+  },
+  {
+    id: "425",
+    marca: "ROEMMERS",
+    nombre: "KETOPROFENO 100MG/5ML I.V ( KETOFEN)",
+    stock: "26.00",
+    pvp: "1.67",
+    pvp bs: "Bs.42.41",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "426",
+    marca: "DYNALAB",
+    nombre: "KETOROLACO 20MG POR BLISTER 10 TAB",
+    stock: "4.00",
+    pvp: "3.78",
+    pvp bs: "Bs.96.25",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "427",
+    marca: "DYNALAB",
+    nombre: "KETOROLACO 30MG SUBLINGUAL TAB BLISTER X 4 TAB",
+    stock: "7.00",
+    pvp: "11.55",
+    pvp bs: "Bs.293.84",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "428",
+    marca: "BIOSANO",
+    nombre: "KETOROLACO 30MG/ML AMPOLLA",
+    stock: "158.00",
+    pvp: "1.35",
+    pvp bs: "Bs.34.43",
+    vencimiento: "30/08/2024"
+  },
+  {
+    id: "429",
+    marca: "DYNALAB",
+    nombre: "KETOROLACO SUBLINGUAL 30GR CAJA X 4TAB",
+    stock: "7.00",
+    pvp: "3.78",
+    pvp bs: "Bs.96.25",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "430",
+    marca: "",
+    nombre: "KIT DE CAMA 10 PIEZAS",
+    stock: "10.00",
+    pvp: "4.67",
+    pvp bs: "Bs.118.73",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "431",
+    marca: "",
+    nombre: "KIT DE CIRUJANO",
+    stock: "136.00",
+    pvp: "8.33",
+    pvp bs: "Bs.212.01",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "432",
+    marca: "CMV",
+    nombre: "KIT DE LAPARATOMIA",
+    stock: "13.00",
+    pvp: "17.40",
+    pvp bs: "Bs.442.67",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "433",
+    marca: "",
+    nombre: "KIT DE PACIENTE",
+    stock: "407.00",
+    pvp: "1.55",
+    pvp bs: "Bs.39.44",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "434",
+    marca: "DESCARTABLE",
+    nombre: "KIT DE RASURAR NO ESTERIL",
+    stock: "50.00",
+    pvp: "1.33",
+    pvp bs: "Bs.33.93",
+    vencimiento: "01/08/2025"
+  },
+  {
+    id: "435",
+    marca: "",
+    nombre: "KIT LAPARATOMIA",
+    stock: "60.00",
+    pvp: "15.00",
+    pvp bs: "Bs.381.61",
+    vencimiento: "30/04/2025"
+  },
+  {
+    id: "436",
+    marca: "ULTRA CARE",
+    nombre: "KIT PARA OFTALMOLOGIA ESTERIL",
+    stock: "8.00",
+    pvp: "17.83",
+    pvp bs: "Bs.453.69",
+    vencimiento: "01/10/2024"
+  },
+  {
+    id: "437",
+    marca: "CARDINAL HEALTH",
+    nombre: "LAPARTOMIA PACK",
+    stock: "5.00",
+    pvp: "150.00",
+    pvp bs: "Bs.3,816.08",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "438",
+    marca: "MCD",
+    nombre: "LAPIZ ELECTROCAUTHIN",
+    stock: "44.00",
+    pvp: "4.67",
+    pvp bs: "Bs.118.73",
+    vencimiento: "30/04/2025"
+  },
+  {
+    id: "439",
+    marca: "PFYZER",
+    nombre: "LENEZOLID 200MG/100ML AMPOLLA",
+    stock: "11.00",
+    pvp: "2.50",
+    pvp bs: "Bs.63.61",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "440",
+    marca: "BSN MEDICAL",
+    nombre: "LEUKOMED T-PLUS 8X10CM",
+    stock: "5.00",
+    pvp: "3.02",
+    pvp bs: "Bs.76.75",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "441",
+    marca: "DYNALAB",
+    nombre: "LEVOCETIRIZINA 5 MG CAJA X 10 TAB",
+    stock: "2.00",
+    pvp: "1.90",
+    pvp bs: "Bs.48.34",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "442",
+    marca: "VICENTI",
+    nombre: "LEVOFERIN 30MG/5ML",
+    stock: "5.00",
+    pvp: "7.08",
+    pvp bs: "Bs.180.21",
+    vencimiento: "01/08/2025"
+  },
+  {
+    id: "443",
+    marca: "DYNALAB",
+    nombre: "LEVOFLOXA 500MG (LEVOFLOXACINA)",
+    stock: "19.00",
+    pvp: "4.72",
+    pvp bs: "Bs.120.00",
+    vencimiento: "30/10/2023"
+  },
+  {
+    id: "444",
+    marca: "DYNALAB",
+    nombre: "LEVOFLOXACINA 500MG BLISTER X 10 TAB",
+    stock: "2.00",
+    pvp: "5.10",
+    pvp bs: "Bs.129.75",
+    vencimiento: "30/06/2023"
+  },
+  {
+    id: "445",
+    marca: "BRIXMEDIC",
+    nombre: "LEVOFLOXACINA 500MG BLISTER X 10 TABLETA",
+    stock: "10.00",
+    pvp: "2.90",
+    pvp bs: "Bs.73.78",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "446",
+    marca: "BRIXMEDIC",
+    nombre: "LEVOFLOXACINA 750MG CAJA X 10 TAB",
+    stock: "17.00",
+    pvp: "4.28",
+    pvp bs: "Bs.108.97",
+    vencimiento: "01/07/2024"
+  },
+  {
+    id: "447",
+    marca: "BRIXMEDIC",
+    nombre: "LEVOFLOXACINA 750MG CAJA X 10 TAB",
+    stock: "3.00",
+    pvp: "4.28",
+    pvp bs: "Bs.108.97",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "448",
+    marca: "BRIXMEDIC",
+    nombre: "LEVOFLOXACINA 750MG CAJA X 10 TAB",
+    stock: "10.00",
+    pvp: "4.28",
+    pvp bs: "Bs.108.97",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "449",
+    marca: "JB PHARMA",
+    nombre: "LEVOFLOXACINA AMP. 500MG/100ML",
+    stock: "43.00",
+    pvp: "1.95",
+    pvp bs: "Bs.49.61",
+    vencimiento: "01/09/2024"
+  },
+  {
+    id: "450",
+    marca: "ZAKI",
+    nombre: "LEVONORGESTREL 0.75 MG X 2 TAB",
+    stock: "8.00",
+    pvp: "1.25",
+    pvp bs: "Bs.31.80",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "451",
+    marca: "BEHRENS",
+    nombre: "LEVOTEC 5MG/ML (LEVOFLOXACINA750MG)",
+    stock: "60.00",
+    pvp: "6.47",
+    pvp bs: "Bs.164.52",
+    vencimiento: "13/11/2023"
+  },
+  {
+    id: "452",
+    marca: "DYNALAD",
+    nombre: "LEVOTIROXINA 100MGG BLISTER",
+    stock: "37.00",
+    pvp: "0.83",
+    pvp bs: "Bs.21.21",
+    vencimiento: "30/06/2023"
+  },
+  {
+    id: "453",
+    marca: "DYNALAB",
+    nombre: "LEVOTIROXINA 150MGG BLISTER X 10 TAB",
+    stock: "47.00",
+    pvp: "0.83",
+    pvp bs: "Bs.21.21",
+    vencimiento: "30/06/2023"
+  },
+  {
+    id: "454",
+    marca: "DYNALAD",
+    nombre: "LEVOTIROXINA 25MG BLISTER X 10 TABLETAS",
+    stock: "47.00",
+    pvp: "0.65",
+    pvp bs: "Bs.16.54",
+    vencimiento: "01/07/2023"
+  },
+  {
+    id: "455",
+    marca: "DYNALAB",
+    nombre: "LEVOTIROXINA 50MGG BLISTER X 10 TAB",
+    stock: "37.00",
+    pvp: "0.75",
+    pvp bs: "Bs.19.08",
+    vencimiento: "01/06/2023"
+  },
+  {
+    id: "456",
+    marca: "ZAKI",
+    nombre: "LEVOTIROXINA SODICA 0,1MG CAJA X 10TAB",
+    stock: "37.00",
+    pvp: "1.25",
+    pvp bs: "Bs.31.80",
+    vencimiento: "30/08/2023"
+  },
+  {
+    id: "457",
+    marca: "VITALYS",
+    nombre: "LINCOMICINA 600MG/2ML AMPOLLA",
+    stock: "65.00",
+    pvp: "1.03",
+    pvp bs: "Bs.26.29",
+    vencimiento: "31/03/2024"
+  },
+  {
+    id: "458",
+    marca: "MEDWISE",
+    nombre: "LIPIMED (ATORVASTATINA) 20MG CAJA X 30 TABLETA",
+    stock: "5.00",
+    pvp: "2.93",
+    pvp bs: "Bs.74.63",
+    vencimiento: "30/05/2025"
+  },
+  {
+    id: "459",
+    marca: "MEDWISE",
+    nombre: "LIPIMED (ATORVASTATINA) 40MG CAJA X 30 TABLETAS",
+    stock: "5.00",
+    pvp: "4.03",
+    pvp bs: "Bs.102.61",
+    vencimiento: "30/05/2025"
+  },
+  {
+    id: "460",
+    marca: "BRIXMEDIC",
+    nombre: "LISINOPRIL 10MG BLISTER X 10 TAB",
+    stock: "17.00",
+    pvp: "1.25",
+    pvp bs: "Bs.31.80",
+    vencimiento: "01/07/2024"
+  },
+  {
+    id: "461",
+    marca: "BRIXMEDIC",
+    nombre: "LISINOPRIL 20MG BLISTER X 10TAB",
+    stock: "17.00",
+    pvp: "1.85",
+    pvp bs: "Bs.47.07",
+    vencimiento: "01/07/2024"
+  },
+  {
+    id: "462",
+    marca: "COASPHARMA",
+    nombre: "LORATADINA CAJA X 10 TAB",
+    stock: "49.00",
+    pvp: "2.67",
+    pvp bs: "Bs.67.84",
+    vencimiento: "30/12/2024"
+  },
+  {
+    id: "463",
+    marca: "LIVEALTH",
+    nombre: "LORATADINA SOLUCION ORAL USP 5MG/5ML",
+    stock: "3.00",
+    pvp: "2.25",
+    pvp bs: "Bs.57.24",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "464",
+    marca: "LIVEALTH",
+    nombre: "LORATADINA/BETAMETASONA JARABE 1MG/0,05MG",
+    stock: "1.00",
+    pvp: "2.25",
+    pvp bs: "Bs.57.24",
+    vencimiento: "30/12/2023"
+  },
+  {
+    id: "465",
+    marca: "BRIXMEDIC",
+    nombre: "LOSARTAN 50MG/HIDROCLOROTIAZIDA 12.5MG CAJA X 100 TAB.",
+    stock: "5.00",
+    pvp: "0.92",
+    pvp bs: "Bs.23.32",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "466",
+    marca: "BRIXMEDIC",
+    nombre: "LOSARTAN POTASICO 100MG BLISTER X 10",
+    stock: "15.00",
+    pvp: "1.27",
+    pvp bs: "Bs.32.23",
+    vencimiento: "01/02/2024"
+  },
+  {
+    id: "467",
+    marca: "GENVEN",
+    nombre: "LOSARTAN POTASICO 50MG CAJA X 10 COMPRIMIDOS",
+    stock: "3.00",
+    pvp: "2.40",
+    pvp bs: "Bs.61.06",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "468",
+    marca: "BRIXMEDIC",
+    nombre: "LOSARTAN POTASICO 50MG X BLISTER X 10TAB",
+    stock: "20.00",
+    pvp: "0.82",
+    pvp bs: "Bs.20.78",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "469",
+    marca: "BEHRENS",
+    nombre: "LOWPRES 150MCG/ML",
+    stock: "50.00",
+    pvp: "4.95",
+    pvp bs: "Bs.125.93",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "470",
+    marca: "MEDAID",
+    nombre: "LLAVE 3 VIAS",
+    stock: "50.00",
+    pvp: "0.50",
+    pvp bs: "Bs.12.67",
+    vencimiento: "30/03/2027"
+  },
+  {
+    id: "471",
+    marca: "LASER",
+    nombre: "MACROGOTERO LASER",
+    stock: "2.00",
+    pvp: "1.37",
+    pvp bs: "Bs.34.77",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "472",
+    marca: "MEDAID",
+    nombre: "MACROGOTERO MEDAID",
+    stock: "24.00",
+    pvp: "1.33",
+    pvp bs: "Bs.33.93",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "473",
+    marca: "",
+    nombre: "MACROGOTEROS",
+    stock: "1,975.00",
+    pvp: "0.53",
+    pvp bs: "Bs.13.57",
+    vencimiento: "30/08/2025"
+  },
+  {
+    id: "474",
+    marca: "DEMO",
+    nombre: "MACROGOTEROS",
+    stock: "38.00",
+    pvp: "1.33",
+    pvp bs: "Bs.33.93",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "475",
+    marca: "DYNAMICS",
+    nombre: "MACROGOTEROS DYNAMICS",
+    stock: "1.00",
+    pvp: "1.37",
+    pvp bs: "Bs.34.77",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "476",
+    marca: "SURGIMED",
+    nombre: "MALLA QUIRURGICA MONOFILAMENTO DE POLIPROPILENO 30X30CM",
+    stock: "1.00",
+    pvp: "47.77",
+    pvp bs: "Bs.1,215.21",
+    vencimiento: "02/12/2025"
+  },
+  {
+    id: "477",
+    marca: "MEDICAL",
+    nombre: "MASC. DE NEBULIZAR ADULTO",
+    stock: "66.00",
+    pvp: "2.83",
+    pvp bs: "Bs.72.09",
+    vencimiento: "16/05/2024"
+  },
+  {
+    id: "478",
+    marca: "MEDAID",
+    nombre: "MASCARILLA DE OXIGENO ADULTO",
+    stock: "131.00",
+    pvp: "2.78",
+    pvp bs: "Bs.70.81",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "479",
+    marca: "FORSURE",
+    nombre: "MASCARILLA DE OXIGENO PARA ADULTO DESCANSO 7 PIES TUBO",
+    stock: "199.00",
+    pvp: "2.50",
+    pvp bs: "Bs.63.61",
+    vencimiento: "30/05/2026"
+  },
+  {
+    id: "480",
+    marca: "RX ONLY",
+    nombre: "MASCARILLA DE OXIGENO RX ONLY",
+    stock: "117.00",
+    pvp: "2.78",
+    pvp bs: "Bs.70.81",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "481",
+    marca: "HUDSON",
+    nombre: "MASCARILLA NEBULIZAR PEDIATRICA",
+    stock: "92.00",
+    pvp: "2.67",
+    pvp bs: "Bs.67.84",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "482",
+    marca: "VYAIRE",
+    nombre: "MASCARILLA OXIGENO",
+    stock: "17.00",
+    pvp: "2.83",
+    pvp bs: "Bs.72.09",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "483",
+    marca: "SUGAMA",
+    nombre: "MASCARILLA PARA NEBULIZAR ADULTO",
+    stock: "169.00",
+    pvp: "2.67",
+    pvp bs: "Bs.67.84",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "484",
+    marca: "BRIXMEDIC",
+    nombre: "MEBENDAZOL 100MG/5ML-30ML SUSP.",
+    stock: "12.00",
+    pvp: "1.93",
+    pvp bs: "Bs.49.19",
+    vencimiento: "01/06/2024"
+  },
+  {
+    id: "485",
+    marca: "BEHRENS",
+    nombre: "MEGAMOX 400MG/250ML INF. FV (MOXIFLOXACINA)",
+    stock: "10.00",
+    pvp: "15.68",
+    pvp bs: "Bs.398.99",
+    vencimiento: "09/11/2023"
+  },
+  {
+    id: "486",
+    marca: "VITALYS",
+    nombre: "MELOXICAM 15MG AMPOLLA",
+    stock: "100.00",
+    pvp: "5.80",
+    pvp bs: "Bs.147.56",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "487",
+    marca: "BRIXMEDIC",
+    nombre: "MELOXICAM 15MG BLISTER X 10 TAB",
+    stock: "10.00",
+    pvp: "1.02",
+    pvp bs: "Bs.25.87",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "488",
+    marca: "VENUS",
+    nombre: "MEROPENEM 1000MG AMPOLLA",
+    stock: "41.00",
+    pvp: "5.51",
+    pvp bs: "Bs.140.28",
+    vencimiento: "30/06/2023"
+  },
+  {
+    id: "489",
+    marca: "DISTRILAB",
+    nombre: "MEROPENEM 1G AMPOLLA",
+    stock: "60.00",
+    pvp: "5.83",
+    pvp bs: "Bs.148.41",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "490",
+    marca: "ZAKI",
+    nombre: "MEROPENEM POLV/SUSP X 1GR IV",
+    stock: "20.00",
+    pvp: "5.83",
+    pvp bs: "Bs.148.41",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "491",
+    marca: "REYOUNG",
+    nombre: "MEROPENEM VIAL 1GR",
+    stock: "26.00",
+    pvp: "5.83",
+    pvp bs: "Bs.148.41",
+    vencimiento: "01/09/2024"
+  },
+  {
+    id: "492",
+    marca: "REYOUNG",
+    nombre: "MEROPENEM VIAL 1GR",
+    stock: "100.00",
+    pvp: "5.83",
+    pvp bs: "Bs.148.41",
+    vencimiento: "31/08/2024"
+  },
+  {
+    id: "493",
+    marca: "REYOUNG",
+    nombre: "MEROPENEM VIAL 1GR",
+    stock: "10.00",
+    pvp: "5.83",
+    pvp bs: "Bs.148.41",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "494",
+    marca: "BIOSANO",
+    nombre: "METAMISOL+N-BUTILBROMURO DE ESCOPOLAMINA (BUSCAPINA COMPUESTA)",
+    stock: "92.00",
+    pvp: "1.40",
+    pvp bs: "Bs.35.62",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "495",
+    marca: "BIOSANO",
+    nombre: "METAMISOL+N-BUTILBROMURO DE ESCOPOLAMINA (BUSCAPINA COMPUESTA)",
+    stock: "100.00",
+    pvp: "1.40",
+    pvp bs: "Bs.35.62",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "496",
+    marca: "BRIXMEDIC",
+    nombre: "METFORMINA 850MG CAJA X 10 TABLETA",
+    stock: "33.00",
+    pvp: "1.00",
+    pvp bs: "Bs.25.44",
+    vencimiento: "30/08/2024"
+  },
+  {
+    id: "497",
+    marca: "BRIXMEDIC",
+    nombre: "METFORMINA 850MG CAJA X 10 TABLETA",
+    stock: "10.00",
+    pvp: "1.00",
+    pvp bs: "Bs.25.44",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "498",
+    marca: "PHARMACHENMIE BV",
+    nombre: "METHOTREXATO 25MG/ML AMPOLLA",
+    stock: "2.00",
+    pvp: "24.00",
+    pvp bs: "Bs.610.61",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "499",
+    marca: "VITALYS",
+    nombre: "METILPREDNISOLONA 500MG AMPOLLA",
+    stock: "37.00",
+    pvp: "10.01",
+    pvp bs: "Bs.254.65",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "500",
+    marca: "BIOSANO",
+    nombre: "METOCLOPRAMIDA 10MG",
+    stock: "26.00",
+    pvp: "0.37",
+    pvp bs: "Bs.9.33",
+    vencimiento: "01/08/2024"
+  },
+  {
+    id: "501",
+    marca: "QUALITYMED",
+    nombre: "METOCLOPRAMIDA 10MG X CAJA",
+    stock: "16.00",
+    pvp: "1.75",
+    pvp bs: "Bs.44.52",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "502",
+    marca: "LAND PHARMA",
+    nombre: "METOTREXATO 2,5MG X 10 TAB.",
+    stock: "9.00",
+    pvp: "13.33",
+    pvp bs: "Bs.339.21",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "503",
+    marca: "LAND PHARMA",
+    nombre: "METOTREXATO 50MG/2ML AMP.",
+    stock: "2.00",
+    pvp: "4.67",
+    pvp bs: "Bs.118.73",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "504",
+    marca: "DYNALAB",
+    nombre: "METRONIDAZOL 250MG/ 100ML SUSPENSION",
+    stock: "4.00",
+    pvp: "3.77",
+    pvp bs: "Bs.95.83",
+    vencimiento: "30/08/2023"
+  },
+  {
+    id: "505",
+    marca: "BRIXMEDIC",
+    nombre: "METRONIDAZOL 500MG BLISTER  X 10 TAB.",
+    stock: "31.00",
+    pvp: "1.05",
+    pvp bs: "Bs.26.72",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "506",
+    marca: "ALFA",
+    nombre: "METRONIDAZOL 500MG DE 100ML AMPOLLA",
+    stock: "48.00",
+    pvp: "1.95",
+    pvp bs: "Bs.49.61",
+    vencimiento: "30/12/2026"
+  },
+  {
+    id: "507",
+    marca: "SHANDONG PHARMACEUTICAL",
+    nombre: "METRONIDAZOL 500MG/100ML",
+    stock: "29.00",
+    pvp: "1.68",
+    pvp bs: "Bs.42.80",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "508",
+    marca: "IPS",
+    nombre: "METRONIDAZOL 500MG/100ML AMP",
+    stock: "19.00",
+    pvp: "2.17",
+    pvp bs: "Bs.55.13",
+    vencimiento: "30/03/2025"
+  },
+  {
+    id: "509",
+    marca: "COASPHARMA",
+    nombre: "METRONIDAZOL SUSPENSION 250MG/5ML",
+    stock: "31.00",
+    pvp: "2.67",
+    pvp bs: "Bs.67.84",
+    vencimiento: "01/01/2024"
+  },
+  {
+    id: "510",
+    marca: "INCEPTA",
+    nombre: "MOLENZAVIR 200MG CAJA POR 20TAB",
+    stock: "1.00",
+    pvp: "33.33",
+    pvp bs: "Bs.848.02",
+    vencimiento: "30/12/2023"
+  },
+  {
+    id: "511",
+    marca: "DYNALAB",
+    nombre: "MOMETASONA 0.1% (E)",
+    stock: "4.00",
+    pvp: "6.10",
+    pvp bs: "Bs.155.19",
+    vencimiento: "30/07/2023"
+  },
+  {
+    id: "512",
+    marca: "FVD",
+    nombre: "MONO DE CIRUJANO FVD",
+    stock: "84.00",
+    pvp: "2.51",
+    pvp bs: "Bs.63.94",
+    vencimiento: "30/08/2026"
+  },
+  {
+    id: "513",
+    marca: "MEDAID",
+    nombre: "MONO DE CIRUJANO TALLA XL 40 GRS UND (DESCART)",
+    stock: "23.00",
+    pvp: "2.92",
+    pvp bs: "Bs.74.17",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "514",
+    marca: "DEMETECH",
+    nombre: "MONOCRYL 3-0 Y936",
+    stock: "12.00",
+    pvp: "4.87",
+    pvp bs: "Bs.123.82",
+    vencimiento: "30/09/2025"
+  },
+  {
+    id: "515",
+    marca: "DEMETECH",
+    nombre: "MONOCRYL 4-0 Y426",
+    stock: "12.00",
+    pvp: "4.13",
+    pvp bs: "Bs.105.16",
+    vencimiento: "01/08/2025"
+  },
+  {
+    id: "516",
+    marca: "BRIXMEDIC",
+    nombre: "MONTELUKAST 10 MG X BLISTER 10TAB",
+    stock: "30.00",
+    pvp: "1.65",
+    pvp bs: "Bs.41.98",
+    vencimiento: "25/02/2025"
+  },
+  {
+    id: "517",
+    marca: "GENVEN",
+    nombre: "MONTELUKAST 10MG CAJA X 10 COMPRIMIDOS",
+    stock: "3.00",
+    pvp: "3.02",
+    pvp bs: "Bs.76.75",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "518",
+    marca: "BRIXMEDIC",
+    nombre: "MONTELUKAST 10MG/DESLORATADINA 5MG BLISTER X 10TAB",
+    stock: "16.00",
+    pvp: "1.92",
+    pvp bs: "Bs.48.76",
+    vencimiento: "30/05/2025"
+  },
+  {
+    id: "519",
+    marca: "BRIXMEDIC",
+    nombre: "MONTELUKAST 5MG BLISTER 10 TAB",
+    stock: "41.00",
+    pvp: "1.25",
+    pvp bs: "Bs.31.80",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "520",
+    marca: "LA SANTE",
+    nombre: "MONTELUKAST 5MG CAJA X 10 TABLETAS",
+    stock: "3.00",
+    pvp: "2.90",
+    pvp bs: "Bs.73.78",
+    vencimiento: "30/11/2025"
+  },
+  {
+    id: "521",
+    marca: "LIVEALTH",
+    nombre: "MONTY-10 (MONTELUKAST ) 10MG CAJA X 10 TABLETAS",
+    stock: "30.00",
+    pvp: "2.03",
+    pvp bs: "Bs.51.73",
+    vencimiento: "30/10/2023"
+  },
+  {
+    id: "522",
+    marca: "BIOSANO",
+    nombre: "MORFINA CLORHIDRATO 10MG/1ML",
+    stock: "100.00",
+    pvp: "1.42",
+    pvp bs: "Bs.36.04",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "523",
+    marca: "DYNALAB",
+    nombre: "MOXIFLOXACINO 400MG X 10TABLETAS",
+    stock: "3.00",
+    pvp: "11.67",
+    pvp bs: "Bs.296.81",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "524",
+    marca: "",
+    nombre: "N-ACETILCISTEINA 300MG/3ML I.M. I.V.",
+    stock: "10.00",
+    pvp: "6.47",
+    pvp bs: "Bs.164.52",
+    vencimiento: "30/05/2025"
+  },
+  {
+    id: "525",
+    marca: "BIOSANO",
+    nombre: "N-BUTILBROMURO D/ESCOPOLAMINA 20MG/ML IV-IM",
+    stock: "100.00",
+    pvp: "1.33",
+    pvp bs: "Bs.33.93",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "526",
+    marca: "BIOSANO",
+    nombre: "N-BUTILBROMURO DE ESCOPOLAMINA (BUSCAPINA SIMPLE)",
+    stock: "63.00",
+    pvp: "1.18",
+    pvp bs: "Bs.30.11",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "527",
+    marca: "BIOSANO",
+    nombre: "N-BUTILBROMURO DE ESCOPOLAMINA (BUSCAPINA SIMPLE)",
+    stock: "194.00",
+    pvp: "1.18",
+    pvp bs: "Bs.30.11",
+    vencimiento: "30/06/2023"
+  },
+  {
+    id: "528",
+    marca: "BEHRENS",
+    nombre: "N° 19 RINGER LACTATO SOL. FB 500ML",
+    stock: "132.00",
+    pvp: "4.13",
+    pvp bs: "Bs.105.16",
+    vencimiento: "16/02/2024"
+  },
+  {
+    id: "529",
+    marca: "BEHRENS",
+    nombre: "N° 28 DEXTRO-SAL 5%/0,30% SOLFB 500ML",
+    stock: "144.00",
+    pvp: "3.60",
+    pvp bs: "Bs.91.59",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "530",
+    marca: "BEHRENS",
+    nombre: "N° 29 DEXTRO-SAL 5%/0,45% SOLFB 500ML",
+    stock: "144.00",
+    pvp: "3.13",
+    pvp bs: "Bs.79.72",
+    vencimiento: "15/02/2024"
+  },
+  {
+    id: "531",
+    marca: "BEHERENS",
+    nombre: "N°4 DEXTROSA SOLUCION FISIOLOGICA ISOTONICA 500ML",
+    stock: "72.00",
+    pvp: "4.00",
+    pvp bs: "Bs.101.77",
+    vencimiento: "30/08/2024"
+  },
+  {
+    id: "532",
+    marca: "VIJOSA",
+    nombre: "NALOXONA AMP. 0,4MG/ML",
+    stock: "86.00",
+    pvp: "3.00",
+    pvp bs: "Bs.76.33",
+    vencimiento: "01/03/2024"
+  },
+  {
+    id: "533",
+    marca: "VITALIS",
+    nombre: "NEOSTIGMINA 0.5MG/ML AMPOLLAS",
+    stock: "170.00",
+    pvp: "1.61",
+    pvp bs: "Bs.40.98",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "534",
+    marca: "VITALIS",
+    nombre: "NEOSTIGMINA 0.5MG/ML AMPOLLAS",
+    stock: "30.00",
+    pvp: "1.61",
+    pvp bs: "Bs.40.98",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "535",
+    marca: "BIOSANO",
+    nombre: "NEOSTIGMINA METILSULFATO 0,5MG/1ML",
+    stock: "6.00",
+    pvp: "1.48",
+    pvp bs: "Bs.37.74",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "536",
+    marca: "BIOSANO",
+    nombre: "NEOSTIGMINA METILSULFATO 0,5MG/1ML",
+    stock: "300.00",
+    pvp: "0.67",
+    pvp bs: "Bs.16.96",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "537",
+    marca: "BRIXMEDIC",
+    nombre: "NIFEDIPINO 10MG BLISTER X 10 TAB",
+    stock: "5.00",
+    pvp: "0.52",
+    pvp bs: "Bs.13.15",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "538",
+    marca: "BRIXMEDIC",
+    nombre: "NIFEDIPINO 20MG BLISTER X 10 TAB",
+    stock: "15.00",
+    pvp: "0.70",
+    pvp bs: "Bs.17.81",
+    vencimiento: "30/03/2025"
+  },
+  {
+    id: "539",
+    marca: "BRIXMEDIC",
+    nombre: "NIFEDIPINO 30MG BLISTER X 10 TAB",
+    stock: "11.00",
+    pvp: "1.00",
+    pvp bs: "Bs.25.44",
+    vencimiento: "01/04/2024"
+  },
+  {
+    id: "540",
+    marca: "CISEN PHARMACEUTICAL",
+    nombre: "NIMODIPINO 0,2MG/ML FRASCO SOLUCION PARA PERFUSION",
+    stock: "34.00",
+    pvp: "4.13",
+    pvp bs: "Bs.105.16",
+    vencimiento: "30/01/2024"
+  },
+  {
+    id: "541",
+    marca: "IMENOL INDUSTRIAS",
+    nombre: "NISTATINA OVULOS",
+    stock: "41.00",
+    pvp: "2.83",
+    pvp bs: "Bs.72.09",
+    vencimiento: "30/01/2024"
+  },
+  {
+    id: "542",
+    marca: "BRIXMEDIC",
+    nombre: "NISTATINA SUSPENSION ORAL 100000/5ML",
+    stock: "10.00",
+    pvp: "2.62",
+    pvp bs: "Bs.66.57",
+    vencimiento: "30/12/2025"
+  },
+  {
+    id: "543",
+    marca: "CLEO",
+    nombre: "NITROFURANTOINA 100MG CAJA X 10TAB",
+    stock: "1.00",
+    pvp: "4.50",
+    pvp bs: "Bs.114.49",
+    vencimiento: "30/05/2025"
+  },
+  {
+    id: "544",
+    marca: "LIVE ALTH BIOPHARMA",
+    nombre: "NOREPINEFRINA 4ML AMPOLLA",
+    stock: "28.00",
+    pvp: "3.87",
+    pvp bs: "Bs.98.38",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "545",
+    marca: "BEHRENS",
+    nombre: "NUTRAMIN 8,5% SOL FV 500ML ( AMINOACIDOS)",
+    stock: "12.00",
+    pvp: "37.65",
+    pvp bs: "Bs.957.84",
+    vencimiento: "30/08/2026"
+  },
+  {
+    id: "546",
+    marca: "DEMETECH",
+    nombre: "NYLON 2-0 164 NL262026F4P",
+    stock: "18.00",
+    pvp: "2.15",
+    pvp bs: "Bs.54.60",
+    vencimiento: "28/06/2027"
+  },
+  {
+    id: "547",
+    marca: "DEMETECH",
+    nombre: "NYLON 3-0 163",
+    stock: "12.00",
+    pvp: "2.07",
+    pvp bs: "Bs.52.58",
+    vencimiento: "01/07/2027"
+  },
+  {
+    id: "548",
+    marca: "DEMETECH",
+    nombre: "NYLON 3-0 627",
+    stock: "12.00",
+    pvp: "2.07",
+    pvp bs: "Bs.52.58",
+    vencimiento: "01/07/2027"
+  },
+  {
+    id: "549",
+    marca: "DEMETECH",
+    nombre: "NYLON 4-0 14502",
+    stock: "12.00",
+    pvp: "2.06",
+    pvp bs: "Bs.52.34",
+    vencimiento: "01/07/2027"
+  },
+  {
+    id: "550",
+    marca: "DEMETECH",
+    nombre: "NYLON 5-0 14501",
+    stock: "12.00",
+    pvp: "2.17",
+    pvp bs: "Bs.55.12",
+    vencimiento: "26/02/2027"
+  },
+  {
+    id: "551",
+    marca: "MEDAID",
+    nombre: "OBTURADOR CAJA X 100 UNDS",
+    stock: "300.00",
+    pvp: "19.93",
+    pvp bs: "Bs.507.12",
+    vencimiento: "30/06/2026"
+  },
+  {
+    id: "552",
+    marca: "DYNAMICS",
+    nombre: "OBTURADOR CAJA X 100UND",
+    stock: "199.00",
+    pvp: "19.60",
+    pvp bs: "Bs.498.64",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "553",
+    marca: "PHARMACEUTICAL",
+    nombre: "OLANZAPINA 5MG X BLISTER X 10 TAB",
+    stock: "97.00",
+    pvp: "1.45",
+    pvp bs: "Bs.36.89",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "554",
+    marca: "DYNALAB",
+    nombre: "OLMERSARTAN 20MG CAJA X 30 TAB",
+    stock: "3.00",
+    pvp: "4.75",
+    pvp bs: "Bs.120.85",
+    vencimiento: "31/10/2023"
+  },
+  {
+    id: "555",
+    marca: "DYNALAB",
+    nombre: "OLMERSARTAN 40MG CAJA X 30",
+    stock: "2.00",
+    pvp: "10.00",
+    pvp bs: "Bs.254.41",
+    vencimiento: "31/10/2023"
+  },
+  {
+    id: "556",
+    marca: "BRIXMEDIC",
+    nombre: "OLMESARTAN 40MG-HIDROCLOROTIAZIDA 12,5MG BLISTER X 10TAB",
+    stock: "15.00",
+    pvp: "1.90",
+    pvp bs: "Bs.48.34",
+    vencimiento: "01/06/2024"
+  },
+  {
+    id: "557",
+    marca: "BRIXMEDIC",
+    nombre: "OMEPRAZOL 20MG BP BLISTER X 10 TABLETAS",
+    stock: "10.00",
+    pvp: "0.57",
+    pvp bs: "Bs.14.42",
+    vencimiento: "30/12/2024"
+  },
+  {
+    id: "558",
+    marca: "DELTA",
+    nombre: "OMEPRAZOL 40MG",
+    stock: "4.00",
+    pvp: "1.28",
+    pvp bs: "Bs.32.65",
+    vencimiento: "26/02/2024"
+  },
+  {
+    id: "559",
+    marca: "CISEN",
+    nombre: "OMEPRAZOL 40MG",
+    stock: "38.00",
+    pvp: "0.93",
+    pvp bs: "Bs.23.59",
+    vencimiento: "30/12/2024"
+  },
+  {
+    id: "560",
+    marca: "DINALAB",
+    nombre: "OMEPRAZOL 40MG AMP.",
+    stock: "3.00",
+    pvp: "1.78",
+    pvp bs: "Bs.45.37",
+    vencimiento: "31/05/2023"
+  },
+  {
+    id: "561",
+    marca: "LABORATORIOS BIOS VITA",
+    nombre: "OMEPRAZOL 40MG AMPOLLA",
+    stock: "778.00",
+    pvp: "0.83",
+    pvp bs: "Bs.21.21",
+    vencimiento: "31/12/2024"
+  },
+  {
+    id: "562",
+    marca: "GE HEALTH",
+    nombre: "OMNIPAQUE 300/1ML DE 50ML",
+    stock: "1.00",
+    pvp: "41.67",
+    pvp bs: "Bs.1,060.03",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "563",
+    marca: "GE HEALTH",
+    nombre: "OMNIPAQUE 300MG/100ML",
+    stock: "4.00",
+    pvp: "65.82",
+    pvp bs: "Bs.1,674.41",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "564",
+    marca: "CISEN",
+    nombre: "ONDANSETRON 4MG/2ML",
+    stock: "100.00",
+    pvp: "0.18",
+    pvp bs: "Bs.4.67",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "565",
+    marca: "BIOSANO",
+    nombre: "ONDANSETRON 8MG/4ML",
+    stock: "200.00",
+    pvp: "1.53",
+    pvp bs: "Bs.39.01",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "566",
+    marca: "EL MORRO",
+    nombre: "OXACILINA 1GR",
+    stock: "50.00",
+    pvp: "1.19",
+    pvp bs: "Bs.30.16",
+    vencimiento: "31/08/2023"
+  },
+  {
+    id: "567",
+    marca: "DYNALAB",
+    nombre: "OXACILINA 1GR",
+    stock: "15.00",
+    pvp: "1.19",
+    pvp bs: "Bs.30.32",
+    vencimiento: "27/04/2024"
+  },
+  {
+    id: "568",
+    marca: "DYNALAB",
+    nombre: "OXITETRACILINA- POLIMIXINA B 5MG- 10000IU",
+    stock: "4.00",
+    pvp: "5.42",
+    pvp bs: "Bs.137.81",
+    vencimiento: "30/10/2023"
+  },
+  {
+    id: "569",
+    marca: "BRIXMEDIC",
+    nombre: "PANTOPRAZOL 40MG BLISTER X 10 TAB",
+    stock: "2.00",
+    pvp: "1.00",
+    pvp bs: "Bs.25.44",
+    vencimiento: "01/06/2024"
+  },
+  {
+    id: "570",
+    marca: "BRIXMEDIC",
+    nombre: "PANTOPRAZOL 40MG BLISTER X 10 TAB",
+    stock: "22.00",
+    pvp: "1.00",
+    pvp bs: "Bs.25.44",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "571",
+    marca: "DYNALAB",
+    nombre: "PANTOPRAZOL 40MG CAJA X 10 TAB",
+    stock: "2.00",
+    pvp: "2.08",
+    pvp bs: "Bs.53.00",
+    vencimiento: "30/12/2024"
+  },
+  {
+    id: "572",
+    marca: "",
+    nombre: "PAPEL BOBINA 5KG",
+    stock: "2.00",
+    pvp: "56.67",
+    pvp bs: "Bs.1,441.63",
+    vencimiento: "30/11/2026"
+  },
+  {
+    id: "573",
+    marca: "",
+    nombre: "PAPEL CAMILLA POR ROLLO",
+    stock: "8.00",
+    pvp: "5.92",
+    pvp bs: "Bs.150.63",
+    vencimiento: "30/07/2026"
+  },
+  {
+    id: "574",
+    marca: "DEMETECH",
+    nombre: "PDS 4-0 Z496",
+    stock: "12.00",
+    pvp: "3.85",
+    pvp bs: "Bs.97.95",
+    vencimiento: "27/04/2024"
+  },
+  {
+    id: "575",
+    marca: "EL MORRO",
+    nombre: "PENICILINA 1.000.000 UI AMP",
+    stock: "50.00",
+    pvp: "0.92",
+    pvp bs: "Bs.23.32",
+    vencimiento: "01/05/2024"
+  },
+  {
+    id: "576",
+    marca: "EL MORRO",
+    nombre: "PENICILINA BENZA 1.200.000UI",
+    stock: "91.00",
+    pvp: "0.92",
+    pvp bs: "Bs.23.53",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "577",
+    marca: "BRIXMEDIC",
+    nombre: "PENTOXIFILINA 400MG BLISTER X 10 TABLETAS",
+    stock: "20.00",
+    pvp: "3.73",
+    pvp bs: "Bs.94.98",
+    vencimiento: "30/08/2025"
+  },
+  {
+    id: "578",
+    marca: "ROPSOHH",
+    nombre: "PENTOXIFILINA AMP. 300MG/15ML",
+    stock: "19.00",
+    pvp: "4.17",
+    pvp bs: "Bs.106.01",
+    vencimiento: "30/08/2024"
+  },
+  {
+    id: "579",
+    marca: "DYNALAB",
+    nombre: "PERMETRINA5%-60ML LOCION",
+    stock: "2.00",
+    pvp: "6.82",
+    pvp bs: "Bs.173.42",
+    vencimiento: "01/07/2023"
+  },
+  {
+    id: "580",
+    marca: "DELTA",
+    nombre: "PIPERACILINA + TAZOBACTAM AMP. 4,5GR",
+    stock: "47.00",
+    pvp: "8.12",
+    pvp bs: "Bs.206.50",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "581",
+    marca: "VITALYS",
+    nombre: "PIPERACILINA/TAZOBACTAN 4.5GR - 0.5GR IV",
+    stock: "10.00",
+    pvp: "8.13",
+    pvp bs: "Bs.206.82",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "582",
+    marca: "BIOSANO",
+    nombre: "PIRIDOXINA 100MG AMP",
+    stock: "50.00",
+    pvp: "2.58",
+    pvp bs: "Bs.65.73",
+    vencimiento: "01/01/2024"
+  },
+  {
+    id: "583",
+    marca: "COASPHARMA",
+    nombre: "PIROXICAM 0,5% GEL",
+    stock: "19.00",
+    pvp: "2.08",
+    pvp bs: "Bs.53.01",
+    vencimiento: "01/09/2023"
+  },
+  {
+    id: "584",
+    marca: "",
+    nombre: "PLANCHA ELETROCAUTHIN",
+    stock: "81.00",
+    pvp: "4.33",
+    pvp bs: "Bs.110.25",
+    vencimiento: "30/04/2025"
+  },
+  {
+    id: "585",
+    marca: "DEMOMEDICAL",
+    nombre: "PORTOVAC FR 14 , 3/4",
+    stock: "1.00",
+    pvp: "15.83",
+    pvp bs: "Bs.402.81",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "586",
+    marca: "COASPHARMA",
+    nombre: "PREDNISOLONA 5MG BLISTER X 15 TABLETAS",
+    stock: "17.00",
+    pvp: "1.67",
+    pvp bs: "Bs.42.41",
+    vencimiento: "01/09/2024"
+  },
+  {
+    id: "587",
+    marca: "BRIXMEDIC",
+    nombre: "PREGABALINA 75MG - METILCOBALAMINA 750MCG X 10TAB",
+    stock: "44.00",
+    pvp: "1.65",
+    pvp bs: "Bs.41.98",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "588",
+    marca: "DYNALAB",
+    nombre: "PRENDNISOLONA 1%   / 5ML GOTAS",
+    stock: "1.00",
+    pvp: "3.33",
+    pvp bs: "Bs.84.81",
+    vencimiento: "31/08/2023"
+  },
+  {
+    id: "589",
+    marca: "DYNALAB",
+    nombre: "PROPANOLOL 10MG CAJA X 20 TABLETAS",
+    stock: "2.00",
+    pvp: "2.10",
+    pvp bs: "Bs.53.43",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "590",
+    marca: "DYNALAB",
+    nombre: "PROPANOLOL 40MG CAJA X 20 TAB",
+    stock: "2.00",
+    pvp: "3.38",
+    pvp bs: "Bs.86.08",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "591",
+    marca: "RAVENBHEL",
+    nombre: "PROPOFOL 200MG/20ML",
+    stock: "10.00",
+    pvp: "5.00",
+    pvp bs: "Bs.127.21",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "592",
+    marca: "GUANGDONG",
+    nombre: "PROPOFOL EMULSION 200MG/20ML X AMPOLLA",
+    stock: "145.00",
+    pvp: "5.00",
+    pvp bs: "Bs.127.21",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "593",
+    marca: "BRIXMEDIC",
+    nombre: "PROPRANOLOL 40MG X 10 TAB",
+    stock: "40.00",
+    pvp: "0.75",
+    pvp bs: "Bs.19.08",
+    vencimiento: "01/05/2024"
+  },
+  {
+    id: "594",
+    marca: "CLEOPHARMA",
+    nombre: "QUETIAPINA 200MG CAJA X 30 TABLETAS",
+    stock: "3.00",
+    pvp: "17.65",
+    pvp bs: "Bs.449.03",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "595",
+    marca: "DYNALAB",
+    nombre: "QUETIAPINA 200MG X 30 TABLETAS",
+    stock: "1.00",
+    pvp: "17.10",
+    pvp bs: "Bs.435.04",
+    vencimiento: "01/07/2023"
+  },
+  {
+    id: "596",
+    marca: "VITALYS",
+    nombre: "RANITIDINA 50MG / 2ML",
+    stock: "29.00",
+    pvp: "0.35",
+    pvp bs: "Bs.8.91",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "597",
+    marca: "DEXX",
+    nombre: "RECOLECTOR MUESTRA DE HECES",
+    stock: "8.00",
+    pvp: "0.13",
+    pvp bs: "Bs.3.40",
+    vencimiento: "16/10/2024"
+  },
+  {
+    id: "598",
+    marca: "",
+    nombre: "RECOLECTOR MUESTRA DE ORINA",
+    stock: "91.00",
+    pvp: "0.23",
+    pvp bs: "Bs.5.94",
+    vencimiento: "16/10/2024"
+  },
+  {
+    id: "599",
+    marca: "ALLEGRANCE",
+    nombre: "REGULADOR DE OXIGENO CON MANOMETRO",
+    stock: "6.00",
+    pvp: "41.67",
+    pvp bs: "Bs.1,060.03",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "600",
+    marca: "BEHRENS",
+    nombre: "REHIDROSOL FRAMBUESA 45 MEQ/L X 600ML",
+    stock: "5.00",
+    pvp: "4.10",
+    pvp bs: "Bs.104.31",
+    vencimiento: "03/03/2024"
+  },
+  {
+    id: "601",
+    marca: "BEHRENS",
+    nombre: "REHIDROSOL FRESA 45 MEQ/L X 600ML",
+    stock: "5.00",
+    pvp: "4.10",
+    pvp bs: "Bs.104.31",
+    vencimiento: "17/02/2024"
+  },
+  {
+    id: "602",
+    marca: "FORSURE",
+    nombre: "RESUCITADOR MANUAL (AMBU) ADULTO",
+    stock: "19.00",
+    pvp: "33.33",
+    pvp bs: "Bs.848.02",
+    vencimiento: "30/08/2025"
+  },
+  {
+    id: "603",
+    marca: "FORSURE",
+    nombre: "RESUCITADOR MANUAL (AMBU) PEDIATRICO",
+    stock: "4.00",
+    pvp: "33.33",
+    pvp bs: "Bs.848.02",
+    vencimiento: "30/08/2025"
+  },
+  {
+    id: "604",
+    marca: "ROWE",
+    nombre: "RIDAL - RISPERIDONA 1MG/ML",
+    stock: "1.00",
+    pvp: "5.22",
+    pvp bs: "Bs.132.72",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "605",
+    marca: "",
+    nombre: "ROLLO DE GASA POR 1OO YARDAS",
+    stock: "6.00",
+    pvp: "29.18",
+    pvp bs: "Bs.742.44",
+    vencimiento: "30/01/2026"
+  },
+  {
+    id: "606",
+    marca: "SONY",
+    nombre: "ROLLO DE PAPEL PRINTER 110MMX20M",
+    stock: "7.00",
+    pvp: "42.87",
+    pvp bs: "Bs.1,090.55",
+    vencimiento: "30/10/2024"
+  },
+  {
+    id: "607",
+    marca: "COMPO MEDICA",
+    nombre: "ROLLO GASA PARA QUEMADO 4,5\"X4YDS ESTERIL,
+    stock: "100.00",
+    pvp: "3.33",
+    pvp bs: "Bs.84.81",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "608",
+    marca: "",
+    nombre: "SABANA DE CAMILLA UND",
+    stock: "101.00",
+    pvp: "1.53",
+    pvp bs: "Bs.39.01",
+    vencimiento: "30/07/2024"
+  },
+  {
+    id: "609",
+    marca: "KM PLUS",
+    nombre: "SALBUTAMOL 100MG X 200 DOSIS",
+    stock: "3.00",
+    pvp: "13.33",
+    pvp bs: "Bs.339.21",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "610",
+    marca: "NOVARTIS",
+    nombre: "SANDOSTATIN 0,1MG/ML (OCTREOTIDA)",
+    stock: "30.00",
+    pvp: "13.33",
+    pvp bs: "Bs.339.21",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "611",
+    marca: "IDAGUS",
+    nombre: "SCALP 21G",
+    stock: "99.00",
+    pvp: "0.15",
+    pvp bs: "Bs.3.82",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "612",
+    marca: "CALOX",
+    nombre: "SECNIDAZOL 1GR CAJA X 2 TABLETAS",
+    stock: "2.00",
+    pvp: "4.47",
+    pvp bs: "Bs.113.64",
+    vencimiento: "30/11/2025"
+  },
+  {
+    id: "613",
+    marca: "DEMETECH",
+    nombre: "SEDA 0 SH 834",
+    stock: "3.00",
+    pvp: "2.00",
+    pvp bs: "Bs.50.88",
+    vencimiento: "30/09/2025"
+  },
+  {
+    id: "614",
+    marca: "DEMETECH",
+    nombre: "SEDA 1SH 835 SK260126B0P",
+    stock: "36.00",
+    pvp: "1.85",
+    pvp bs: "Bs.47.18",
+    vencimiento: "01/05/2027"
+  },
+  {
+    id: "615",
+    marca: "COASPHARMA",
+    nombre: "SILDENAFILO 50MGX 2 TABLETAS",
+    stock: "168.00",
+    pvp: "0.47",
+    pvp bs: "Bs.11.88",
+    vencimiento: "01/11/2023"
+  },
+  {
+    id: "616",
+    marca: "DYNALAB",
+    nombre: "SIMVASTATINA 40MG  CAJA X 10 TAB",
+    stock: "5.00",
+    pvp: "4.40",
+    pvp bs: "Bs.111.94",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "617",
+    marca: "CALOX",
+    nombre: "SIMVASTATINA 40MG CAJA X 10",
+    stock: "4.00",
+    pvp: "3.42",
+    pvp bs: "Bs.86.92",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "618",
+    marca: "SOLUMED",
+    nombre: "SISTEMA DE DRENAJE 19FR-100ML",
+    stock: "1.00",
+    pvp: "24.17",
+    pvp bs: "Bs.614.81",
+    vencimiento: "30/04/2025"
+  },
+  {
+    id: "619",
+    marca: "DYNALAB",
+    nombre: "SITAGLIPTINA- METF 50MG/500MG CAJA X 30 TAB",
+    stock: "2.00",
+    pvp: "21.82",
+    pvp bs: "Bs.555.03",
+    vencimiento: "31/10/2023"
+  },
+  {
+    id: "620",
+    marca: "BIOLAB",
+    nombre: "SOLUCION FISIOLOGICA 0.9% CLORURO DE SODIO 500ML",
+    stock: "341.00",
+    pvp: "1.37",
+    pvp bs: "Bs.34.94",
+    vencimiento: "30/03/2025"
+  },
+  {
+    id: "621",
+    marca: "BIOLAB",
+    nombre: "SOLUCION FISIOLOGICA 0.9% CLORURO DE SODIO 500ML",
+    stock: "553.00",
+    pvp: "1.37",
+    pvp bs: "Bs.34.94",
+    vencimiento: "10/01/2025"
+  },
+  {
+    id: "622",
+    marca: "YODINE",
+    nombre: "SOLUCION JABONOSA YODADA GALON",
+    stock: "4.00",
+    pvp: "10.40",
+    pvp bs: "Bs.264.59",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "623",
+    marca: "CORPAUL",
+    nombre: "SOLUCION RINGER LACTATO 500ML",
+    stock: "132.00",
+    pvp: "1.85",
+    pvp bs: "Bs.47.07",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "624",
+    marca: "YODINE",
+    nombre: "SOLUCION YODADA GALON",
+    stock: "2.00",
+    pvp: "10.40",
+    pvp bs: "Bs.264.59",
+    vencimiento: "30/07/2025"
+  },
+  {
+    id: "625",
+    marca: "ROSPITAL",
+    nombre: "SONDA 2V FR10",
+    stock: "41.00",
+    pvp: "2.08",
+    pvp bs: "Bs.53.01",
+    vencimiento: "15/03/2025"
+  },
+  {
+    id: "626",
+    marca: "PRONTOMEDICA",
+    nombre: "SONDA ALIMENTACION N°05",
+    stock: "24.00",
+    pvp: "0.67",
+    pvp bs: "Bs.16.96",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "627",
+    marca: "PRONTOMEDICA",
+    nombre: "SONDA ALIMENTACION N°08",
+    stock: "24.00",
+    pvp: "0.67",
+    pvp bs: "Bs.16.96",
+    vencimiento: "30/10/2025"
+  },
+  {
+    id: "628",
+    marca: "FORSURE",
+    nombre: "SONDA DE SILICON 3V 20FR",
+    stock: "20.00",
+    pvp: "3.33",
+    pvp bs: "Bs.84.81",
+    vencimiento: "15/03/2025"
+  },
+  {
+    id: "629",
+    marca: "ROSPITAL",
+    nombre: "SONDA DE SILICON FR14 2VIAS",
+    stock: "8.00",
+    pvp: "2.08",
+    pvp bs: "Bs.53.01",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "630",
+    marca: "FOSURE",
+    nombre: "SONDA DE SUCCION N°14",
+    stock: "20.00",
+    pvp: "0.82",
+    pvp bs: "Bs.20.78",
+    vencimiento: "30/04/2025"
+  },
+  {
+    id: "631",
+    marca: "DEMOMEDICAL",
+    nombre: "SONDA FOLEY 2 VIAS N°18 SILICON",
+    stock: "39.00",
+    pvp: "2.50",
+    pvp bs: "Bs.63.61",
+    vencimiento: "30/06/2027"
+  },
+  {
+    id: "632",
+    marca: "ROSPITAL",
+    nombre: "SONDA FOLEY CON BALON 2VIAS FR12",
+    stock: "20.00",
+    pvp: "2.08",
+    pvp bs: "Bs.53.01",
+    vencimiento: "30/03/2025"
+  },
+  {
+    id: "633",
+    marca: "DYNAMICS",
+    nombre: "SONDA FOLEY CON BALON 2VIAS FR14",
+    stock: "32.00",
+    pvp: "2.08",
+    pvp bs: "Bs.53.01",
+    vencimiento: "15/03/2025"
+  },
+  {
+    id: "634",
+    marca: "FORSURE",
+    nombre: "SONDA FOLEY LATEX/SILICONADO N°16 2V",
+    stock: "16.00",
+    pvp: "2.08",
+    pvp bs: "Bs.53.01",
+    vencimiento: "30/08/2024"
+  },
+  {
+    id: "635",
+    marca: "MEDAID",
+    nombre: "SONDA FOLEY N°18 2VIAS",
+    stock: "10.00",
+    pvp: "6.95",
+    pvp bs: "Bs.176.81",
+    vencimiento: "30/06/2027"
+  },
+  {
+    id: "636",
+    marca: "FORSURE",
+    nombre: "SONDA FOLEY SILICONADA 3VIAS FR24",
+    stock: "19.00",
+    pvp: "8.08",
+    pvp bs: "Bs.205.65",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "637",
+    marca: "",
+    nombre: "SONDA FOLEY SILICONADA LATEX 3V FR22",
+    stock: "5.00",
+    pvp: "6.95",
+    pvp bs: "Bs.176.81",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "638",
+    marca: "MD",
+    nombre: "SONDA LEVIN N° 12",
+    stock: "12.00",
+    pvp: "1.73",
+    pvp bs: "Bs.44.10",
+    vencimiento: "01/05/2027"
+  },
+  {
+    id: "639",
+    marca: "PRONTOMEDICA",
+    nombre: "SONDA LEVIN N°12",
+    stock: "6.00",
+    pvp: "1.73",
+    pvp bs: "Bs.44.10",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "640",
+    marca: "PRONTOMEDICA",
+    nombre: "SONDA LEVIN N°14",
+    stock: "1.00",
+    pvp: "1.73",
+    pvp bs: "Bs.44.10",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "641",
+    marca: "PRONTOMEDICA",
+    nombre: "SONDA LEVIN N°16FR",
+    stock: "2.00",
+    pvp: "1.73",
+    pvp bs: "Bs.44.10",
+    vencimiento: "30/03/2026"
+  },
+  {
+    id: "642",
+    marca: "PRONTO MEDICA",
+    nombre: "SONDA NELATON FR16",
+    stock: "39.00",
+    pvp: "0.70",
+    pvp bs: "Bs.17.81",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "643",
+    marca: "PRONTOMEDICA",
+    nombre: "SONDA SALEM N°14",
+    stock: "1.00",
+    pvp: "1.67",
+    pvp bs: "Bs.42.40",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "644",
+    marca: "",
+    nombre: "SONDA SILICON 1VIA FR5",
+    stock: "10.00",
+    pvp: "0.82",
+    pvp bs: "Bs.20.78",
+    vencimiento: "30/04/2025"
+  },
+  {
+    id: "645",
+    marca: "FORSURE",
+    nombre: "SONDA SILICON FOLEY 3VIAS FR22",
+    stock: "64.00",
+    pvp: "6.95",
+    pvp bs: "Bs.176.81",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "646",
+    marca: "PRONTO MEDICA",
+    nombre: "SONDA SILICON FOLEY FR16 3 VIAS",
+    stock: "44.00",
+    pvp: "8.08",
+    pvp bs: "Bs.205.65",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "647",
+    marca: "DEMOMEDICAL",
+    nombre: "SONDA SILICONADA FOLEY 3VIAS FR20",
+    stock: "93.00",
+    pvp: "6.95",
+    pvp bs: "Bs.176.81",
+    vencimiento: "30/03/2025"
+  },
+  {
+    id: "648",
+    marca: "DEMOMEDICAL",
+    nombre: "SONDASILICON 3VIAS FR 18",
+    stock: "20.00",
+    pvp: "8.08",
+    pvp bs: "Bs.205.65",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "649",
+    marca: "",
+    nombre: "STREPTUKINASE 1500 U AMPOLLA",
+    stock: "9.00",
+    pvp: "97.50",
+    pvp bs: "Bs.2,480.45",
+    vencimiento: "30/09/2024"
+  },
+  {
+    id: "650",
+    marca: "ROTEX MEDICA",
+    nombre: "SUCCINILCOLINA AMP.",
+    stock: "10.00",
+    pvp: "15.10",
+    pvp bs: "Bs.384.16",
+    vencimiento: "01/03/2024"
+  },
+  {
+    id: "651",
+    marca: "FARDEL",
+    nombre: "SUCRADEL 1GR SOBRE X 10",
+    stock: "1.00",
+    pvp: "8.55",
+    pvp bs: "Bs.217.52",
+    vencimiento: "01/07/2027"
+  },
+  {
+    id: "652",
+    marca: "CLEOPHARMA",
+    nombre: "SUCRALFATO 1GR CAJA X 10TAB",
+    stock: "2.00",
+    pvp: "7.25",
+    pvp bs: "Bs.184.45",
+    vencimiento: "30/05/2025"
+  },
+  {
+    id: "653",
+    marca: "BRIXMEDIC",
+    nombre: "SULFADIAZINA DE PLATA 1% 500GR CREMA",
+    stock: "2.00",
+    pvp: "31.00",
+    pvp bs: "Bs.788.66",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "654",
+    marca: "COASPHARMA",
+    nombre: "SULFADIAZINA DE PLATA 1% CREMA",
+    stock: "4.00",
+    pvp: "3.75",
+    pvp bs: "Bs.95.41",
+    vencimiento: "01/11/2023"
+  },
+  {
+    id: "655",
+    marca: "VITALIS",
+    nombre: "SULFAMETOXAZOL + TRIMETOPRIM 400+80MG/5ML",
+    stock: "58.00",
+    pvp: "3.38",
+    pvp bs: "Bs.86.08",
+    vencimiento: "29/02/2024"
+  },
+  {
+    id: "656",
+    marca: "ROSSOPH",
+    nombre: "SULFATO DE MAGNESIO AMP. 1GR/10ML",
+    stock: "30.00",
+    pvp: "2.70",
+    pvp bs: "Bs.68.74",
+    vencimiento: "30/04/2026"
+  },
+  {
+    id: "657",
+    marca: "ABBIE",
+    nombre: "SURVANTA AMPOLLA 25MG/ML",
+    stock: "2.00",
+    pvp: "678.68",
+    pvp bs: "Bs.17,265.63",
+    vencimiento: "30/10/2023"
+  },
+  {
+    id: "658",
+    marca: "KAREMAX",
+    nombre: "SUTURA CATGUT SIMPLE 2-0 843",
+    stock: "12.00",
+    pvp: "1.18",
+    pvp bs: "Bs.30.11",
+    vencimiento: "28/06/2027"
+  },
+  {
+    id: "659",
+    marca: "KAREMAX",
+    nombre: "SUTURA CROMICO 3-0 CT1 810",
+    stock: "12.00",
+    pvp: "1.55",
+    pvp bs: "Bs.39.44",
+    vencimiento: "26/02/2027"
+  },
+  {
+    id: "660",
+    marca: "KAREMAX",
+    nombre: "SUTURA CROMICO 3-0 SH G 122",
+    stock: "12.00",
+    pvp: "1.33",
+    pvp bs: "Bs.33.93",
+    vencimiento: "26/02/2027"
+  },
+  {
+    id: "661",
+    marca: "KAREMAX",
+    nombre: "SUTURA CROMICO CT1 811",
+    stock: "7.00",
+    pvp: "1.55",
+    pvp bs: "Bs.39.44",
+    vencimiento: "28/06/2027"
+  },
+  {
+    id: "662",
+    marca: "KAREMAX",
+    nombre: "SUTURA CROMICO SH G123",
+    stock: "12.00",
+    pvp: "1.33",
+    pvp bs: "Bs.33.93",
+    vencimiento: "30/12/2026"
+  },
+  {
+    id: "663",
+    marca: "KAREMAX",
+    nombre: "SUTURA DOS 4-0 Z496",
+    stock: "12.00",
+    pvp: "4.63",
+    pvp bs: "Bs.117.88",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "664",
+    marca: "KAREMAX",
+    nombre: "SUTURA MONOCRYL 4-0PS2 Y-426",
+    stock: "12.00",
+    pvp: "3.37",
+    pvp bs: "Bs.85.65",
+    vencimiento: "30/11/2023"
+  },
+  {
+    id: "665",
+    marca: "KAREMAX",
+    nombre: "SUTURA NYLON 2-0 KS/AC 628",
+    stock: "34.00",
+    pvp: "1.18",
+    pvp bs: "Bs.30.11",
+    vencimiento: "28/06/2027"
+  },
+  {
+    id: "666",
+    marca: "KAREMAX",
+    nombre: "SUTURA NYLON 2-0 SC 26 164T",
+    stock: "21.00",
+    pvp: "1.05",
+    pvp bs: "Bs.26.72",
+    vencimiento: "28/06/2027"
+  },
+  {
+    id: "667",
+    marca: "KAREMAX",
+    nombre: "SUTURA NYLON 3-0 627",
+    stock: "24.00",
+    pvp: "1.18",
+    pvp bs: "Bs.30.11",
+    vencimiento: "28/06/2027"
+  },
+  {
+    id: "668",
+    marca: "KAREMAX",
+    nombre: "SUTURA NYLON 3-0 SC 24 163",
+    stock: "48.00",
+    pvp: "1.05",
+    pvp bs: "Bs.26.72",
+    vencimiento: "28/06/2027"
+  },
+  {
+    id: "669",
+    marca: "KAREMAX",
+    nombre: "SUTURA NYLON 4-0 SC -20 14502",
+    stock: "24.00",
+    pvp: "1.05",
+    pvp bs: "Bs.26.72",
+    vencimiento: "28/06/2027"
+  },
+  {
+    id: "670",
+    marca: "KAREMAX",
+    nombre: "SUTURA PROLENE 1-0 8425",
+    stock: "36.00",
+    pvp: "0.90",
+    pvp bs: "Bs.22.90",
+    vencimiento: "30/09/2026"
+  },
+  {
+    id: "671",
+    marca: "KAREMAX",
+    nombre: "SUTURA PROLENE 2-0 8623",
+    stock: "24.00",
+    pvp: "0.92",
+    pvp bs: "Bs.23.32",
+    vencimiento: "28/06/2027"
+  },
+  {
+    id: "672",
+    marca: "KAREMAX",
+    nombre: "SUTURA PROLENE 2-0 SC 26 8185",
+    stock: "24.00",
+    pvp: "0.92",
+    pvp bs: "Bs.23.32",
+    vencimiento: "28/06/2027"
+  },
+  {
+    id: "673",
+    marca: "KAREMAX",
+    nombre: "SUTURA SEDA 1 SA87",
+    stock: "6.00",
+    pvp: "2.03",
+    pvp bs: "Bs.51.73",
+    vencimiento: "26/02/2027"
+  },
+  {
+    id: "674",
+    marca: "KAREMAX",
+    nombre: "SUTURA SEDA 2 SA85",
+    stock: "12.00",
+    pvp: "2.03",
+    pvp bs: "Bs.51.73",
+    vencimiento: "26/02/2027"
+  },
+  {
+    id: "675",
+    marca: "KAREMAX",
+    nombre: "SUTURA VICRYL 0 J340",
+    stock: "24.00",
+    pvp: "2.17",
+    pvp bs: "Bs.55.12",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "676",
+    marca: "KAREMAX",
+    nombre: "SUTURA VICRYL 1 CT 1 341",
+    stock: "1.00",
+    pvp: "2.73",
+    pvp bs: "Bs.69.54",
+    vencimiento: "30/08/2025"
+  },
+  {
+    id: "677",
+    marca: "KAREMAX",
+    nombre: "SUTURA VICRYL 2-0 J317",
+    stock: "10.00",
+    pvp: "2.17",
+    pvp bs: "Bs.55.12",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "678",
+    marca: "KAREMAX",
+    nombre: "SUTURA VICRYL 3-0 J316",
+    stock: "11.00",
+    pvp: "2.17",
+    pvp bs: "Bs.55.12",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "679",
+    marca: "KAREMAX",
+    nombre: "SUTURA VICRYL RAPID 3-0 9923",
+    stock: "48.00",
+    pvp: "2.75",
+    pvp bs: "Bs.69.97",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "680",
+    marca: "KAREMAX",
+    nombre: "SUTURA VICRYL SH 4-0 J315",
+    stock: "12.00",
+    pvp: "2.17",
+    pvp bs: "Bs.55.12",
+    vencimiento: "30/06/2025"
+  },
+  {
+    id: "681",
+    marca: "KAREMAX",
+    nombre: "SUTURA VICYRL RAPID 4-0 W9922",
+    stock: "12.00",
+    pvp: "2.75",
+    pvp bs: "Bs.69.97",
+    vencimiento: "26/02/2025"
+  },
+  {
+    id: "682",
+    marca: "BRIXMEDIC",
+    nombre: "TADABRIX (TADALAFILO)20MG X 4 TABLETAS",
+    stock: "8.00",
+    pvp: "0.58",
+    pvp bs: "Bs.14.76",
+    vencimiento: "01/05/2024"
+  },
+  {
+    id: "683",
+    marca: "BRIXMEDIC",
+    nombre: "TAMSULOSINA 0,4MG X 10TAB",
+    stock: "34.00",
+    pvp: "1.02",
+    pvp bs: "Bs.25.87",
+    vencimiento: "01/06/2024"
+  },
+  {
+    id: "684",
+    marca: "DYNALAB",
+    nombre: "TAMSULOSINA 0,4MG X 30 TAB",
+    stock: "11.00",
+    pvp: "2.77",
+    pvp bs: "Bs.70.39",
+    vencimiento: "01/06/2023"
+  },
+  {
+    id: "685",
+    marca: "DYNALAB",
+    nombre: "TELMISARTAN 40MG X CAJA 30 TABLETA",
+    stock: "7.00",
+    pvp: "4.10",
+    pvp bs: "Bs.104.31",
+    vencimiento: "20/05/2023"
+  },
+  {
+    id: "686",
+    marca: "DYNALAB",
+    nombre: "TELMISARTAN 80MG CAJA X 30 TABLETA",
+    stock: "7.00",
+    pvp: "8.18",
+    pvp bs: "Bs.208.19",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "687",
+    marca: "ZAKI",
+    nombre: "TIBOZAK 2,5MG CAJA X 28TAB",
+    stock: "37.00",
+    pvp: "11.67",
+    pvp bs: "Bs.296.81",
+    vencimiento: "30/12/2024"
+  },
+  {
+    id: "688",
+    marca: "KWALITY",
+    nombre: "TIGECICLINA 50MG AMPOLLA",
+    stock: "30.00",
+    pvp: "26.00",
+    pvp bs: "Bs.661.46",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "689",
+    marca: "BRIXMEDIC",
+    nombre: "TINIDAZOL 500MG TAB X 10 TAB",
+    stock: "36.00",
+    pvp: "1.67",
+    pvp bs: "Bs.42.40",
+    vencimiento: "01/03/2024"
+  },
+  {
+    id: "690",
+    marca: "DELTA",
+    nombre: "TOXOIDE TETANICO",
+    stock: "3.00",
+    pvp: "9.17",
+    pvp bs: "Bs.233.21",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "691",
+    marca: "VITALIS",
+    nombre: "TRAMADOL 100MG/2ML",
+    stock: "50.00",
+    pvp: "2.10",
+    pvp bs: "Bs.53.43",
+    vencimiento: "30/08/2024"
+  },
+  {
+    id: "692",
+    marca: "BIOSANO",
+    nombre: "TRAMADOL CLORHIDRATO 100MG/2ML AMP",
+    stock: "80.00",
+    pvp: "2.10",
+    pvp bs: "Bs.53.43",
+    vencimiento: "30/09/2025"
+  },
+  {
+    id: "693",
+    marca: "BIOSANO",
+    nombre: "TRAMADOL CLORHIDRATO 100MG/2ML AMP",
+    stock: "190.00",
+    pvp: "2.10",
+    pvp bs: "Bs.53.43",
+    vencimiento: "30/09/2025"
+  },
+  {
+    id: "694",
+    marca: "DYNAMICS",
+    nombre: "TRAMPA DE LUKENS 14FR",
+    stock: "12.00",
+    pvp: "3.02",
+    pvp bs: "Bs.76.75",
+    vencimiento: "15/03/2025"
+  },
+  {
+    id: "695",
+    marca: "INSUMEDICAL",
+    nombre: "TRAQUEOTOMO 6.5MM",
+    stock: "2.00",
+    pvp: "12.45",
+    pvp bs: "Bs.316.74",
+    vencimiento: "30/06/2023"
+  },
+  {
+    id: "696",
+    marca: "INSUMEDICAL",
+    nombre: "TRAQUEOTOMO 6MM",
+    stock: "1.00",
+    pvp: "12.45",
+    pvp bs: "Bs.316.74",
+    vencimiento: "30/06/2023"
+  },
+  {
+    id: "697",
+    marca: "FORSURE",
+    nombre: "TRAQUEOTOMO 7MM",
+    stock: "1.00",
+    pvp: "12.45",
+    pvp bs: "Bs.316.74",
+    vencimiento: "30/06/2023"
+  },
+  {
+    id: "698",
+    marca: "BEHERENS",
+    nombre: "TRAZEL 10ML AMPOLLA",
+    stock: "49.00",
+    pvp: "8.17",
+    pvp bs: "Bs.207.77",
+    vencimiento: "30/11/2024"
+  },
+  {
+    id: "699",
+    marca: "NORTHSTAR",
+    nombre: "TRIANCINOLONA 40MG AMPOLLA",
+    stock: "20.00",
+    pvp: "5.94",
+    pvp bs: "Bs.151.02",
+    vencimiento: "30/01/2025"
+  },
+  {
+    id: "700",
+    marca: "",
+    nombre: "TRIFLOW II",
+    stock: "19.00",
+    pvp: "8.12",
+    pvp bs: "Bs.206.50",
+    vencimiento: "30/11/2026"
+  },
+  {
+    id: "701",
+    marca: "COASPHARMA",
+    nombre: "TRIMEBUTINA 200MG X BLISTER 10 TAB",
+    stock: "10.00",
+    pvp: "4.12",
+    pvp bs: "Bs.104.73",
+    vencimiento: "01/10/2023"
+  },
+  {
+    id: "702",
+    marca: "ADN MEDICAL",
+    nombre: "TRIMEBUTINA 50MG/5ML AMPOLLA",
+    stock: "3.00",
+    pvp: "5.10",
+    pvp bs: "Bs.129.75",
+    vencimiento: "31/03/2024"
+  },
+  {
+    id: "703",
+    marca: "BRIXMEDIC",
+    nombre: "TRIMETOPRIM 160MG/800MG BLISTER X 10TAB",
+    stock: "13.00",
+    pvp: "1.55",
+    pvp bs: "Bs.39.44",
+    vencimiento: "30/08/2023"
+  },
+  {
+    id: "704",
+    marca: "BRIXMEDIC",
+    nombre: "TRIMETOPRIM 160MG/800MG BLISTER X 10TAB",
+    stock: "30.00",
+    pvp: "1.55",
+    pvp bs: "Bs.39.44",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "705",
+    marca: "ZAKI",
+    nombre: "TRIMETOPRIMA / SULFAMETOXAZOL 80/400MG CAJA X 10TAB",
+    stock: "17.00",
+    pvp: "3.18",
+    pvp bs: "Bs.80.99",
+    vencimiento: "30/08/2023"
+  },
+  {
+    id: "706",
+    marca: "PRONTO MEDICA",
+    nombre: "TUBO DE EXTENSION K50",
+    stock: "4.00",
+    pvp: "0.47",
+    pvp bs: "Bs.11.88",
+    vencimiento: "30/05/2023"
+  },
+  {
+    id: "707",
+    marca: "DYNAMICS",
+    nombre: "TUBO ENDOTRAQUEAL 7MM",
+    stock: "9.00",
+    pvp: "2.20",
+    pvp bs: "Bs.55.97",
+    vencimiento: "10/04/2025"
+  },
+  {
+    id: "708",
+    marca: "FORSURE",
+    nombre: "TUBO ENDOTRAQUEAL 9MM",
+    stock: "5.00",
+    pvp: "2.20",
+    pvp bs: "Bs.55.97",
+    vencimiento: "30/05/2026"
+  },
+  {
+    id: "709",
+    marca: "SOLUMEDS",
+    nombre: "TUBO RECOLECCION DE SANGRE TAPA AZUL",
+    stock: "9.00",
+    pvp: "10.90",
+    pvp bs: "Bs.277.31",
+    vencimiento: "01/09/2026"
+  },
+  {
+    id: "710",
+    marca: "SOLUMEDS",
+    nombre: "TUBO RECOLECCION DE SANGRE TAPA ROJA",
+    stock: "9.00",
+    pvp: "16.90",
+    pvp bs: "Bs.429.88",
+    vencimiento: "30/04/2026"
+  },
+  {
+    id: "711",
+    marca: "SOLUMEDS",
+    nombre: "TUBO RECOLECCION DE SANGRE TAPA ROJA",
+    stock: "15.00",
+    pvp: "13.53",
+    pvp bs: "Bs.344.30",
+    vencimiento: "30/09/2027"
+  },
+  {
+    id: "712",
+    marca: "BAYER",
+    nombre: "ULTRAVIST 300MGI/ML   (IOPROMIDA) FRASCO AMPOLLAS",
+    stock: "10.00",
+    pvp: "76.67",
+    pvp bs: "Bs.1,950.44",
+    vencimiento: "26/02/2026"
+  },
+  {
+    id: "713",
+    marca: "BRIXMEDIC",
+    nombre: "VALSARTAN 160 MG BLISTER X 10 TAB",
+    stock: "34.00",
+    pvp: "5.30",
+    pvp bs: "Bs.134.84",
+    vencimiento: "01/06/2024"
+  },
+  {
+    id: "714",
+    marca: "BRIXMEDIC",
+    nombre: "VALSARTAN 80MG BLISTER X 10 TAB",
+    stock: "37.00",
+    pvp: "3.12",
+    pvp bs: "Bs.79.29",
+    vencimiento: "01/06/2024"
+  },
+  {
+    id: "715",
+    marca: "RX ONLY",
+    nombre: "VANCOMICINA 1GR",
+    stock: "4.00",
+    pvp: "2.68",
+    pvp bs: "Bs.68.27",
+    vencimiento: "30/01/2025"
+  },
+  {
+    id: "716",
+    marca: "DYNALAB",
+    nombre: "VANCOMICINA 500MG  IV",
+    stock: "11.00",
+    pvp: "2.32",
+    pvp bs: "Bs.58.94",
+    vencimiento: "30/04/2024"
+  },
+  {
+    id: "717",
+    marca: "MEDIS",
+    nombre: "VANCOMICINA 500MG AMPOLLA",
+    stock: "9.00",
+    pvp: "2.32",
+    pvp bs: "Bs.58.94",
+    vencimiento: "30/06/2024"
+  },
+  {
+    id: "718",
+    marca: "DYNALAB",
+    nombre: "VANCOMICINA 500MG AMPOLLA",
+    stock: "10.00",
+    pvp: "4.12",
+    pvp bs: "Bs.104.73",
+    vencimiento: "27/04/2024"
+  },
+  {
+    id: "719",
+    marca: "VITALIS",
+    nombre: "VANCOMICINA 500MG IV",
+    stock: "190.00",
+    pvp: "2.68",
+    pvp bs: "Bs.68.27",
+    vencimiento: "31/08/2024"
+  },
+  {
+    id: "720",
+    marca: "GAVENTEX",
+    nombre: "VENDA ELASTICA 10X10CMS",
+    stock: "2.00",
+    pvp: "1.62",
+    pvp bs: "Bs.41.13",
+    vencimiento: "30/05/2026"
+  },
+  {
+    id: "721",
+    marca: "GEVENTEX",
+    nombre: "VENDA ELASTICA 15CM",
+    stock: "45.00",
+    pvp: "1.78",
+    pvp bs: "Bs.45.37",
+    vencimiento: "30/05/2026"
+  },
+  {
+    id: "722",
+    marca: "LEROY",
+    nombre: "VENDA ELASTICA 15CM X 5CMS",
+    stock: "100.00",
+    pvp: "2.15",
+    pvp bs: "Bs.54.70",
+    vencimiento: "26/09/2026"
+  },
+  {
+    id: "723",
+    marca: "SUPER VEND",
+    nombre: "VENDA ELASTICA 20CM",
+    stock: "7.00",
+    pvp: "2.63",
+    pvp bs: "Bs.67.00",
+    vencimiento: "30/05/2024"
+  },
+  {
+    id: "724",
+    marca: "CRDINAHEALTH",
+    nombre: "VENDA QUEMADOS KERLY",
+    stock: "237.00",
+    pvp: "2.02",
+    pvp bs: "Bs.51.31",
+    vencimiento: "30/03/2024"
+  },
+  {
+    id: "725",
+    marca: "DELTA DRY",
+    nombre: "VENDA TUBULAR HIDRO DELTA DRY 5CM",
+    stock: "2.00",
+    pvp: "7.50",
+    pvp bs: "Bs.190.81",
+    vencimiento: "30/01/2026"
+  },
+  {
+    id: "726",
+    marca: "BIOSANO",
+    nombre: "VITAMINA  B1 B6 B12 AMPOLLA",
+    stock: "100.00",
+    pvp: "0.52",
+    pvp bs: "Bs.13.20",
+    vencimiento: "30/09/2023"
+  },
+  {
+    id: "727",
+    marca: "FORSURE",
+    nombre: "YANKAUER 10\"TUBE,
+    stock: "99.00",
+    pvp: "3.00",
+    pvp bs: "Bs.76.33",
+    vencimiento: "30/08/2025"
+  },
+  {
+    id: "728",
+    marca: "ORTOBAN",
+    nombre: "YESO ORTOBAN 10CMS",
+    stock: "14.00",
+    pvp: "3.30",
+    pvp bs: "Bs.83.96",
+    vencimiento: "27/04/2027"
+  },
+  {
+    id: "729",
+    marca: "ORTOBAN",
+    nombre: "YESO ORTOBAN 15CMS",
+    stock: "4.00",
+    pvp: "7.25",
+    pvp bs: "Bs.184.45",
+    vencimiento: "30/01/2027"
+  },
+  {
+    id: "730",
+    marca: "ORTOBAN",
+    nombre: "YESO ORTOBAN 20CMS",
+    stock: "1.00",
+    pvp: "6.57",
+    pvp bs: "Bs.167.06",
+    vencimiento: "30/01/2027"
+  },
+  {
+    id: ""
+  }
+]
